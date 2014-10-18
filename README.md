@@ -30,6 +30,7 @@
 ## Blogs
 
 * [WebComponents.org](http://webcomponents.org/) a place to discuss and evolve web component best-practices
+* [Polymer Blog](https://www.polymer-project.org/articles/) Articles core concepts of build apps on top of Polymer and web components
 
 
 ## Reading
