@@ -60,6 +60,7 @@
 * [Generator Polymer](https://github.com/yeoman/generator-polymer/) Yeoman generator for scaffolding Polymer apps
 * [Geneator X-Tag](https://github.com/x-tag/yo-x-tag-generator) X-Tag generator for Yeoman
 * [Generator Bosonic](https://github.com/bosonic/yeoman-bosonic) Yeoman Generator Bosonic
+* [Slush Element](https://github.com/webcomponents/slush-element) A Slush Generator that provides a functional boilerplate to easily create Custom Elements using Polymer, X-Tag or VanillaJS.
 
 
 ## Tests
