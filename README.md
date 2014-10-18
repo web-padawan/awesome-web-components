@@ -25,6 +25,20 @@
 * [HTML Imports](http://w3c.github.io/webcomponents/spec/imports/) - Spec of html imports
 * [Custom Elements](http://w3c.github.io/webcomponents/spec/custom/) - Spec Custom Elements is cherry on cake.
 
+
 ## Blogs
 
-* [a place to discuss and evolve web component best-practices](http://webcomponents.org/)
+* [WebComponents.org](http://webcomponents.org/) a place to discuss and evolve web component best-practices
+
+
+## Reading
+
+* [Introduction to the template elements](http://webcomponents.org/articles/introduction-to-template-element/) Templates allow teams to divide their work.
+* [Polymer vs. X-Tag](http://pascalprecht.github.io/2014/07/21/polymer-vs-x-tag-here-is-the-difference/) Polymer vs. X-Tag - Here's the difference
+* [Ten Principles for Great General Purpose Web Components](https://github.com/basic-web-components/components-dev/wiki/Ten-Principles-for-Great-General-Purpose-Web-Components) This page lays out a set of principles for creating general-purpose web components that can be readily adopted in a wide range of sites and application.
+* [Introduction To Custom Elements](http://www.smashingmagazine.com/2014/03/04/introduction-to-custom-elements/) A Detailed Introduction To Custom Elements
+* [Accessibility and the Shadow DOM](http://substantial.com/blog/2014/02/05/accessibility-and-the-shadow-dom/) A lesson on rendering trees, emerging technologies and tacos
+* [Modular future Web Components](http://css-tricks.com/modular-future-web-components/) A Guide to Web Components
+* [Polymer vs Angular](http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/) Here’s the difference between Polymer and Angular
+
+
