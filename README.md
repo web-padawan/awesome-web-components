@@ -6,6 +6,7 @@
   - [Specs](#specifications)
   - [Blogs](#blogs)
   - [Reading](#reading)
+  - [Interop](#interoperability)
   - [Generators](#generators)
   - [Tests](#tests)
   - [Discover](#discover)
@@ -41,4 +42,11 @@
 * [Modular future Web Components](http://css-tricks.com/modular-future-web-components/) A Guide to Web Components
 * [Polymer vs Angular](http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/) Here’s the difference between Polymer and Angular
 
+
+## Interoperability
+
+* [React and Custom Elements](http://addyosmani.com/blog/component-interop-with-react-and-custom-elements) Component Interop with React and Custom Elements
+* [Interop Sass](https://github.com/webcomponents/sass-interop) A demo of interoperability between Sass and Polymer.
+* [Interop Less](https://github.com/webcomponents/less-interop) A demo of interoperability between Less and Polymer.
+* [Interop Angular](https://github.com/webcomponents/angular-interop) A demo of interoperability between Polymer and AngularJs.
 
