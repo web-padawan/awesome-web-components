@@ -14,7 +14,7 @@
   - [Style Guides](#style-guides)
   - [Perfomance](#performance)
   - [Libraries](#libraries)
-  - [Screencast](#screencast)
+  - [Screencasts](#screencasts)
   - [Suport](#support)
   - [Tools](#tools)
 
@@ -91,7 +91,7 @@
 
 ## Performance 
 
-* [High Performance Web Components](https://www.youtube.com/watch?v=m3EPIeKaDCU)HTML5DevConf May 2014: Steve Souders, Fastly : High Performance Web Components
+* [High Performance Web Components](https://www.youtube.com/watch?v=m3EPIeKaDCU) HTML5DevConf May 2014: Steve Souders, Fastly : High Performance Web Components
 
 
 ## Libraries
@@ -101,3 +101,11 @@
 * [Bosonic](http://bosonic.github.io/) Bosonic is a set of tools that enable you to build Web Components as the spec currently describes, and supporting not-so-modern browsers like IE9.
 * [Polymer Dart](https://www.dartlang.org/polymer/) Polymer.dart is a Dart port of Polymer. Build Web Components with Dart, and interoperate with Web Components built with JavaScript.
 
+
+## Screencasts
+
+* [Setting up Bower and Polymer](https://www.youtube.com/watch?v=WX6Hbi-xSUI) I wanted to show how easy it is to get Bower and Polymer setup.
+* [YOLOmer! Polymer and Yeoman for lighting fast dev](https://www.youtube.com/watch?v=INH_OW4lFSs) 'Allo! Rob Dodson here, your host on this tour of the new Polymer generator for Yeoman.
+* [Introducing the Polymer Designer tool](https://www.youtube.com/watch?v=djQh8XKRzRg) We're really excited to show off our new Designer tool, which makes building prototypes with Polymer super easy. In this video I'll walk you through the basics of creating a simple maps app, and along the way we'll touch on some of the interesting features that Designer brings to the table.
+* [Ferramenta Polymer Designer PT-br](https://www.youtube.com/watch?v=yKR3VO0NF3Y&list=UU5f2WvUyrAkoktfiIuu7a-A) Introdução sobre Polymer Tools Designer ferramenta de prototype de web components.
+* [Configurando Bower e Polymer PT-br](https://www.youtube.com/watch?v=owT5n9jlzVI&list=UU5f2WvUyrAkoktfiIuu7a-A) mostrando como é fácil começar a instalação do Bower e do Polymer
