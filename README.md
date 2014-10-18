@@ -73,3 +73,12 @@
 * [Components Kitchen](http://component.kitchen/) The best ingredients for your web apps
 * [Custom Elements](http://customelements.io/) a web components gallery for modern web apps
 * [Polymer Tools Designer](https://www.polymer-project.org/tools/designer/) Designer is a drag and drop tool for prototyping apps using Polymer. Save your experiments as Github gists.
+
+
+## Best Practices
+
+* [Web Components best practices](http://webcomponents.org/articles/web-components-best-practices/) Web Components (WC) are a new set of web platform features that enable developers to build applications in a declarative, composable way. 
+* [How should I name my element?](http://webcomponents.org/articles/how-should-i-name-my-element/) Naming is always a challenging task when developing a component. We can create truly complex pieces of code but we still have a hard time to name a simple variable.
+* [WEB COMPONENTS AND YOU – DANGERS TO AVOID](http://christianheilmann.com/2014/04/18/web-components-and-you-dangers-to-avoid/) Web Components are a hot topic now. Creating widgets on the web that are part of the browser’s rendering flow is amazing. 
+* [Melhores Práticas Web Components PT-br](http://tableless.com.br/melhores-praticas-web-components/) Conheça práticas simples que podem ajudar na organização do seu web component.
+* [The Web’s Declarative, Composable Future](http://addyosmani.com/blog/the-webs-declarative-composable-future/) This year, the platform is getting Web Components, bringing forward a way to make the relationships between markup and behaviour a lot less vague when you’re looking at the HTML.
