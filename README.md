@@ -50,3 +50,10 @@
 * [Interop Less](https://github.com/webcomponents/less-interop) A demo of interoperability between Less and Polymer.
 * [Interop Angular](https://github.com/webcomponents/angular-interop) A demo of interoperability between Polymer and AngularJs.
 
+
+## Generators
+
+* [Generator Elements](https://github.com/webcomponents/generator-element) A Yeoman Generator that provides a functional boilerplate to easily create Custom Elements using Polymer, X-Tag or VanillaJS.
+* [Generator Polymer](https://github.com/yeoman/generator-polymer/) Yeoman generator for scaffolding Polymer apps
+* [Geneator X-Tag](https://github.com/x-tag/yo-x-tag-generator) X-Tag generator for Yeoman
+* [Generator Bosonic](https://github.com/bosonic/yeoman-bosonic) Yeoman Generator Bosonic
