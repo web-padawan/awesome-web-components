@@ -83,6 +83,12 @@
 * [Melhores Práticas Web Components PT-br](http://tableless.com.br/melhores-praticas-web-components/) Conheça práticas simples que podem ajudar na organização do seu web component.
 * [The Web’s Declarative, Composable Future](http://addyosmani.com/blog/the-webs-declarative-composable-future/) This year, the platform is getting Web Components, bringing forward a way to make the relationships between markup and behaviour a lot less vague when you’re looking at the HTML.
 
-## Styles Guides
+
+## Style Guides
 
 * [Google Web Components Style Guide](https://github.com/GoogleWebComponents/style-guide) This guide serves as an extension to the Google JavaScript Style Guide with additional style guidance around authoring Web Components, particuarly those in this element collection. It is targeted at Google engineers, but may be useful for others too.
+
+
+## Performance 
+
+* [High Performance Web Components](https://www.youtube.com/watch?v=m3EPIeKaDCU)HTML5DevConf May 2014: Steve Souders, Fastly : High Performance Web Components
