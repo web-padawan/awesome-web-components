@@ -26,6 +26,7 @@
 * [Web Components](http://w3c.github.io/webcomponents/explainer/) - This document is a non-normative reference, which provides an overview of Web Components.
 * [Shadow Dom](http://w3c.github.io/webcomponents/spec/shadow/) - Spec of Shadow Dom
 * [HTML Imports](http://w3c.github.io/webcomponents/spec/imports/) - Spec of html imports
+* [Template](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element) Spec of Template
 * [Custom Elements](http://w3c.github.io/webcomponents/spec/custom/) - Spec Custom Elements is cherry on cake.
 
 
