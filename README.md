@@ -65,3 +65,11 @@
 * [Seed-Element](https://github.com/polymerlabs/seed-element) Polymer element boilerplate Tests
 * [Web Component Tester](https://github.com/Polymer/web-component-tester) web-component-tester makes testing your web components a breeze!
 
+
+## Discover
+
+* [Bower search](http://bower.io/search/?q=web-components) Bower search Web Components
+* [Built Polymer](http://builtwithpolymer.org/) Built with Polymer
+* [Components Kitchen](http://component.kitchen/) The best ingredients for your web apps
+* [Custom Elements](http://customelements.io/) a web components gallery for modern web apps
+* [Polymer Tools Designer](https://www.polymer-project.org/tools/designer/) Designer is a drag and drop tool for prototyping apps using Polymer. Save your experiments as Github gists.
