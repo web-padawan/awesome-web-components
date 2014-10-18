@@ -57,3 +57,10 @@
 * [Generator Polymer](https://github.com/yeoman/generator-polymer/) Yeoman generator for scaffolding Polymer apps
 * [Geneator X-Tag](https://github.com/x-tag/yo-x-tag-generator) X-Tag generator for Yeoman
 * [Generator Bosonic](https://github.com/bosonic/yeoman-bosonic) Yeoman Generator Bosonic
+
+
+## Tests
+
+* [Seed-Element](https://github.com/polymerlabs/seed-element) Polymer element boilerplate Tests
+* [Web Component Tester](https://github.com/Polymer/web-component-tester) web-component-tester makes testing your web components a breeze!
+
