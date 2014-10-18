@@ -16,7 +16,8 @@
   - [Libraries](#libraries)
   - [Screencasts](#screencasts)
   - [Suport](#support)
-  - [Concatenating](#Concatenate)
+  - [Concatenating](#concatenate)
+  - [Boilerplates](#boilerplates)
   - [Tools](#tools)
 
 
@@ -120,3 +121,10 @@
 ## Concatenate
 
 * [Vulcanize](https://github.com/polymer/vulcanize) Concatenate a set of Web Components into one file
+
+
+## Boilerplates
+
+* [Polymer Boilerplate](https://github.com/webcomponents/polymer-boilerplate) A bare minimum custom element starter-kit using Polymer.
+* [X-Tag Boilerplate](https://github.com/webcomponents/x-tag-boilerplate) A bare minimum custom element starter-kit using X-Tag.
+* [VanillaJS Boilerplate](https://github.com/webcomponents/element-boilerplate) A bare minimum custom element starter-kit using VanillaJS.
