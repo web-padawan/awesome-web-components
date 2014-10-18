@@ -16,6 +16,7 @@
   - [Libraries](#libraries)
   - [Screencasts](#screencasts)
   - [Suport](#support)
+  - [Concatenating](#Concatenate)
   - [Tools](#tools)
 
 
@@ -114,3 +115,8 @@
 ## Support
 
 * [Are We Componentized Yet?](http://jonrimmer.github.io/are-we-componentized-yet/) Tracking the progress of Web Components through standardisation, polyfillification, and implementation.
+
+
+## Concatenate
+
+* [Vulcanize](https://github.com/polymer/vulcanize) Concatenate a set of Web Components into one file
