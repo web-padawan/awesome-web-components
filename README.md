@@ -53,6 +53,7 @@
 * [Interop Sass](https://github.com/webcomponents/sass-interop) A demo of interoperability between Sass and Polymer.
 * [Interop Less](https://github.com/webcomponents/less-interop) A demo of interoperability between Less and Polymer.
 * [Interop Angular](https://github.com/webcomponents/angular-interop) A demo of interoperability between Polymer and AngularJs.
+* [Custom Element Interoperability](https://www.polymer-project.org/articles/polymer-xtag-vanilla.html) Using Polymer, X-Tag, and Vanilla Custom Elements
 
 
 ## Generators
