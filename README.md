@@ -13,7 +13,7 @@
   - [Best Practices](#best-practices)
   - [Style Guides](#style-guides)
   - [Perfomance](#performance)
-  - [Frameworks](#frameworks)
+  - [Libraries](#libraries)
   - [Screencast](#screencast)
   - [Suport](#support)
   - [Tools](#tools)
@@ -92,3 +92,12 @@
 ## Performance 
 
 * [High Performance Web Components](https://www.youtube.com/watch?v=m3EPIeKaDCU)HTML5DevConf May 2014: Steve Souders, Fastly : High Performance Web Components
+
+
+## Libraries
+
+* [Polymer](https://www.polymer-project.org/) Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.
+* [X-Tag](http://x-tags.org/) X-Tag is a small JavaScript library, created and supported by Mozilla, that brings Web Components Custom Element capabilities to all modern browsers.
+* [Bosonic](http://bosonic.github.io/) Bosonic is a set of tools that enable you to build Web Components as the spec currently describes, and supporting not-so-modern browsers like IE9.
+* [Polymer Dart](https://www.dartlang.org/polymer/) Polymer.dart is a Dart port of Polymer. Build Web Components with Dart, and interoperate with Web Components built with JavaScript.
+
