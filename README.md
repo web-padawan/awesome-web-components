@@ -109,3 +109,8 @@
 * [Introducing the Polymer Designer tool](https://www.youtube.com/watch?v=djQh8XKRzRg) We're really excited to show off our new Designer tool, which makes building prototypes with Polymer super easy. In this video I'll walk you through the basics of creating a simple maps app, and along the way we'll touch on some of the interesting features that Designer brings to the table.
 * [Ferramenta Polymer Designer PT-br](https://www.youtube.com/watch?v=yKR3VO0NF3Y&list=UU5f2WvUyrAkoktfiIuu7a-A) Introdução sobre Polymer Tools Designer ferramenta de prototype de web components.
 * [Configurando Bower e Polymer PT-br](https://www.youtube.com/watch?v=owT5n9jlzVI&list=UU5f2WvUyrAkoktfiIuu7a-A) mostrando como é fácil começar a instalação do Bower e do Polymer
+
+
+## Support
+
+* [Are We Componentized Yet?](http://jonrimmer.github.io/are-we-componentized-yet/) Tracking the progress of Web Components through standardisation, polyfillification, and implementation.
