@@ -5,6 +5,7 @@
 - [Web Components the Right Way]()
   - [Specs](#specifications)
   - [Blogs](#blogs)
+  - [Reading](#reading)
   - [Generators](#generators)
   - [Tests](#tests)
   - [Discover](#discover)
@@ -13,7 +14,6 @@
   - [Perfomance](#performance)
   - [Frameworks](#frameworks)
   - [Screencast](#screencast)
-  - [Reading](#Reading)
   - [Suport](#support)
   - [Tools](#tools)
 
@@ -24,3 +24,7 @@
 * [Shadow Dom](http://w3c.github.io/webcomponents/spec/shadow/) - Spec of Shadow Dom
 * [HTML Imports](http://w3c.github.io/webcomponents/spec/imports/) - Spec of html imports
 * [Custom Elements](http://w3c.github.io/webcomponents/spec/custom/) - Spec Custom Elements is cherry on cake.
+
+## Blogs
+
+* [a place to discuss and evolve web component best-practices](http://webcomponents.org/)
