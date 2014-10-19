@@ -46,6 +46,7 @@
 * [Accessibility and the Shadow DOM](http://substantial.com/blog/2014/02/05/accessibility-and-the-shadow-dom/) A lesson on rendering trees, emerging technologies and tacos
 * [Modular future Web Components](http://css-tricks.com/modular-future-web-components/) A Guide to Web Components
 * [Polymer vs Angular](http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/) Here’s the difference between Polymer and Angular
+* [Building single page apps using web components](https://www.polymer-project.org/articles/spa.html) The Polymer approach to building single page applications
 
 
 ## Getting Started
