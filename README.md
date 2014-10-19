@@ -19,6 +19,7 @@
   - [Suport](#support)
   - [Concatenating](#concatenate)
   - [Boilerplates](#boilerplates)
+  - [Who to follow](#who-to-follow)
   - [Tools](#tools)
 
 
@@ -140,3 +141,10 @@
 * [Polymer Boilerplate](https://github.com/webcomponents/polymer-boilerplate) A bare minimum custom element starter-kit using Polymer.
 * [X-Tag Boilerplate](https://github.com/webcomponents/x-tag-boilerplate) A bare minimum custom element starter-kit using X-Tag.
 * [VanillaJS Boilerplate](https://github.com/webcomponents/element-boilerplate) A bare minimum custom element starter-kit using VanillaJS.
+
+
+## Who To Follow
+
+[![Eric Bidelman](https://2.gravatar.com/avatar/e7948aac7c52b26470be80311873a398)](https://twitter.com/ebidel) | [![Addy Osmani](https://2.gravatar.com/avatar/96270e4c3e5e9806cf7245475c00b275)](https://twitter.com/addyosmani) | [![Rob Dodson](https://2.gravatar.com/avatar/95c3a3b33ea51545229c625bef42e343)](https://twitter.com/rob_dodson) | [![Web Components](https://2.gravatar.com/avatar/cedf2a3fe1ccf53aa00f50dda79cedf3)](https://twitter.com/web_components) | [![Polymer](https://avatars0.githubusercontent.com/u/2159051?v=2&s=70)](https://twitter.com/polymer) | [![Alex Komoroske](https://lh5.googleusercontent.com/-WlbCSDZ9t5Y/AAAAAAAAAAI/AAAAAAAAC2M/A_HM2ovbT2o/s80-c/photo.jpg)](https://twitter.com/jkomoros) | [![Pascal Precht](https://2.gravatar.com/avatar/893fa34d2dc5cbfa327da6b0d96c93e1)](https://twitter.com/PascalPrecht) | [![Zeno Rocha](https://2.gravatar.com/avatar/e190023b66e2b8aa73a842b106920c93)](https://twitter.com/zenorocha) | [![Daniel Buchner](https://2.gravatar.com/avatar/35e22073952684192bb93702a947308c)](https://twitter.com/csuwildcat) | [![Angelina Fabbro](https://2.gravatar.com/avatar/25bb0913435212f30f2fec0eb6e60dde)](https://twitter.com/angelinamagnum) | [![Eduardo Lundgren](https://avatars0.githubusercontent.com/u/113087?v=2&s=80)](https://twitter.com/eduardolundgren) | [![Pascal Hartig](https://avatars0.githubusercontent.com/u/9906?v=2&s=80)](https://twitter.com/passy) | [![Sindre Sorhus](https://avatars1.githubusercontent.com/u/170270?v=2&s=80)](https://twitter.com/sindresorhus)
+--- | --- | --- | --- | --- | --- | ---
+[Eric Bidelman](https://twitter.com/ebidel) | [Addy Osmani](https://twitter.com/addyosmani) | [Rob Dodson](https://twitter.com/rob_dodson) | [Web Components](https://twitter.com/web_components) | [Polymer](https://twitter/polymer) | [Alex Komoroske](https://github.com/jkomoros) | [Pascal Precht](https://twitter.com/PascalPrecht) | [Zeno Rocha](https://twitter.com/zenorocha) | [Daniel Buchner](https://twitter.com/csuwildcat) | [Angelina Fabbro](https://twitter.com/angelinamagnum) | [Eduardo Lundgren](https://twitter.com/eduardolundgren) | [Pascal Hartig](https://twitter.com/angelinamagnum) | [Sindre Sorhus](https://twitter.com/sindresorhus)
