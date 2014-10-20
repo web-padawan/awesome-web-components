@@ -49,6 +49,7 @@
 * [Modular future Web Components](http://css-tricks.com/modular-future-web-components/) A Guide to Web Components
 * [Polymer vs Angular](http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/) Here’s the difference between Polymer and Angular
 * [Building single page apps using web components](https://www.polymer-project.org/articles/spa.html) The Polymer approach to building single page applications
+* [Web Components é uma Revolução? PT-br](http://www.akitaonrails.com/2014/07/06/web-components-e-uma-revolucao) Existe uma nova celebridade na cidade, e seu nome é "Web Components". Ultimamente muitos apresentam esta nova tecnologia como o 'Santo Graal' que vai resolver todos os problemas da Web. Este artigo não é um apoio incondicional, não é uma crítica negativa irrefutável, mas meramente uma apresentação de perspectivas com o objetivo de dar clareza.
 
 
 ## Getting Started
