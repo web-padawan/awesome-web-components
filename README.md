@@ -20,7 +20,6 @@
   - [Concatenating](#concatenate)
   - [Boilerplates](#boilerplates)
   - [Who to follow](#who-to-follow)
-  - [Tools](#tools)
 
 
 ## Specifications
