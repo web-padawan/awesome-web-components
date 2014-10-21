@@ -50,7 +50,7 @@
 * [Polymer vs Angular](http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/) Here’s the difference between Polymer and Angular
 * [Building single page apps using web components](https://www.polymer-project.org/articles/spa.html) The Polymer approach to building single page applications
 * [Web Components é uma Revolução? PT-br](http://www.akitaonrails.com/2014/07/06/web-components-e-uma-revolucao) Existe uma nova celebridade na cidade, e seu nome é "Web Components". Ultimamente muitos apresentam esta nova tecnologia como o 'Santo Graal' que vai resolver todos os problemas da Web. Este artigo não é um apoio incondicional, não é uma crítica negativa irrefutável, mas meramente uma apresentação de perspectivas com o objetivo de dar clareza.
-* [The State of the Componentised Web](http://www.leggetter.co.uk/2014/08/06/state-componentised-web.html)
+* [The State of the Componentised Web](http://www.leggetter.co.uk/2014/08/06/state-componentised-web.html) The idea of building applications out of a number of independent components isn’t anything new. But with Web Components is a good time to look at component-based application development, how we benefit from taking this approach, how we can build our applications in this way using existing technologies and how we’re likely to be building our front-end web apps in the future.
 
 
 ## Getting Started
