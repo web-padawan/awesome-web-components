@@ -22,6 +22,8 @@
   - [Who to follow](#who-to-follow)
 
 
+> Web Components the Right Way was made with love by [Mateus Ortiz](https://twitter.com/mteusortiz)
+
 ## Specifications
 
 * [Web Components](http://w3c.github.io/webcomponents/explainer/) - This document is a non-normative reference, which provides an overview of Web Components.
