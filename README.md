@@ -20,6 +20,7 @@
   - [Concatenating](#concatenate)
   - [Boilerplates](#boilerplates)
   - [Who to follow](#who-to-follow)
+  - [License](#license)
 
 
 > Web Components the Right Way was made with love by [Mateus Ortiz](https://twitter.com/mteusortiz)
@@ -54,7 +55,7 @@
 * [Web Components é uma Revolução? PT-br](http://www.akitaonrails.com/2014/07/06/web-components-e-uma-revolucao) Existe uma nova celebridade na cidade, e seu nome é "Web Components". Ultimamente muitos apresentam esta nova tecnologia como o 'Santo Graal' que vai resolver todos os problemas da Web. Este artigo não é um apoio incondicional, não é uma crítica negativa irrefutável, mas meramente uma apresentação de perspectivas com o objetivo de dar clareza.
 * [The State of the Componentised Web](http://www.leggetter.co.uk/2014/08/06/state-componentised-web.html) The idea of building applications out of a number of independent components isn’t anything new. But with Web Components is a good time to look at component-based application development, how we benefit from taking this approach, how we can build our applications in this way using existing technologies and how we’re likely to be building our front-end web apps in the future.
 * [Integrating Web Components with AngularJS](pascalprecht.github.io/2014/10/25/integrating-web-components-with-angularjs/) This article focuses on the integration of Web Components with the AngularJS of today and the AngularJS of tomorrow.
-* [Introducing Polymer 0.5.1](https://blog.polymer-project.org/releases/2014/11/12/release-0.5.1/) We announce significant releases here on the blog, highlighting the major new features as well as breaking changes. 
+* [Introducing Polymer 0.5.1](https://blog.polymer-project.org/releases/2014/11/12/release-0.5.1/) We announce significant releases here on the blog, highlighting the major new features as well as breaking changes.
 
 
 ## Getting Started
@@ -99,9 +100,9 @@
 
 ## Best Practices
 
-* [Web Components best practices](http://webcomponents.org/articles/web-components-best-practices/) Web Components (WC) are a new set of web platform features that enable developers to build applications in a declarative, composable way. 
+* [Web Components best practices](http://webcomponents.org/articles/web-components-best-practices/) Web Components (WC) are a new set of web platform features that enable developers to build applications in a declarative, composable way.
 * [How should I name my element?](http://webcomponents.org/articles/how-should-i-name-my-element/) Naming is always a challenging task when developing a component. We can create truly complex pieces of code but we still have a hard time to name a simple variable.
-* [WEB COMPONENTS AND YOU – DANGERS TO AVOID](http://christianheilmann.com/2014/04/18/web-components-and-you-dangers-to-avoid/) Web Components are a hot topic now. Creating widgets on the web that are part of the browser’s rendering flow is amazing. 
+* [WEB COMPONENTS AND YOU – DANGERS TO AVOID](http://christianheilmann.com/2014/04/18/web-components-and-you-dangers-to-avoid/) Web Components are a hot topic now. Creating widgets on the web that are part of the browser’s rendering flow is amazing.
 * [Melhores Práticas Web Components PT-br](http://tableless.com.br/melhores-praticas-web-components/) Conheça práticas simples que podem ajudar na organização do seu web component.
 * [The Web’s Declarative, Composable Future](http://addyosmani.com/blog/the-webs-declarative-composable-future/) This year, the platform is getting Web Components, bringing forward a way to make the relationships between markup and behaviour a lot less vague when you’re looking at the HTML.
 
@@ -111,7 +112,7 @@
 * [Google Web Components Style Guide](https://github.com/GoogleWebComponents/style-guide) This guide serves as an extension to the Google JavaScript Style Guide with additional style guidance around authoring Web Components, particuarly those in this element collection. It is targeted at Google engineers, but may be useful for others too.
 
 
-## Performance 
+## Performance
 
 * [High Performance Web Components](https://www.youtube.com/watch?v=m3EPIeKaDCU) HTML5DevConf May 2014: Steve Souders, Fastly : High Performance Web Components
 
@@ -164,3 +165,13 @@
 [![Eduardo](https://2.gravatar.com/avatar/42327de520e674a6d1686845b30778d0)](https://twitter.com/eduardolundgren) | [![Pascal Hartig](https://avatars0.githubusercontent.com/u/9906?v=2&s=80)](https://twitter.com/passy) | [![Sindre Sorhus](https://2.gravatar.com/avatar/d36a92237c75c5337c17b60d90686bf9)](https://twitter.com/sindresorhus) | [![Christian](https://2.gravatar.com/avatar/07fcd228af02d476b1b8367d85a903b2)](https://twitter.com/codepo8)
 --- | --- | --- | --- | ---
 [Eduardo lundgren](https://twitter.com/eduardolundgren) | [Pascal Hartig](https://twitter.com/passy) | [Sindre Sorhus](https://twitter.com/sindresorhus) | [Christian Heilmann](https://twitter.com/codepo8)
+
+
+## License
+
+Copyright 2014, All rights reserved.
+
+Code licensed under the:
+[MIT license](http://mateusortiz.mit-license.org)
+
+@author Mateus Ortiz <mteusortiz@gmail.com>
