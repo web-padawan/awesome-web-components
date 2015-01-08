@@ -63,6 +63,7 @@
 * [Using Polymer to Create Web Components](http://code.tutsplus.com/tutorials/using-polymer-to-create-web-components--cms-20475) To bridge the gap and give developers access to this rich functionality now, Google has created the Polymer library which serves as a set of polyfills to bring the promise of Web Components to you today.
 * [Custom Elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/) defining new elements in HTML
 * [Exploring HTML Imports](http://robdodson.me/blog/2013/08/20/exploring-html-imports/) Web Components have come a long way in the past few months. HTML Imports allow you to load additional documents into your page without having to write a bunch of ajax. This is great for Custom Elements where you might want to import a suite of new tags.
+* [A No-Nonsense Guide to Web Components](http://cbateman.com/blog/a-no-nonsense-guide-to-web-components-part-1-the-specs/) A multi-part series with a crash course on Web Components specs, polyfills, performance, accessibility, and more.
 
 
 ## Interoperability
