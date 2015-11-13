@@ -49,9 +49,9 @@
 * [Introduction to the template elements](http://webcomponents.org/articles/introduction-to-template-element/) Templates allow teams to divide their work.
 * [Polymer vs. X-Tag](http://pascalprecht.github.io/2014/07/21/polymer-vs-x-tag-here-is-the-difference/) Polymer vs. X-Tag - Here's the difference
 * [Ten Principles for Great General Purpose Web Components](https://github.com/basic-web-components/components-dev/wiki/Ten-Principles-for-Great-General-Purpose-Web-Components) This page lays out a set of principles for creating general-purpose web components that can be readily adopted in a wide range of sites and application.
-* [Introduction To Custom Elements](http://www.smashingmagazine.com/2014/03/04/introduction-to-custom-elements/) A Detailed Introduction To Custom Elements
-* [Accessibility and the Shadow DOM](http://substantial.com/blog/2014/02/05/accessibility-and-the-shadow-dom/) A lesson on rendering trees, emerging technologies and tacos
-* [Modular future Web Components](http://css-tricks.com/modular-future-web-components/) A Guide to Web Components
+* [Introduction To Custom Elements](http://www.smashingmagazine.com/2014/03/introduction-to-custom-elements/) A Detailed Introduction To Custom Elements
+* [Accessibility and the Shadow DOM](http://substantial.com/blog/2014/02/05/accessibility-and-the-shadow-dom) A lesson on rendering trees, emerging technologies and tacos
+* [Modular future Web Components](https://css-tricks.com/modular-future-web-components/) A Guide to Web Components
 * [Polymer vs Angular](http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/) Here’s the difference between Polymer and Angular
 * [Building single page apps using web components](https://www.polymer-project.org/articles/spa.html) The Polymer approach to building single page applications
 * [Web Components é uma Revolução? PT-br](http://www.akitaonrails.com/2014/07/06/web-components-e-uma-revolucao) Existe uma nova celebridade na cidade, e seu nome é "Web Components". Ultimamente muitos apresentam esta nova tecnologia como o 'Santo Graal' que vai resolver todos os problemas da Web. Este artigo não é um apoio incondicional, não é uma crítica negativa irrefutável, mas meramente uma apresentação de perspectivas com o objetivo de dar clareza.
@@ -59,8 +59,8 @@
 * [Integrating Web Components with AngularJS](pascalprecht.github.io/2014/10/25/integrating-web-components-with-angularjs/) This article focuses on the integration of Web Components with the AngularJS of today and the AngularJS of tomorrow.
 * [Introducing Polymer 0.5.1](https://blog.polymer-project.org/releases/2014/11/12/release-0.5.1/) We announce significant releases here on the blog, highlighting the major new features as well as breaking changes.
 * [Polymer Web Components With Marionette.js](http://blog.jeremyfairbank.com/javascript/polymer-web-components-with-marionette-js/) JavaScript is a playground. If you disagree, then I encourage you to read Atwood’s Law. A quick Google search will reveal the law in full force with assemblers, machine emulators, and programming languages all written in JavaScript. That is just a small sampling. Go peruse the npm registry for plenty of build tools, frameworks, and servers written in JavaScript. We are tinkerers, especially in the JavaScript community. Sometimes our creations are practical and sometimes they are just fun.
-* [Creating a Polymer Chat App with Material Design](http://www.pubnub.com/blog/creating-a-polymer-chat-app-with-material-design/) I am showing how to create yet another chat app with Material Design using Polymer to create a simple but visually appealing app with a great user-experience
-* [Best Practice for Creating Custom Elements](http://www.broken-links.com/2015/01/27/best-practice-creating-custom-elements/) It looks like custom elements, and web components in general, are beginning to break through into general developer consciousness, as I see more and more articles and talks discussing what they are, what they are good for, and how to make them.
+* [Creating a Polymer Chat App with Material Design](https://www.pubnub.com/blog/2015-01-15-creating-a-polymer-chat-app-with-material-design/) I am showing how to create yet another chat app with Material Design using Polymer to create a simple but visually appealing app with a great user-experience
+* [Best Practice for Creating Custom Elements](https://www.broken-links.com/2015/01/27/best-practice-creating-custom-elements/) It looks like custom elements, and web components in general, are beginning to break through into general developer consciousness, as I see more and more articles and talks discussing what they are, what they are good for, and how to make them.
 * [Web Components and their role in the future of web development](http://kaytcat.github.io/web-components/) A discussion surrounding the history and future of Web Components in modern web development.
 
 
@@ -68,13 +68,13 @@
 
 * [Using Polymer to Create Web Components](http://code.tutsplus.com/tutorials/using-polymer-to-create-web-components--cms-20475) To bridge the gap and give developers access to this rich functionality now, Google has created the Polymer library which serves as a set of polyfills to bring the promise of Web Components to you today.
 * [Custom Elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/) defining new elements in HTML
-* [Exploring HTML Imports](http://robdodson.me/blog/2013/08/20/exploring-html-imports/) Web Components have come a long way in the past few months. HTML Imports allow you to load additional documents into your page without having to write a bunch of ajax. This is great for Custom Elements where you might want to import a suite of new tags.
+* [Exploring HTML Imports](http://robdodson.me/exploring-html-imports/) Web Components have come a long way in the past few months. HTML Imports allow you to load additional documents into your page without having to write a bunch of ajax. This is great for Custom Elements where you might want to import a suite of new tags.
 * [A No-Nonsense Guide to Web Components](http://cbateman.com/blog/a-no-nonsense-guide-to-web-components-part-1-the-specs/) A multi-part series with a crash course on Web Components specs, polyfills, performance, accessibility, and more.
 
 
 ## Interoperability
 
-* [React and Custom Elements](http://addyosmani.com/blog/component-interop-with-react-and-custom-elements) Component Interop with React and Custom Elements
+* [React and Custom Elements](http://addyosmani.com/blog/component-interop-with-react-and-custom-elements/) Component Interop with React and Custom Elements
 * [Interop Sass](https://github.com/webcomponents/sass-interop) A demo of interoperability between Sass and Polymer.
 * [Interop Less](https://github.com/webcomponents/less-interop) A demo of interoperability between Less and Polymer.
 * [Interop Angular](https://github.com/webcomponents/angular-interop) A demo of interoperability between Polymer and AngularJs.
@@ -86,13 +86,13 @@
 * [Generator Elements](https://github.com/webcomponents/generator-element) A Yeoman Generator that provides a functional boilerplate to easily create Custom Elements using Polymer, X-Tag or VanillaJS.
 * [Generator Polymer](https://github.com/yeoman/generator-polymer/) Yeoman generator for scaffolding Polymer apps
 * [Geneator X-Tag](https://github.com/x-tag/yo-x-tag-generator) X-Tag generator for Yeoman
-* [Generator Bosonic](https://github.com/bosonic/yeoman-bosonic) Yeoman Generator Bosonic
+* [Generator Bosonic](https://github.com/bosonic-labs/yeoman-bosonic) Yeoman Generator Bosonic
 * [Slush Element](https://github.com/webcomponents/slush-element) A Slush Generator that provides a functional boilerplate to easily create Custom Elements using Polymer, X-Tag or VanillaJS.
 
 
 ## Tests
 
-* [Seed-Element](https://github.com/polymerlabs/seed-element) Polymer element boilerplate Tests
+* [Seed-Element](https://github.com/PolymerElements/seed-element) Polymer element boilerplate Tests
 * [Web Component Tester](https://github.com/Polymer/web-component-tester) web-component-tester makes testing your web components a breeze!
 
 
@@ -100,8 +100,8 @@
 
 * [Bower search](http://bower.io/search/?q=web-components) Bower search Web Components
 * [Built Polymer](http://builtwithpolymer.org/) Built with Polymer
-* [Components Kitchen](http://component.kitchen/) The best ingredients for your web apps
-* [Custom Elements](http://customelements.io/) a web components gallery for modern web apps
+* [Components Kitchen](https://component.kitchen/) The best ingredients for your web apps
+* [Custom Elements](https://customelements.io/) a web components gallery for modern web apps
 * [Polymer Tools Designer](https://www.polymer-project.org/tools/designer/) Designer is a drag and drop tool for prototyping apps using Polymer. Save your experiments as Github gists.
 
 
@@ -109,7 +109,7 @@
 
 * [Web Components best practices](http://webcomponents.org/articles/web-components-best-practices/) Web Components (WC) are a new set of web platform features that enable developers to build applications in a declarative, composable way.
 * [How should I name my element?](http://webcomponents.org/articles/how-should-i-name-my-element/) Naming is always a challenging task when developing a component. We can create truly complex pieces of code but we still have a hard time to name a simple variable.
-* [WEB COMPONENTS AND YOU – DANGERS TO AVOID](http://christianheilmann.com/2014/04/18/web-components-and-you-dangers-to-avoid/) Web Components are a hot topic now. Creating widgets on the web that are part of the browser’s rendering flow is amazing.
+* [WEB COMPONENTS AND YOU – DANGERS TO AVOID](https://www.christianheilmann.com/2014/04/18/web-components-and-you-dangers-to-avoid/) Web Components are a hot topic now. Creating widgets on the web that are part of the browser’s rendering flow is amazing.
 * [Melhores Práticas Web Components PT-br](http://tableless.com.br/melhores-praticas-web-components/) Conheça práticas simples que podem ajudar na organização do seu web component.
 * [The Web’s Declarative, Composable Future](http://addyosmani.com/blog/the-webs-declarative-composable-future/) This year, the platform is getting Web Components, bringing forward a way to make the relationships between markup and behaviour a lot less vague when you’re looking at the HTML.
 
@@ -127,7 +127,7 @@
 ## Libraries
 
 * [Polymer](https://www.polymer-project.org/) Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.
-* [X-Tag](http://x-tags.org/) X-Tag is a small JavaScript library, created and supported by Mozilla, that brings Web Components Custom Element capabilities to all modern browsers.
+* [X-Tag](https://x-tag.readme.io/) X-Tag is a small JavaScript library, created and supported by Mozilla, that brings Web Components Custom Element capabilities to all modern browsers.
 * [Bosonic](http://bosonic.github.io/) Bosonic is a set of tools that enable you to build Web Components as the spec currently describes, and supporting not-so-modern browsers like IE9.
 * [Polymer Dart](https://www.dartlang.org/polymer/) Polymer.dart is a Dart port of Polymer. Build Web Components with Dart, and interoperate with Web Components built with JavaScript.
 * [Skate](https://github.com/skatejs/skatejs) Skate is a web component library that is focused on being a tiny, performant, syntactic-sugar for binding behaviour to custom and existing elements without ever having to worry about when your element is inserted into the DOM.
@@ -155,7 +155,7 @@
 ## Boilerplates
 
 * [Polymer Boilerplate](https://github.com/webcomponents/polymer-boilerplate) A bare minimum custom element starter-kit using Polymer.
-* [X-Tag Boilerplate](https://github.com/webcomponents/x-tag-boilerplate) A bare minimum custom element starter-kit using X-Tag.
+* [X-Tag Boilerplate](https://github.com/webcomponents/xtag-boilerplate) A bare minimum custom element starter-kit using X-Tag.
 * [VanillaJS Boilerplate](https://github.com/webcomponents/element-boilerplate) A bare minimum custom element starter-kit using VanillaJS.
 
 
