@@ -62,7 +62,7 @@
 * [Creating a Polymer Chat App with Material Design](https://www.pubnub.com/blog/2015-01-15-creating-a-polymer-chat-app-with-material-design/) I am showing how to create yet another chat app with Material Design using Polymer to create a simple but visually appealing app with a great user-experience
 * [Best Practice for Creating Custom Elements](https://www.broken-links.com/2015/01/27/best-practice-creating-custom-elements/) It looks like custom elements, and web components in general, are beginning to break through into general developer consciousness, as I see more and more articles and talks discussing what they are, what they are good for, and how to make them.
 * [Web Components and their role in the future of web development](http://kaytcat.github.io/web-components/) A discussion surrounding the history and future of Web Components in modern web development.
-
+* [Understanding Web Components](https://medium.com/the-ui-files/understanding-web-components-d051baa66019) Another overview of web components specs and explanation of their advantages: composability, encapsulation, reusability.
 
 ## Getting Started
 
