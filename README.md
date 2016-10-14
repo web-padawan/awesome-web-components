@@ -55,11 +55,12 @@
 
 ### Custom Elements
 
-* [Introduction To Custom Elements](http://www.smashingmagazine.com/2014/03/introduction-to-custom-elements/) A Detailed Introduction To Custom Elements
 * [Custom elements v1: reusable web components](https://developers.google.com/web/fundamentals/getting-started/primers/customelements) With Custom Elements, web developers can create new HTML tags, beef-up existing HTML tags, or extend the components other developers have authored.
+* [Reintroducing Custom Elements V1](https://www.webreflection.co.uk/blog/2016/08/21/custom-elements-v1) A post describing changes in version V1 of Custom Elements which has been agreed by all major browsers vendors so that it is, finally today, a safe bet.
 * [The Case for Custom Elements: Part 1](https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439) The case for why Custom Elements make sense, especially for large organizations.
 * [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133) A post describing some of the features that make Custom Elements compelling if you’re considering building your own component library.
 * [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements) A detailed overview including the differences between Custom Elements v0 and v1.
+* [Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Custom_Elements) at Mozilla Developer Network
 
 ### Shadow DOM
 
