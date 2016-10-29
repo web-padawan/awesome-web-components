@@ -19,6 +19,7 @@
   - [Screencasts](#screencasts)
   - [Suport](#support)
   - [Concatenating](#concatenate)
+  - [Polyfills](#polyfills)
   - [Boilerplates](#boilerplates)
   - [Who to follow](#who-to-follow)
   - [License](#license)
@@ -160,6 +161,10 @@
 
 * [Vulcanize](https://github.com/polymer/vulcanize) Concatenate a set of Web Components into one file
 
+
+## Polyfills
+* [WebComponentsjs](https://github.com/WebComponents/webcomponentsjs): A polyfill for Custom Elements, Shadow DOM, HTML Imports, Weakmap, and Mutation Observers
+* [custom-elements](https://github.com/webcomponents/custom-elements): A polyfill for the v1 spec for Custom Elements.
 
 ## Boilerplates
 
