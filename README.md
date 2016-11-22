@@ -62,12 +62,14 @@
 * [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133) A post describing some of the features that make Custom Elements compelling if you’re considering building your own component library.
 * [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements) A detailed overview including the differences between Custom Elements v0 and v1.
 * [Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Custom_Elements) at Mozilla Developer Network
+* [Introducing Custom Elements](https://webkit.org/blog/7027/introducing-custom-elements/) The Custom Elements API has been implemented and enabled by default in the Safari Technology Preview 18.
 
 ### Shadow DOM
 
 * [Shadow DOM v1: self-contained web components](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom) With Shadow DOM, you can bundle CSS with markup, hide implementation details, and author self-contained components in vanilla JavaScript.
 * [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/) This document is an attempt to track the difference between Shadow DOM v0 and v1.
 * [Accessibility and the Shadow DOM](http://substantial.com/blog/2014/02/05/accessibility-and-the-shadow-dom) A lesson on rendering trees, emerging technologies and tacos
+* [Introducing Slot-Based Shadow DOM API](https://webkit.org/blog/4096/introducing-shadow-dom-api/) Version 1 of the Shadow DOM standard was shipped in Safari 10.0.
 
 ### Templates
 
