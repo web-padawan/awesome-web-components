@@ -80,7 +80,7 @@
 * [Exploring HTML Imports](http://robdodson.me/exploring-html-imports/) Web Components have come a long way in the past few months. HTML Imports allow you to load additional documents into your page without having to write a bunch of ajax. This is great for Custom Elements where you might want to import a suite of new tags.
 
 ### Frameworks
-
+* [Aurelia](http://aurelia.io/) - Aurelia is a JavaScript client framework for mobile, desktop and web leveraging simple conventions and empowering creativity. 
 * [Polymer vs Angular 2](http://mikaturunen.github.io/polymer-meetup-tampere-presentation/) Which one should I choose?
 * [Polymer vs. X-Tag](http://pascalprecht.github.io/2014/07/21/polymer-vs-x-tag-here-is-the-difference/) Polymer vs. X-Tag - Here's the difference
 * [Polymer vs Angular](http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/) Here’s the difference between Polymer and Angular
