@@ -53,6 +53,7 @@
 * [A No-Nonsense Guide to Web Components](http://cbateman.com/blog/a-no-nonsense-guide-to-web-components-part-1-the-specs/) A multi-part series with a crash course on Web Components specs, polyfills, performance, accessibility, and more.
 * [Understanding Web Components](https://medium.com/the-ui-files/understanding-web-components-d051baa66019) Another overview of web components specs and explanation of their advantages: composability, encapsulation, reusability.
 * [Demythstifying Web Components](http://www.backalleycoder.com/2016/08/26/demythstifying-web-components/) An attempt to conclusively curb stomp the seemingly endless FUD that circulates about Web Component
+* [Web Components in Action](https://www.manning.com/books/web-components-in-action) An early release book about Web Components, walking through custom elements, ES2015 modules for dependency management, templating, the Shadow DOM and more. Contains demo tutorials for building a single Web Component all the way up to complete applications.
 
 ### Custom Elements
 
