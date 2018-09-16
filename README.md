@@ -84,6 +84,7 @@
 * [Polymer vs Angular 2](http://mikaturunen.github.io/polymer-meetup-tampere-presentation/) Which one should I choose?
 * [Polymer vs. X-Tag](http://pascalprecht.github.io/2014/07/21/polymer-vs-x-tag-here-is-the-difference/) Polymer vs. X-Tag - Here's the difference
 * [Polymer vs Angular](http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/) Here’s the difference between Polymer and Angular
+* [Switzerland](https://github.com/Wildhoney/Switzerland) Switzerland allows you to create custom components in a functional way via middleware functions.
 
 ## Interoperability
 
