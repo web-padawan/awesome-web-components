@@ -82,7 +82,6 @@
 ### Frameworks
 * [Aurelia](http://aurelia.io/) - Aurelia is a JavaScript client framework for mobile, desktop and web leveraging simple conventions and empowering creativity. 
 * [Polymer vs Angular 2](http://mikaturunen.github.io/polymer-meetup-tampere-presentation/) Which one should I choose?
-* [Polymer vs. X-Tag](http://pascalprecht.github.io/2014/07/21/polymer-vs-x-tag-here-is-the-difference/) Polymer vs. X-Tag - Here's the difference
 * [Polymer vs Angular](http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/) Here’s the difference between Polymer and Angular
 
 ## Interoperability
@@ -129,7 +128,6 @@
 ## Style Guides
 
 * [Google Web Components Style Guide](https://github.com/GoogleWebComponents/style-guide) This guide serves as an extension to the Google JavaScript Style Guide with additional style guidance around authoring Web Components, particuarly those in this element collection. It is targeted at Google engineers, but may be useful for others too.
-* [Polymer Elements Style Guide](http://polymerelements.github.io/style-guide/)
 
 
 ## Performance
