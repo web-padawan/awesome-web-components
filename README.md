@@ -28,12 +28,14 @@
   - [DOM Living Standard](https://dom.spec.whatwg.org/#concept-element)
   - [W3C HTML 5.3 Working Draft](https://www.w3.org/TR/html53/semantics-scripting.html#custom-elements-core-concepts)
   - [W3C DOM 4.1 Working Draft](https://www.w3.org/TR/dom41/#interface-element)
+
 - **Shadow DOM** describes a method of combining multiple DOM trees into one hierarchy and how these trees interact with each other within a document, thus enabling better composition of the DOM.
   - [W3C Editor's Draft](http://w3c.github.io/webcomponents/spec/shadow/)
   - [DOM Living Standard](https://dom.spec.whatwg.org/#shadow-trees), section 4.2.2: shadow tree
   - [DOM Living Standard](https://dom.spec.whatwg.org/#interface-shadowroot), section 4.8: interface `ShadowRoot`
   - [W3C DOM 4.1 Working Draft](https://www.w3.org/TR/dom41/#shadow-trees), section 4.2.2: shadow tree
   - [W3C DOM 4.1 Working Draft](https://www.w3.org/TR/dom41/#interface-shadowroot), section 4.8: interface `ShadowRoot`
+
 - **`<template>`** element is used to declare fragments of HTML that can be cloned and inserted in the document by script.
   - [HTML Living Standard](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
   - [W3C HTML 5.1 2nd Edition](https://www.w3.org/TR/html51/semantics-scripting.html#the-template-element)
