@@ -90,8 +90,11 @@
   - [Part 2: Supercharging Web Components with lit-html](https://dev.to/thepassle/web-components-from-zero-to-hero-part-two-38p4)
 
 ## Polyfills
-* [WebComponentsjs](https://github.com/WebComponents/webcomponentsjs): A polyfill for Custom Elements, Shadow DOM, HTML Imports, Weakmap, and Mutation Observers
-* [custom-elements](https://github.com/webcomponents/custom-elements): A polyfill for the v1 spec for Custom Elements.
+- [webcomponents.js](https://github.com/webcomponents/webcomponentsjs) - Suite of polyfills supporting the HTML Web Components specs.
+- [custom-elements](https://github.com/webcomponents/custom-elements) - Polyfill for HTML Custom Elements v1.
+- [shadydom](https://github.com/webcomponents/shadydom) - ShadowDOM v1 shim.
+- [shadycss](https://github.com/webcomponents/shadycss) - ShadowDOM style encapsulation shim.
+- [template](https://github.com/webcomponents/template) - Minimal polyfill for `<template>`.
 
 ## Libraries
 
