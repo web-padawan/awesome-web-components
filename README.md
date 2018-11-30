@@ -16,7 +16,6 @@
 - [Libraries](#libraries)
 - [Best Practices](#best-practices)
 - [Blogs](#blogs)
-- [Screencasts](#screencasts)
 - [Who to follow](#who-to-follow)
 - [License](#license)
 
@@ -90,6 +89,7 @@
   - [Part 2: Supercharging Web Components with lit-html](https://dev.to/thepassle/web-components-from-zero-to-hero-part-two-38p4)
 
 ## Polyfills
+
 - [webcomponents.js](https://github.com/webcomponents/webcomponentsjs) - Suite of polyfills supporting the HTML Web Components specs.
 - [custom-elements](https://github.com/webcomponents/custom-elements) - Polyfill for HTML Custom Elements v1.
 - [shadydom](https://github.com/webcomponents/shadydom) - ShadowDOM v1 shim.
@@ -98,21 +98,19 @@
 
 ## Libraries
 
-* [Polymer](https://www.polymer-project.org/) Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.
-* [Skate](https://github.com/skatejs/skatejs) Skate is a web component library that is focused on being a tiny, performant, syntactic-sugar for binding behaviour to custom and existing elements without ever having to worry about when your element is inserted into the DOM.
+- [LitElement](https://lit-element.polymer-project.org) - Simple base class for creating fast, lightweight web components. Part of the Polymer Project.
+- [Polymer](https://polymer-library.polymer-project.org) - Original web component library by the Polymer Project authors.
+- [Skate](https://github.com/skatejs/skatejs) - Web component library focusing on a functional rendering pipeline, clean property / attribute semantics and a small footprint.
 
 ## Best Practices
 
-* [Web Components best practices](http://webcomponents.org/articles/web-components-best-practices/)
+- [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
+- [Web Components Best Practices](https://www.webcomponents.org/community/articles/web-components-best-practices)
 
 ## Blogs
 
-* [WebComponents.org](http://webcomponents.org/) a place to discuss and evolve web component best-practices
-* [Polymer Blog](https://www.polymer-project.org/1.0/blog/) The latest goings-on with the Polymer project and in the community.
-
-## Screencasts
-
-* [Polycasts with Rob Dodson](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN) Rob Dodson from the Chrome Developer Relations team explores the ins and outs of Polymer.
+- [webcomponents.org](http://webcomponents.org/) - Home of the Web Components community.
+- [Polymer Blog](https://www.polymer-project.org/blog/) - The latest goings-on with the Polymer project and in the community.
 
 ## Who To Follow
 
