@@ -7,10 +7,11 @@
 ## Contents
 
 - [Specifications](#specifications)
-- [Overview](#Overview)
+- [Introduction](#introduction)
 - [Custom Elements](#custom-elements)
 - [Shadow DOM](#shadow-dom)
 - [HTML Templates](#html-templates)
+- [Tutorials](#tutorials)
 - [Polyfills](#polyfills)
 - [Libraries](#libraries)
 - [Best Practices](#best-practices)
@@ -40,30 +41,53 @@
   - [HTML Living Standard](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
   - [W3C HTML 5.1 2nd Edition](https://www.w3.org/TR/html51/semantics-scripting.html#the-template-element)
 
-## Overview
+## Introduction
 
-* [Understanding Web Components](https://medium.com/the-ui-files/understanding-web-components-d051baa66019) Another overview of web components specs and explanation of their advantages: composability, encapsulation, reusability.
-* [Demythstifying Web Components](http://www.backalleycoder.com/2016/08/26/demythstifying-web-components/) An attempt to conclusively curb stomp the seemingly endless FUD that circulates about Web Component
+- [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
+- [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
+- [Web Components in 2018](https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/)
+- [Making Web Components Work](https://engineering.mixpanel.com/2018/06/12/making-web-components-work/)
+- [Web Components Introduction: Creating Custom HTML Elements in 2018](https://www.grapecity.com/en/blogs/web-components-introduction-creating-custom-html-elements-2018)
+- [Web Components — the right way](https://equinsuocha.io/blog/web-components-the-right-way/)
+- [Lessons Learned, making our app with Web Components](https://medium.com/samsung-internet-dev/lessons-learned-making-our-app-with-web-components-bf55379cfcda)
 
 ## Custom Elements
 
-* [Custom elements v1: reusable web components](https://developers.google.com/web/fundamentals/getting-started/primers/customelements) With Custom Elements, web developers can create new HTML tags, beef-up existing HTML tags, or extend the components other developers have authored.
-* [The Case for Custom Elements: Part 1](https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439) The case for why Custom Elements make sense, especially for large organizations.
-* [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133) A post describing some of the features that make Custom Elements compelling if you’re considering building your own component library.
-* [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements) A detailed overview including the differences between Custom Elements v0 and v1.
-* [Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Custom_Elements) at Mozilla Developer Network
-* [Introducing Custom Elements](https://webkit.org/blog/7027/introducing-custom-elements/) The Custom Elements API has been implemented and enabled by default in the Safari Technology Preview 18.
+- [Custom Elements v1: Reusable Web Components](https://developers.google.com/web/fundamentals/web-components/customelements)
+- [Custom Elements Everywhere](https://custom-elements-everywhere.com)
+- [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements)
+- [Introducing Custom Elements (WebKit)](https://webkit.org/blog/7027/introducing-custom-elements/)
+- [The Case for Custom Elements: Part 1](https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439)
+- [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133)
+- [Using Custom Elements (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
+- [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
 
 ## Shadow DOM
 
-* [Shadow DOM v1: self-contained web components](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom) With Shadow DOM, you can bundle CSS with markup, hide implementation details, and author self-contained components in vanilla JavaScript.
-* [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/) This document is an attempt to track the difference between Shadow DOM v0 and v1.
-* [Accessibility and the Shadow DOM](http://substantial.com/blog/2014/02/05/accessibility-and-the-shadow-dom) A lesson on rendering trees, emerging technologies and tacos
-* [Introducing Slot-Based Shadow DOM API](https://webkit.org/blog/4096/introducing-shadow-dom-api/) Version 1 of the Shadow DOM standard was shipped in Safari 10.0.
+- [Shadow DOM v1: Self-Contained Web Components](https://developers.google.com/web/fundamentals/web-components/shadowdom)
+- [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
+- [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/)
+- [Introducing Slot-Based Shadow DOM API (WebKit)](https://webkit.org/blog/4096/introducing-shadow-dom-api/)
+- [Using Shadow DOM (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
 
 ## HTML Templates
 
-* [Introduction to the template elements](http://webcomponents.org/articles/introduction-to-template-element/) Templates allow teams to divide their work.
+- [&lt;template&gt;: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
+- [Using templates and slots (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots)
+
+## Tutorials
+
+- "**Let's Build Web Components!**" by [Benny Powers](https://github.com/bennypowers)
+  - [Part 1: The Standards](https://dev.to/bennypowers/lets-build-web-components-part-1-the-standards-3e85)
+  - [Part 2: The Polyfills](https://dev.to/bennypowers/lets-build-web-components-part-2-the-polyfills-dkh)
+  - [Part 3: Vanilla Components](https://dev.to/bennypowers/lets-build-web-components-part-3-vanilla-components-4on3)
+  - [Part 4: Polymer Library](https://dev.to/bennypowers/lets-build-web-components-part-4-polymer-library-4dk2)
+  - [Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
+  - [Part 6: Gluon](https://dev.to/bennypowers/lets-build-web-components-part-6-gluon-27ll)
+
+- "**Web components: from zero to hero**" by [Pascal Schilp](https://github.com/thepassle)
+  - [Part 1: An introduction to writing raw Web Components](https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m)
+  - [Part 2: Supercharging Web Components with lit-html](https://dev.to/thepassle/web-components-from-zero-to-hero-part-two-38p4)
 
 ## Polyfills
 * [WebComponentsjs](https://github.com/WebComponents/webcomponentsjs): A polyfill for Custom Elements, Shadow DOM, HTML Imports, Weakmap, and Mutation Observers
