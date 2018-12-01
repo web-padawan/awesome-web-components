@@ -105,7 +105,9 @@
 ## Best Practices
 
 - [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
-- [Web Components Best Practices](https://www.webcomponents.org/community/articles/web-components-best-practices)
+- [Custom Element Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
+- [HowTo: Components](https://developers.google.com/web/fundamentals/web-components/examples/)
+- [Open Web Components Recommendations](https://open-wc.org)
 
 ## Blogs
 
