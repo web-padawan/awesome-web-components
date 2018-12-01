@@ -14,6 +14,7 @@
 - [Tutorials](#tutorials)
 - [Polyfills](#polyfills)
 - [Libraries](#libraries)
+- [Frameworks](#frameworks)
 - [Best Practices](#best-practices)
 - [Blogs](#blogs)
 - [Who to follow](#who-to-follow)
@@ -101,6 +102,10 @@
 - [LitElement](https://lit-element.polymer-project.org) - Simple base class for creating fast, lightweight web components. Part of the Polymer Project.
 - [Polymer](https://polymer-library.polymer-project.org) - Original web component library by the Polymer Project authors.
 - [Skate](https://github.com/skatejs/skatejs) - Web component library focusing on a functional rendering pipeline, clean property / attribute semantics and a small footprint.
+
+## Frameworks
+- [Angular Elements](https://angular.io/guide/elements)
+- [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
 
 ## Best Practices
 
