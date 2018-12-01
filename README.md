@@ -59,6 +59,8 @@
 - [Introducing Custom Elements (WebKit)](https://webkit.org/blog/7027/introducing-custom-elements/)
 - [The Case for Custom Elements: Part 1](https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439)
 - [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133)
+- [Custom Elements That Work Anywhere](https://robdodson.me/interoperable-custom-elements/)
+- [The future of accessibility for custom elements](https://robdodson.me/the-future-of-accessibility-for-custom-elements/)
 - [Using Custom Elements (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
 - [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
 
