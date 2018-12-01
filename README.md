@@ -17,6 +17,7 @@
 - [Frameworks](#frameworks)
 - [Best Practices](#best-practices)
 - [Blogs](#blogs)
+- [History](#history)
 - [Who to follow](#who-to-follow)
 - [License](#license)
 
@@ -120,6 +121,44 @@
 
 - [webcomponents.org](http://webcomponents.org/) - Home of the Web Components community.
 - [Polymer Blog](https://www.polymer-project.org/blog/) - The latest goings-on with the Polymer project and in the community.
+
+## History
+
+The articles below represent a long story of the Web Components specifications on the way towards the standardization.
+Some of them refer to earlier, so-called "v0" Shadow DOM and Custom Elements specs, and abandoned HTML Imports spec.
+These materials are here for historical reasons only, they are grouped by years and listed in chronological order.
+
+### 2017
+
+- [Web Components: The Long Game](https://infrequently.org/2017/10/web-components-the-long-game/)
+- [The broken promise of Web Components](https://dmitriid.com/blog/2017/03/the-broken-promise-of-web-components/)
+- [Regarding the broken promise of Web Components](http://robdodson.me/regarding-the-broken-promise-of-web-components/)
+
+### 2016
+
+- [Demythstifying Web Components](http://www.backalleycoder.com/2016/08/26/demythstifying-web-components/)
+- [Understanding Web Components](https://medium.com/the-ui-files/understanding-web-components-d051baa66019)
+
+### 2015
+
+- [Web Components and their role in the future of web development](http://kaytcat.github.io/web-components/)
+- [The state of Web Components](https://hacks.mozilla.org/2015/06/the-state-of-web-components/)
+
+### 2014
+
+- [A No-Nonsense Guide to Web Components](http://cbateman.com/blog/a-no-nonsense-guide-to-web-components-part-1-the-specs/)
+- [The State of the Componentised Web](https://www.leggetter.co.uk/2014/08/06/state-componentised-web.html)
+- [Web Components and you – dangers to avoid](https://christianheilmann.com/2014/04/18/web-components-and-you-dangers-to-avoid/)
+- [The Web's Declarative, Composable Future](https://addyosmani.com/blog/the-webs-declarative-composable-future/)
+
+### 2013
+
+- [A Guide to Web Components](https://css-tricks.com/modular-future-web-components/)
+
+### 2012
+
+- [Notes on Web Components + ARIA](https://developer.paciellogroup.com/blog/2012/07/notes-on-web-components-aria/)
+- [Introduction to Web Components](https://www.w3.org/TR/2012/WD-components-intro-20120522/)
 
 ## Who To Follow
 
