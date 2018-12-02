@@ -104,7 +104,11 @@
 
 - [LitElement](https://lit-element.polymer-project.org) - Simple base class for creating fast, lightweight web components. Part of the Polymer Project.
 - [Polymer](https://polymer-library.polymer-project.org) - Original web component library by the Polymer Project authors.
-- [Skate](https://github.com/skatejs/skatejs) - Web component library focusing on a functional rendering pipeline, clean property / attribute semantics and a small footprint.
+- [Skate](https://github.com/skatejs/skatejs) - Web component library focusing on a functional rendering pipeline and a small footprint.
+- [Omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).
+- [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
+- [slim.js](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
+- [Switzerland](https://github.com/Wildhoney/Switzerland) - Library allowing to create Web Components in a functional way via middleware functions.
 
 ## Frameworks
 - [Angular Elements](https://angular.io/guide/elements)
