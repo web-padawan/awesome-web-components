@@ -112,6 +112,7 @@
 
 ## Frameworks
 - [Angular Elements](https://angular.io/guide/elements)
+- [Aurelia](https://aurelia.io/)
 - [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
 
 ## Best Practices
