@@ -4,178 +4,167 @@
 
 > This is a guide intended to introduce to Web Components. Everyone can contribute here!
 
-- [Web Components the Right Way]()
-  - [Specs](#specifications)
-  - [Blogs](#blogs)
-  - [Reading](#reading)
-  - [Interop](#interoperability)
-  - [Generators](#generators)
-  - [Tests](#tests)
-  - [Discover](#discover)
-  - [Best Practices](#best-practices)
-  - [Style Guides](#style-guides)
-  - [Perfomance](#performance)
-  - [Libraries](#libraries)
-  - [Screencasts](#screencasts)
-  - [Suport](#support)
-  - [Concatenating](#concatenate)
-  - [Polyfills](#polyfills)
-  - [Boilerplates](#boilerplates)
-  - [Who to follow](#who-to-follow)
-  - [License](#license)
+## Contents
 
+- [Specifications](#specifications)
+- [Introduction](#introduction)
+- [Custom Elements](#custom-elements)
+- [Shadow DOM](#shadow-dom)
+- [HTML Templates](#html-templates)
+- [Tutorials](#tutorials)
+- [Polyfills](#polyfills)
+- [Libraries](#libraries)
+- [Frameworks](#frameworks)
+- [Best Practices](#best-practices)
+- [Blogs](#blogs)
+- [History](#history)
+- [Who to follow](#who-to-follow)
+- [License](#license)
 
 > Web Components the Right Way was made with love by [Mateus Ortiz](https://twitter.com/mteusortiz)
 
 ## Specifications
 
-* [Web Components](http://w3c.github.io/webcomponents/explainer/) — This document is a non-normative reference, which provides an overview of Web Components.
-* [Shadow DOM](http://w3c.github.io/webcomponents/spec/shadow/) — Spec of Shadow DOM
-* [HTML Imports](http://w3c.github.io/webcomponents/spec/imports/) — Spec of HTML imports
-* [Template](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element) — Spec of Template
-* [Custom Elements](http://w3c.github.io/webcomponents/spec/custom/) — Spec Custom Elements is cherry on cake.
+- **Custom Elements** provide a way for authors to build their own fully-featured DOM elements.
+  - [HTML Living Standard](https://html.spec.whatwg.org/multipage/custom-elements.html)
+  - [DOM Living Standard](https://dom.spec.whatwg.org/#concept-element)
+  - [W3C HTML 5.3 Working Draft](https://www.w3.org/TR/html53/semantics-scripting.html#custom-elements-core-concepts)
+  - [W3C DOM 4.1 Working Draft](https://www.w3.org/TR/dom41/#interface-element)
 
+- **Shadow DOM** describes a method of combining multiple DOM trees into one hierarchy and how these trees interact with each other within a document, thus enabling better composition of the DOM.
+  - [W3C Editor's Draft](http://w3c.github.io/webcomponents/spec/shadow/)
+  - [DOM Living Standard](https://dom.spec.whatwg.org/#shadow-trees), section 4.2.2: shadow tree
+  - [DOM Living Standard](https://dom.spec.whatwg.org/#interface-shadowroot), section 4.8: interface `ShadowRoot`
+  - [W3C DOM 4.1 Working Draft](https://www.w3.org/TR/dom41/#shadow-trees), section 4.2.2: shadow tree
+  - [W3C DOM 4.1 Working Draft](https://www.w3.org/TR/dom41/#interface-shadowroot), section 4.8: interface `ShadowRoot`
 
-## Blogs
+- **`<template>`** element is used to declare fragments of HTML that can be cloned and inserted in the document by script.
+  - [HTML Living Standard](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
+  - [W3C HTML 5.1 2nd Edition](https://www.w3.org/TR/html51/semantics-scripting.html#the-template-element)
 
-* [WebComponents.org](http://webcomponents.org/) a place to discuss and evolve web component best-practices
-* [Polymer Blog](https://www.polymer-project.org/1.0/blog/) The latest goings-on with the Polymer project and in the community.
+## Introduction
 
-## Reading
+- [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
+- [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
+- [Web Components in 2018](https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/)
+- [Making Web Components Work](https://engineering.mixpanel.com/2018/06/12/making-web-components-work/)
+- [Web Components Introduction: Creating Custom HTML Elements in 2018](https://www.grapecity.com/en/blogs/web-components-introduction-creating-custom-html-elements-2018)
+- [Web Components — the right way](https://equinsuocha.io/blog/web-components-the-right-way/)
+- [Lessons Learned, making our app with Web Components](https://medium.com/samsung-internet-dev/lessons-learned-making-our-app-with-web-components-bf55379cfcda)
 
-### Overview
+## Custom Elements
 
-* [Ten Principles for Great General Purpose Web Components](https://github.com/basic-web-components/components-dev/wiki/Ten-Principles-for-Great-General-Purpose-Web-Components) This page lays out a set of principles for creating general-purpose web components that can be readily adopted in a wide range of sites and application.
-* [Modular future Web Components](https://css-tricks.com/modular-future-web-components/) A Guide to Web Components
-* [Web Components é uma Revolução? PT-br](http://www.akitaonrails.com/2014/07/06/web-components-e-uma-revolucao) Existe uma nova celebridade na cidade, e seu nome é "Web Components". Ultimamente muitos apresentam esta nova tecnologia como o 'Santo Graal' que vai resolver todos os problemas da Web. Este artigo não é um apoio incondicional, não é uma crítica negativa irrefutável, mas meramente uma apresentação de perspectivas com o objetivo de dar clareza.
-* [The State of the Componentised Web](http://www.leggetter.co.uk/2014/08/06/state-componentised-web.html) The idea of building applications out of a number of independent components isn’t anything new. But with Web Components is a good time to look at component-based application development, how we benefit from taking this approach, how we can build our applications in this way using existing technologies and how we’re likely to be building our front-end web apps in the future.
-* [Web Components and their role in the future of web development](http://kaytcat.github.io/web-components/) A discussion surrounding the history and future of Web Components in modern web development.
-* [A No-Nonsense Guide to Web Components](http://cbateman.com/blog/a-no-nonsense-guide-to-web-components-part-1-the-specs/) A multi-part series with a crash course on Web Components specs, polyfills, performance, accessibility, and more.
-* [Understanding Web Components](https://medium.com/the-ui-files/understanding-web-components-d051baa66019) Another overview of web components specs and explanation of their advantages: composability, encapsulation, reusability.
-* [Demythstifying Web Components](http://www.backalleycoder.com/2016/08/26/demythstifying-web-components/) An attempt to conclusively curb stomp the seemingly endless FUD that circulates about Web Component
+- [Custom Elements v1: Reusable Web Components](https://developers.google.com/web/fundamentals/web-components/customelements)
+- [Custom Elements Everywhere](https://custom-elements-everywhere.com)
+- [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements)
+- [Introducing Custom Elements (WebKit)](https://webkit.org/blog/7027/introducing-custom-elements/)
+- [The Case for Custom Elements: Part 1](https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439)
+- [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133)
+- [Custom Elements That Work Anywhere](https://robdodson.me/interoperable-custom-elements/)
+- [The future of accessibility for custom elements](https://robdodson.me/the-future-of-accessibility-for-custom-elements/)
+- [Using Custom Elements (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
+- [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
 
-### Custom Elements
+## Shadow DOM
 
-* [Custom elements v1: reusable web components](https://developers.google.com/web/fundamentals/getting-started/primers/customelements) With Custom Elements, web developers can create new HTML tags, beef-up existing HTML tags, or extend the components other developers have authored.
-* [Reintroducing Custom Elements V1](https://www.webreflection.co.uk/blog/2016/08/21/custom-elements-v1) A post describing changes in version V1 of Custom Elements which has been agreed by all major browsers vendors so that it is, finally today, a safe bet.
-* [The Case for Custom Elements: Part 1](https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439) The case for why Custom Elements make sense, especially for large organizations.
-* [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133) A post describing some of the features that make Custom Elements compelling if you’re considering building your own component library.
-* [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements) A detailed overview including the differences between Custom Elements v0 and v1.
-* [Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Custom_Elements) at Mozilla Developer Network
-* [Introducing Custom Elements](https://webkit.org/blog/7027/introducing-custom-elements/) The Custom Elements API has been implemented and enabled by default in the Safari Technology Preview 18.
+- [Shadow DOM v1: Self-Contained Web Components](https://developers.google.com/web/fundamentals/web-components/shadowdom)
+- [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
+- [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/)
+- [Introducing Slot-Based Shadow DOM API (WebKit)](https://webkit.org/blog/4096/introducing-shadow-dom-api/)
+- [Using Shadow DOM (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
 
-### Shadow DOM
+## HTML Templates
 
-* [Shadow DOM v1: self-contained web components](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom) With Shadow DOM, you can bundle CSS with markup, hide implementation details, and author self-contained components in vanilla JavaScript.
-* [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/) This document is an attempt to track the difference between Shadow DOM v0 and v1.
-* [Accessibility and the Shadow DOM](http://substantial.com/blog/2014/02/05/accessibility-and-the-shadow-dom) A lesson on rendering trees, emerging technologies and tacos
-* [Introducing Slot-Based Shadow DOM API](https://webkit.org/blog/4096/introducing-shadow-dom-api/) Version 1 of the Shadow DOM standard was shipped in Safari 10.0.
+- [&lt;template&gt;: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
+- [Using templates and slots (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots)
 
-### Templates
+## Tutorials
 
-* [Introduction to the template elements](http://webcomponents.org/articles/introduction-to-template-element/) Templates allow teams to divide their work.
+- "**Let's Build Web Components!**" by [Benny Powers](https://github.com/bennypowers)
+  - [Part 1: The Standards](https://dev.to/bennypowers/lets-build-web-components-part-1-the-standards-3e85)
+  - [Part 2: The Polyfills](https://dev.to/bennypowers/lets-build-web-components-part-2-the-polyfills-dkh)
+  - [Part 3: Vanilla Components](https://dev.to/bennypowers/lets-build-web-components-part-3-vanilla-components-4on3)
+  - [Part 4: Polymer Library](https://dev.to/bennypowers/lets-build-web-components-part-4-polymer-library-4dk2)
+  - [Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
+  - [Part 6: Gluon](https://dev.to/bennypowers/lets-build-web-components-part-6-gluon-27ll)
 
-### HTML imports
+- "**Web components: from zero to hero**" by [Pascal Schilp](https://github.com/thepassle)
+  - [Part 1: An introduction to writing raw Web Components](https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m)
+  - [Part 2: Supercharging Web Components with lit-html](https://dev.to/thepassle/web-components-from-zero-to-hero-part-two-38p4)
 
-* [Exploring HTML Imports](http://robdodson.me/exploring-html-imports/) Web Components have come a long way in the past few months. HTML Imports allow you to load additional documents into your page without having to write a bunch of ajax. This is great for Custom Elements where you might want to import a suite of new tags.
+## Polyfills
 
-### Frameworks
-* [Aurelia](http://aurelia.io/) - Aurelia is a JavaScript client framework for mobile, desktop and web leveraging simple conventions and empowering creativity. 
-* [Polymer vs Angular 2](http://mikaturunen.github.io/polymer-meetup-tampere-presentation/) Which one should I choose?
-* [Polymer vs. X-Tag](http://pascalprecht.github.io/2014/07/21/polymer-vs-x-tag-here-is-the-difference/) Polymer vs. X-Tag - Here's the difference
-* [Polymer vs Angular](http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/) Here’s the difference between Polymer and Angular
-
-## Interoperability
-
-* [Integrating Web Components with AngularJS](http://pascalprecht.github.io/2014/10/25/integrating-web-components-with-angularjs/) This article focuses on the integration of Web Components with the AngularJS of today and the AngularJS of tomorrow.
-* [React and Custom Elements](http://addyosmani.com/blog/component-interop-with-react-and-custom-elements/) Component Interop with React and Custom Elements
-* [Interop Sass](https://github.com/webcomponents/sass-interop) A demo of interoperability between Sass and Polymer.
-* [Interop Less](https://github.com/webcomponents/less-interop) A demo of interoperability between Less and Polymer.
-* [Interop Angular](https://github.com/webcomponents/angular-interop) A demo of interoperability between Polymer and AngularJs.
-* [Angular2-Polymer](https://github.com/vaadin/angular2-polymer) A directive factory that allows using Polymer based Web Components in Angular 2 applications.
-
-## Generators
-
-* [Generator Elements](https://github.com/webcomponents/generator-element) A Yeoman Generator that provides a functional boilerplate to easily create Custom Elements using Polymer, X-Tag or VanillaJS.
-* [Generator Polymer](https://github.com/yeoman/generator-polymer/) Yeoman generator for scaffolding Polymer apps
-* [Geneator X-Tag](https://github.com/x-tag/yo-x-tag-generator) X-Tag generator for Yeoman
-* [Slush Element](https://github.com/webcomponents/slush-element) A Slush Generator that provides a functional boilerplate to easily create Custom Elements using Polymer, X-Tag or VanillaJS.
-
-
-## Tests
-
-* [Seed-Element](https://github.com/PolymerElements/seed-element) Polymer element boilerplate Tests
-* [Web Component Tester](https://github.com/Polymer/web-component-tester) web-component-tester makes testing your web components a breeze!
-
-
-## Discover
-
-* [Bower search](http://bower.io/search/?q=web-components) Bower search Web Components
-* [Built with Polymer](http://builtwithpolymer.org/) A curated collection of web apps and websites using Polymer
-* [Polymer Projects](https://github.com/abdonrd/PolymerProjects) Projects using Polymer
-* [Components Kitchen](https://component.kitchen/) The best ingredients for your web apps
-* [Custom Elements](https://customelements.io/) A web components gallery for modern web apps
-
-
-## Best Practices
-
-* [Web Components best practices](http://webcomponents.org/articles/web-components-best-practices/) Web Components (WC) are a new set of web platform features that enable developers to build applications in a declarative, composable way.
-* [How should I name my element?](http://webcomponents.org/articles/how-should-i-name-my-element/) Naming is always a challenging task when developing a component. We can create truly complex pieces of code but we still have a hard time to name a simple variable.
-* [WEB COMPONENTS AND YOU – DANGERS TO AVOID](https://www.christianheilmann.com/2014/04/18/web-components-and-you-dangers-to-avoid/) Web Components are a hot topic now. Creating widgets on the web that are part of the browser’s rendering flow is amazing.
-* [Melhores Práticas Web Components PT-br](http://tableless.com.br/melhores-praticas-web-components/) Conheça práticas simples que podem ajudar na organização do seu web component.
-* [The Web’s Declarative, Composable Future](http://addyosmani.com/blog/the-webs-declarative-composable-future/) This year, the platform is getting Web Components, bringing forward a way to make the relationships between markup and behaviour a lot less vague when you’re looking at the HTML.
-
-
-## Style Guides
-
-* [Google Web Components Style Guide](https://github.com/GoogleWebComponents/style-guide) This guide serves as an extension to the Google JavaScript Style Guide with additional style guidance around authoring Web Components, particuarly those in this element collection. It is targeted at Google engineers, but may be useful for others too.
-* [Polymer Elements Style Guide](http://polymerelements.github.io/style-guide/)
-
-
-## Performance
-
-* [High Performance Web Components](https://www.youtube.com/watch?v=m3EPIeKaDCU) HTML5DevConf May 2014: Steve Souders, Fastly : High Performance Web Components
-
+- [webcomponents.js](https://github.com/webcomponents/webcomponentsjs) - Suite of polyfills supporting the HTML Web Components specs.
+- [custom-elements](https://github.com/webcomponents/custom-elements) - Polyfill for HTML Custom Elements v1.
+- [shadydom](https://github.com/webcomponents/shadydom) - ShadowDOM v1 shim.
+- [shadycss](https://github.com/webcomponents/shadycss) - ShadowDOM style encapsulation shim.
+- [template](https://github.com/webcomponents/template) - Minimal polyfill for `<template>`.
 
 ## Libraries
 
-* [Polymer](https://www.polymer-project.org/) Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.
-* [X-Tag](https://x-tag.readme.io/) X-Tag is a small JavaScript library, created and supported by Mozilla, that brings Web Components Custom Element capabilities to all modern browsers.
-* [Slim.js](http://slimjs.com) Slim.js is a lightning fast library for development of custom-elements and applications based on web-components, using native browser APIs (no black magic involved)
-* [Bosonic](http://bosonic.github.io/) Bosonic is a set of tools that enable you to build Web Components as the spec currently describes, and supporting not-so-modern browsers like IE9.
-* [Polymer Dart](https://www.dartlang.org/polymer/) Polymer.dart is a Dart port of Polymer. Build Web Components with Dart, and interoperate with Web Components built with JavaScript.
-* [Skate](https://github.com/skatejs/skatejs) Skate is a web component library that is focused on being a tiny, performant, syntactic-sugar for binding behaviour to custom and existing elements without ever having to worry about when your element is inserted into the DOM.
-* [Bit](https://www.bitsrc.io) Bit lets you easily [create reusable web components](https://github.com/teambit/bit) from any context. You can store and organize your components together and still find, modify, test and use them individually in any application. 
+- [LitElement](https://lit-element.polymer-project.org) - Simple base class for creating fast, lightweight web components. Part of the Polymer Project.
+- [Polymer](https://polymer-library.polymer-project.org) - Original web component library by the Polymer Project authors.
+- [Skate](https://github.com/skatejs/skatejs) - Web component library focusing on a functional rendering pipeline, clean property / attribute semantics and a small footprint.
 
+## Frameworks
+- [Angular Elements](https://angular.io/guide/elements)
+- [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
+- [Polymer](https://www.polymer-project.org/) Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.
+- [X-Tag](https://x-tag.readme.io/) X-Tag is a small JavaScript library, created and supported by Mozilla, that brings Web Components Custom Element capabilities to all modern browsers.
+- [Slim.js](http://slimjs.com) Slim.js is a lightning fast library for development of custom-elements and applications based on web-components, using native browser APIs (no black magic involved)
+- [Bosonic](http://bosonic.github.io/) Bosonic is a set of tools that enable you to build Web Components as the spec currently describes, and supporting not-so-modern browsers like IE9.
+- [Polymer Dart](https://www.dartlang.org/polymer/) Polymer.dart is a Dart port of Polymer. Build Web Components with Dart, and interoperate with Web Components built with JavaScript.
+- [Skate](https://github.com/skatejs/skatejs) Skate is a web component library that is focused on being a tiny, performant, syntactic-sugar for binding behaviour to custom and existing elements without ever having to worry about when your element is inserted into the DOM.
+- [Bit](https://www.bitsrc.io) Bit lets you easily [create reusable web components](https://github.com/teambit/bit) from any context. You can store and organize your components together and still find, modify, test and use them individually in any application. 
 
-## Screencasts
+## Best Practices
 
-* [Polycasts with Rob Dodson](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN) Rob Dodson from the Chrome Developer Relations team explores the ins and outs of Polymer.
-* [Setting up Bower and Polymer](https://www.youtube.com/watch?v=WX6Hbi-xSUI) I wanted to show how easy it is to get Bower and Polymer setup.
-* [YOLOmer! Polymer and Yeoman for lighting fast dev](https://www.youtube.com/watch?v=INH_OW4lFSs) 'Allo! Rob Dodson here, your host on this tour of the new Polymer generator for Yeoman.
-* [Configurando Bower e Polymer PT-br](https://www.youtube.com/watch?v=owT5n9jlzVI&list=UU5f2WvUyrAkoktfiIuu7a-A) mostrando como é fácil começar a instalação do Bower e do Polymer
+- [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
+- [Custom Element Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
+- [HowTo: Components](https://developers.google.com/web/fundamentals/web-components/examples/)
+- [Open Web Components Recommendations](https://open-wc.org)
 
+## Blogs
+- [webcomponents.org](http://webcomponents.org/) - Home of the Web Components community.
+- [Polymer Blog](https://www.polymer-project.org/blog/) - The latest goings-on with the Polymer project and in the community.
 
-## Support
+## History
 
-* [Are We Componentized Yet?](http://jonrimmer.github.io/are-we-componentized-yet/) Tracking the progress of Web Components through standardisation, polyfillification, and implementation.
+The articles below represent a long story of the Web Components specifications on the way towards the standardization.
+Some of them refer to earlier, so-called "v0" Shadow DOM and Custom Elements specs, and abandoned HTML Imports spec.
+These materials are here for historical reasons only, they are grouped by years and listed in chronological order.
 
+### 2017
 
-## Concatenate
+- [Web Components: The Long Game](https://infrequently.org/2017/10/web-components-the-long-game/)
+- [The broken promise of Web Components](https://dmitriid.com/blog/2017/03/the-broken-promise-of-web-components/)
+- [Regarding the broken promise of Web Components](http://robdodson.me/regarding-the-broken-promise-of-web-components/)
 
-* [Vulcanize](https://github.com/polymer/vulcanize) Concatenate a set of Web Components into one file
+### 2016
 
+- [Demythstifying Web Components](http://www.backalleycoder.com/2016/08/26/demythstifying-web-components/)
+- [Understanding Web Components](https://medium.com/the-ui-files/understanding-web-components-d051baa66019)
 
-## Polyfills
-* [WebComponentsjs](https://github.com/WebComponents/webcomponentsjs): A polyfill for Custom Elements, Shadow DOM, HTML Imports, Weakmap, and Mutation Observers
-* [custom-elements](https://github.com/webcomponents/custom-elements): A polyfill for the v1 spec for Custom Elements.
+### 2015
 
-## Boilerplates
+- [Web Components and their role in the future of web development](http://kaytcat.github.io/web-components/)
+- [The state of Web Components](https://hacks.mozilla.org/2015/06/the-state-of-web-components/)
 
-* [Polymer Boilerplate](https://github.com/webcomponents/polymer-boilerplate) A bare minimum custom element starter-kit using Polymer.
-* [X-Tag Boilerplate](https://github.com/webcomponents/xtag-boilerplate) A bare minimum custom element starter-kit using X-Tag.
-* [VanillaJS Boilerplate](https://github.com/webcomponents/element-boilerplate) A bare minimum custom element starter-kit using VanillaJS.
+### 2014
 
+- [A No-Nonsense Guide to Web Components](http://cbateman.com/blog/a-no-nonsense-guide-to-web-components-part-1-the-specs/)
+- [The State of the Componentised Web](https://www.leggetter.co.uk/2014/08/06/state-componentised-web.html)
+- [Web Components and you – dangers to avoid](https://christianheilmann.com/2014/04/18/web-components-and-you-dangers-to-avoid/)
+- [The Web's Declarative, Composable Future](https://addyosmani.com/blog/the-webs-declarative-composable-future/)
+
+### 2013
+
+- [A Guide to Web Components](https://css-tricks.com/modular-future-web-components/)
+
+### 2012
+
+- [Notes on Web Components + ARIA](https://developer.paciellogroup.com/blog/2012/07/notes-on-web-components-aria/)
+- [Introduction to Web Components](https://www.w3.org/TR/2012/WD-components-intro-20120522/)
 
 ## Who To Follow
 
@@ -188,13 +177,13 @@
 [Alex Komoroske](https://twitter.com/jkomoros) | [Pascal Precht](https://twitter.com/PascalPrecht) | [Zeno Rocha](https://twitter.com/zenorocha) | [Daniel Buchner](https://twitter.com/csuwildcat) | [Angelina Fabbro](https://twitter.com/hopefulcyborg)
 
 [![Eduardo](https://2.gravatar.com/avatar/42327de520e674a6d1686845b30778d0)](https://twitter.com/eduardolundgren) | [![Pascal Hartig](https://avatars0.githubusercontent.com/u/9906?v=2&s=80)](https://twitter.com/passy) | [![Sindre Sorhus](https://2.gravatar.com/avatar/d36a92237c75c5337c17b60d90686bf9)](https://twitter.com/sindresorhus) | [![Christian](https://2.gravatar.com/avatar/07fcd228af02d476b1b8367d85a903b2)](https://twitter.com/codepo8)
---- | --- | --- | --- | ---
+--- | --- | --- | ---
 [Eduardo lundgren](https://twitter.com/eduardolundgren) | [Pascal Hartig](https://twitter.com/passy) | [Sindre Sorhus](https://twitter.com/sindresorhus) | [Christian Heilmann](https://twitter.com/codepo8)
 
 
 ## License
 
-Copyright 2014, All rights reserved.
+Copyright 2014-2018, All rights reserved.
 
 Code licensed under the:
 [MIT license](http://mateusortiz.mit-license.org)
