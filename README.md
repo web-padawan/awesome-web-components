@@ -166,18 +166,70 @@ These materials are here for historical reasons only, they are grouped by years 
 
 ## Who To Follow
 
-[![Eric Bidelman](https://2.gravatar.com/avatar/e7948aac7c52b26470be80311873a398)](https://twitter.com/ebidel) | [![Addy Osmani](https://2.gravatar.com/avatar/96270e4c3e5e9806cf7245475c00b275)](https://twitter.com/addyosmani) | [![Rob Dodson](https://2.gravatar.com/avatar/95c3a3b33ea51545229c625bef42e343)](https://twitter.com/rob_dodson) | [![Web Components](https://2.gravatar.com/avatar/cedf2a3fe1ccf53aa00f50dda79cedf3)](https://twitter.com/web_components) | [![Polymer](https://avatars0.githubusercontent.com/u/2159051?v=2&s=80)](https://twitter.com/polymer)
---- | --- | --- | --- | ---
-[Eric Bidelman](https://twitter.com/ebidel) | [Addy Osmani](https://twitter.com/addyosmani) | [Rob Dodson](https://twitter.com/rob_dodson) | [Web Components](https://twitter.com/web_components) | [Polymer](https://twitter.com/polymer)
-
-[![Alex Komoroske](https://lh5.googleusercontent.com/-WlbCSDZ9t5Y/AAAAAAAAAAI/AAAAAAAAC2M/A_HM2ovbT2o/s80-c/photo.jpg)](https://twitter.com/jkomoros) | [![Pascal](https://2.gravatar.com/avatar/b32bdb1fc9fdadeb45d7a1267fdd2fc4)](https://twitter.com/PascalPrecht) | [![Zeno Rocha](https://2.gravatar.com/avatar/e190023b66e2b8aa73a842b106920c93)](https://twitter.com/zenorocha) | [![Daniel Buchner](https://2.gravatar.com/avatar/35e22073952684192bb93702a947308c)](https://twitter.com/csuwildcat) | [![Angelina Fabbro](https://2.gravatar.com/avatar/25bb0913435212f30f2fec0eb6e60dde)](https://twitter.com/hopefulcyborg)
---- | --- | --- | --- | ---
-[Alex Komoroske](https://twitter.com/jkomoros) | [Pascal Precht](https://twitter.com/PascalPrecht) | [Zeno Rocha](https://twitter.com/zenorocha) | [Daniel Buchner](https://twitter.com/csuwildcat) | [Angelina Fabbro](https://twitter.com/hopefulcyborg)
-
-[![Eduardo](https://2.gravatar.com/avatar/42327de520e674a6d1686845b30778d0)](https://twitter.com/eduardolundgren) | [![Pascal Hartig](https://avatars0.githubusercontent.com/u/9906?v=2&s=80)](https://twitter.com/passy) | [![Sindre Sorhus](https://2.gravatar.com/avatar/d36a92237c75c5337c17b60d90686bf9)](https://twitter.com/sindresorhus) | [![Christian](https://2.gravatar.com/avatar/07fcd228af02d476b1b8367d85a903b2)](https://twitter.com/codepo8)
---- | --- | --- | ---
-[Eduardo lundgren](https://twitter.com/eduardolundgren) | [Pascal Hartig](https://twitter.com/passy) | [Sindre Sorhus](https://twitter.com/sindresorhus) | [Christian Heilmann](https://twitter.com/codepo8)
-
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://twitter.com/ChromiumDev">
+          <img width="150" height="150" src="https://pbs.twimg.com/profile_images/1065986962467647489/Qrc3K-jZ_200x200.jpg">
+          <br>
+          Chrome Developers
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/polymer">
+          <img width="150" height="150" src="https://pbs.twimg.com/profile_images/1063502058337136640/RmlG_bbW_200x200.jpg">
+          <br>
+          Polymer
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/MSEdgeUpdates">
+          <img width="150" height="150" src="https://pbs.twimg.com/profile_images/984976713351356416/YtUr94vb_200x200.jpg">
+          <br>
+          Edge Platform Updates
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/web_components">
+          <img width="150" height="150" src="https://pbs.twimg.com/profile_images/836671393844572160/eRcwt6Fw_200x200.jpg">
+          <br>
+          Web Components
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://twitter.com/shadow_hayato">
+          <img width="150" height="150" src="https://pbs.twimg.com/profile_images/448411087294046208/Nd6c9fr-_200x200.png">
+          <br>
+          Hayato Ito
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/rob_dodson">
+          <img width="150" height="150" src="https://pbs.twimg.com/profile_images/1031947699019427840/xl6p8ZBu_200x200.jpg">
+          <br>
+          Rob Dodson
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/ebidel">
+          <img width="150" height="150" src="https://pbs.twimg.com/profile_images/955031454781616129/JRpZOp1l_200x200.jpg">
+          <br>
+          Eric Bidelman
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/justinfagnani">
+          <img width="150" height="150" src="https://pbs.twimg.com/profile_images/378800000808710206/2dbdaa1cb7b0db02f997aea5b40f29b8_200x200.jpeg">
+          <br>
+          Justin Fagnani
+        </a>
+      </td>
+    </tr>
+  <tbody>
+</table>
 
 ## License
 
