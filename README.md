@@ -17,7 +17,7 @@
 - [Frameworks](#frameworks)
 - [Best Practices](#best-practices)
 - [Blogs](#blogs)
-- [History](#history)
+- [History](#history)
 - [Who to follow](#who-to-follow)
 - [License](#license)
 
