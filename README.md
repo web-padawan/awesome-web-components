@@ -171,25 +171,25 @@ These materials are here for historical reasons only, they are grouped by years 
     <tr>
       <td align="center">
         <a href="https://twitter.com/ChromiumDev">
-          <img width="73" height="73" src="https://pbs.twimg.com/profile_images/1065986962467647489/Qrc3K-jZ_bigger.jpg">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1065986962467647489/Qrc3K-jZ_80x80.jpg">
           <div>Chrome Developers</div>
         </a>
       </td>
       <td align="center">
         <a href="https://twitter.com/polymer">
-          <img width="73" height="73" src="https://pbs.twimg.com/profile_images/1063502058337136640/RmlG_bbW_bigger.jpg">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1063502058337136640/RmlG_bbW_80x80.jpg">
           <div>Polymer</div>
         </a>
       </td>
       <td align="center">
         <a href="https://twitter.com/MSEdgeUpdates">
-          <img width="73" height="73" src="https://pbs.twimg.com/profile_images/984976713351356416/YtUr94vb_bigger.jpg">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/984976713351356416/YtUr94vb_80x80.jpg">
           <div>Edge Platform Updates</div>
         </a>
       </td>
       <td align="center">
         <a href="https://twitter.com/web_components">
-          <img width="73" height="73" src="https://pbs.twimg.com/profile_images/836671393844572160/eRcwt6Fw_bigger.jpg">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/836671393844572160/eRcwt6Fw_80x80.jpg">
           <div>Web Components</div>
         </a>
       </td>
@@ -197,25 +197,25 @@ These materials are here for historical reasons only, they are grouped by years 
     <tr>
       <td align="center">
         <a href="https://twitter.com/shadow_hayato">
-          <img width="73" height="73" src="https://pbs.twimg.com/profile_images/448411087294046208/Nd6c9fr-_bigger.png">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/448411087294046208/Nd6c9fr-_80x80.png">
           <div>Hayato Ito</div>
         </a>
       </td>
       <td align="center">
         <a href="https://twitter.com/rob_dodson">
-          <img width="73" height="73" src="https://pbs.twimg.com/profile_images/1031947699019427840/xl6p8ZBu_bigger.jpg">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1031947699019427840/xl6p8ZBu_80x80.jpg">
           <div>Rob Dodson</div>
         </a>
       </td>
       <td align="center">
         <a href="https://twitter.com/ebidel">
-          <img width="73" height="73" src="https://pbs.twimg.com/profile_images/955031454781616129/JRpZOp1l_bigger.jpg">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/955031454781616129/JRpZOp1l_80x80.jpg">
           <div>Eric Bidelman</div>
         </a>
       </td>
       <td align="center">
         <a href="https://twitter.com/justinfagnani">
-          <img width="73" height="73" src="https://pbs.twimg.com/profile_images/378800000808710206/2dbdaa1cb7b0db02f997aea5b40f29b8_bigger.jpeg">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/378800000808710206/2dbdaa1cb7b0db02f997aea5b40f29b8_80x80.jpeg">
           <div>Justin Fagnani</div>
         </a>
       </td>
