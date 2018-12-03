@@ -21,7 +21,7 @@
 - [Who to follow](#who-to-follow)
 - [License](#license)
 
-> Web Components the Right Way was made with love by [Mateus Ortiz](https://twitter.com/mteusortiz)
+> Web Components the Right Way was made with love by [Mateus Ortiz](https://twitter.com/mteusortiz) and maintained by [Serhii Kulykov](https://twitter.com/serhiikulykov)
 
 ## Specifications
 
