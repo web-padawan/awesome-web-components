@@ -117,6 +117,7 @@
 
 ## Best Practices
 
+- [Guidelines for creating web platform compatible components](https://w3ctag.github.io/webcomponents-design-guidelines/)
 - [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
 - [Custom Element Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
 - [HowTo: Components](https://developers.google.com/web/fundamentals/web-components/examples/)
