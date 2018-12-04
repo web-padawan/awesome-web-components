@@ -168,6 +168,9 @@ These materials are here for historical reasons only, they are grouped by years 
 - [Notes on Web Components + ARIA](https://developer.paciellogroup.com/blog/2012/07/notes-on-web-components-aria/)
 - [Introduction to Web Components](https://www.w3.org/TR/2012/WD-components-intro-20120522/)
 
+### 2011
+- [What the Heck is Shadow DOM?](https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
+
 ## Who To Follow
 
 <table>
