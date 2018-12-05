@@ -115,6 +115,7 @@
 - [Switzerland](https://github.com/Wildhoney/Switzerland) - Library allowing to create Web Components in a functional way via middleware functions.
 
 ## Frameworks
+
 - [Angular Elements](https://angular.io/guide/elements)
 - [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
 
@@ -126,9 +127,13 @@
 - [HowTo: Components](https://developers.google.com/web/fundamentals/web-components/examples/)
 - [Open Web Components Recommendations](https://open-wc.org)
 
+## Discover
+
+- [webcomponents.org](http://webcomponents.org/) - Discuss &amp; share web components.
+- [web-components-todo](https://github.com/shprink/web-components-todo) - Simple todo list built with various Web Components technologies.
+
 ## Blogs
 
-- [webcomponents.org](http://webcomponents.org/) - Home of the Web Components community.
 - [Polymer Blog](https://www.polymer-project.org/blog/) - The latest goings-on with the Polymer project and in the community.
 
 ## History
