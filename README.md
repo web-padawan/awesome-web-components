@@ -16,6 +16,7 @@
 - [Libraries](#libraries)
 - [Frameworks](#frameworks)
 - [Best Practices](#best-practices)
+- [Discover](#discover)
 - [Blogs](#blogs)
 - [History](#history)
 - [Who to follow](#who-to-follow)
