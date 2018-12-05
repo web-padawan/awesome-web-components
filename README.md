@@ -73,6 +73,7 @@
 
 - [Shadow DOM v1: Self-Contained Web Components](https://developers.google.com/web/fundamentals/web-components/shadowdom)
 - [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
+- [Shadow DOM in depth](https://github.com/praveenpuglia/shadow-dom-in-depth)
 - [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/)
 - [Introducing Slot-Based Shadow DOM API (WebKit)](https://webkit.org/blog/4096/introducing-shadow-dom-api/)
 - [Using Shadow DOM (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
