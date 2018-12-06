@@ -188,6 +188,20 @@ These materials are here for historical reasons only, they are grouped by years 
 ### 2011
 - [What the Heck is Shadow DOM?](https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
 
+## Future
+
+### CSS Shadow Parts
+
+- [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
+- [::part and ::theme, an ::explainer](https://meowni.ca/posts/part-theme-explainer/) - Blog post by Monica Dinculescu.
+- [::part and ::theme pseudo elements on shadow hosts](https://www.chromestatus.com/features/5763933658939392) - Feature in Chrome platform status.
+
+### Form participation API for Custom Elements
+
+- [GitHub issue](https://github.com/w3c/webcomponents/issues/187)
+- [Form Participation API Explained](https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit?usp=sharing) - Document by Google Chrome team.
+- [Form-associated custom elements](https://www.chromestatus.com/features/4708990554472448) - Feature in Chrome platform status.
+
 ## Who To Follow
 
 <table>
