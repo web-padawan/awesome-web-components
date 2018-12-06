@@ -15,6 +15,8 @@
 - [Polyfills](#polyfills)
 - [Libraries](#libraries)
 - [Frameworks](#frameworks)
+  - [Angular](#angular)
+  - [Vue](#vue)
 - [Best Practices](#best-practices)
 - [Discover](#discover)
 - [Blogs](#blogs)
@@ -118,8 +120,15 @@
 
 ## Frameworks
 
-- [Angular Elements](https://angular.io/guide/elements)
+### Angular
+
+- [Angular Elements Overview](https://angular.io/guide/elements)
+- [Building Custom Elements / Web Components with Angular 6](https://medium.com/@tomsu/building-web-components-with-angular-elements-746cd2a38d5b)
+
+### Vue
+
 - [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
+- [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
 
 ## Best Practices
 
