@@ -196,7 +196,7 @@ These materials are here for historical reasons only, they are grouped by years 
 ### CSS Shadow Parts
 
 - [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
-- [::part and ::theme, an ::explainer](https://meowni.ca/posts/part-theme-explainer/) - Blog post by Monica Dinculescu.
+- [Explainer: CSS Shadow ::part and ::theme](https://github.com/fergald/docs/blob/master/explainers/css-shadow-parts-1.md)
 - [::part and ::theme pseudo elements on shadow hosts](https://www.chromestatus.com/features/5763933658939392) - Feature in Chrome platform status.
 
 ### Form-associated Custom Elements
