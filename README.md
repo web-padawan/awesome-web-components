@@ -175,6 +175,7 @@ These materials are here for historical reasons only, they are grouped by years 
 ### 2014
 
 - [A No-Nonsense Guide to Web Components](http://cbateman.com/blog/a-no-nonsense-guide-to-web-components-part-1-the-specs/)
+- [Mozilla and Web Components: Update](https://hacks.mozilla.org/2014/12/mozilla-and-web-components/)
 - [The State of the Componentised Web](https://www.leggetter.co.uk/2014/08/06/state-componentised-web.html)
 - [Web Components and you – dangers to avoid](https://christianheilmann.com/2014/04/18/web-components-and-you-dangers-to-avoid/)
 - [The Web's Declarative, Composable Future](https://addyosmani.com/blog/the-webs-declarative-composable-future/)
