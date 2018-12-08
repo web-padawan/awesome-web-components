@@ -171,6 +171,8 @@ These materials are here for historical reasons only, they are grouped by years 
 ### 2015
 
 - [Web Components and their role in the future of web development](http://kaytcat.github.io/web-components/)
+- [Microsoft Edge and Web Components](https://blogs.windows.com/msedgedev/2015/07/15/microsoft-edge-and-web-components/)
+- [Bringing componentization to the web: An overview of Web Components](https://blogs.windows.com/msedgedev/2015/07/14/bringing-componentization-to-the-web-an-overview-of-web-components/)
 - [The state of Web Components](https://hacks.mozilla.org/2015/06/the-state-of-web-components/)
 
 ### 2014
