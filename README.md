@@ -120,6 +120,7 @@
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 - [slim.js](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
 - [Switzerland](https://github.com/Wildhoney/Switzerland) - Library allowing to create Web Components in a functional way via middleware functions.
+- [custom-element-ts](https://github.com/geocine/custom-elements-ts) - Create native custom elements using Typescript without using any third party libraries.
 
 ## Frameworks
 
