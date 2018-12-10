@@ -201,8 +201,10 @@ These materials are here for historical reasons only, they are grouped by years 
 ### CSS Shadow Parts
 
 - [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
+- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
 - [Explainer: CSS Shadow ::part and ::theme](https://github.com/fergald/docs/blob/master/explainers/css-shadow-parts-1.md)
 - [::part and ::theme pseudo elements on shadow hosts](https://www.chromestatus.com/features/5763933658939392) - Feature in Chrome platform status.
+- [Intent to Ship: CSS shadow parts](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/DAmfw08GGis/-0OyBbTmBgAJ) - Update regarding implementation in Blink.
 
 ### Form-associated Custom Elements
 
