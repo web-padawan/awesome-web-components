@@ -120,7 +120,7 @@
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 - [slim.js](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
 - [Switzerland](https://github.com/Wildhoney/Switzerland) - Library allowing to create Web Components in a functional way via middleware functions.
-- [smart-element](https://htmlelements.com) - UI library for creating custom elements with simple API. Supports property
+- [Smart Custom Element](https://github.com/HTMLElements/smart-custom-element) - UI library for creating custom elements with simple API. Supports property
 bindings, property change notifications, templates, localization, events engine, type validation.
 
 ## Frameworks
