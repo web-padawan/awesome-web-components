@@ -77,6 +77,7 @@
 ## Shadow DOM
 
 - [Shadow DOM v1: Self-Contained Web Components](https://developers.google.com/web/fundamentals/web-components/shadowdom)
+- [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
 - [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
 - [Shadow DOM in depth](https://github.com/praveenpuglia/shadow-dom-in-depth)
 - [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/)
