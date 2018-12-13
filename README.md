@@ -217,6 +217,7 @@ These materials are here for historical reasons only, they are grouped by years 
 ### Form-associated Custom Elements
 
 - [GitHub issue](https://github.com/w3c/webcomponents/issues/187)
+- [Intent to Implement: Form-associated custom elements](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/HW8j_JLLiPo) - Update regarding implementation in Blink.
 - [Form Participation API Explained](https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit?usp=sharing) - Document by Google Chrome team.
 - [Form-associated custom elements](https://www.chromestatus.com/features/4708990554472448) - Feature in Chrome platform status.
 
