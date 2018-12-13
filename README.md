@@ -223,6 +223,7 @@ These materials are here for historical reasons only, they are grouped by years 
 
 ### Constructable Stylesheet Objects
 
+- [GitHub issue](https://github.com/w3c/webcomponents/issues/468)
 - [Specification Draft](https://wicg.github.io/construct-stylesheets/)
 - [web-platform-tests](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html)
 - [Explainer](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md)
