@@ -150,6 +150,7 @@ bindings, property change notifications, templates, localization, events engine,
 - [webcomponents.org](http://webcomponents.org/) - Discuss &amp; share web components.
 - [web-components-todo](https://github.com/shprink/web-components-todo) - Simple todo list built with various Web Components technologies.
 - [web-components-benchmark](https://github.com/vogloblinsky/web-components-benchmark) - Benchmark for a Todo list application with various Web Components technologies.
+- [web-components-examples](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
 
 ## Blogs
 
