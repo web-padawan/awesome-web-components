@@ -24,6 +24,7 @@
 - [Future](#future)
   - [CSS Shadow Parts](#css-shadow-parts)
   - [Form-associated Custom Elements](#form-associated-custom-elements)
+  - [Constructable Stylesheet Objects](#constructable-stylesheet-objects)
 - [Who to follow](#who-to-follow)
 - [License](#license)
 
@@ -218,6 +219,16 @@ These materials are here for historical reasons only, they are grouped by years 
 - [GitHub issue](https://github.com/w3c/webcomponents/issues/187)
 - [Form Participation API Explained](https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit?usp=sharing) - Document by Google Chrome team.
 - [Form-associated custom elements](https://www.chromestatus.com/features/4708990554472448) - Feature in Chrome platform status.
+
+### Constructable Stylesheet Objects
+
+- [Specification Draft](https://wicg.github.io/construct-stylesheets/)
+- [web-platform-tests](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html)
+- [Explainer](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md)
+- [Intent to Ship: Constructable Stylesheet Objects](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/gL2EVBzO5og/YfId9-vqBAAJ) - Update regarding implementation in Blink.
+- [Constructable Stylesheets](https://www.chromestatus.com/feature/5394843094220800) - Feature in Chrome platform status.
+- [GitHub issue for Polymer integration](https://github.com/Polymer/polymer/issues/5456)
+- [GitHub issue for lit-html integration](https://github.com/Polymer/lit-html/issues/689)
 
 ## Who To Follow
 
