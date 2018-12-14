@@ -11,14 +11,14 @@
 - [Custom Elements](#custom-elements)
 - [Shadow DOM](#shadow-dom)
 - [HTML Templates](#html-templates)
-- [Tutorials](#tutorials)
 - [Polyfills](#polyfills)
+- [Best Practices](#best-practices)
+- [Discover](#discover)
 - [Libraries](#libraries)
 - [Frameworks](#frameworks)
   - [Angular](#angular)
   - [Vue](#vue)
-- [Best Practices](#best-practices)
-- [Discover](#discover)
+- [Tutorials](#tutorials)
 - [Blogs](#blogs)
 - [History](#history)
 - [Future](#future)
@@ -89,21 +89,7 @@
 ## HTML Templates
 
 - [&lt;template&gt;: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
-- [Using templates and slots (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots)
-
-## Tutorials
-
-- "**Let's Build Web Components!**" by [Benny Powers](https://github.com/bennypowers)
-  - [Part 1: The Standards](https://dev.to/bennypowers/lets-build-web-components-part-1-the-standards-3e85)
-  - [Part 2: The Polyfills](https://dev.to/bennypowers/lets-build-web-components-part-2-the-polyfills-dkh)
-  - [Part 3: Vanilla Components](https://dev.to/bennypowers/lets-build-web-components-part-3-vanilla-components-4on3)
-  - [Part 4: Polymer Library](https://dev.to/bennypowers/lets-build-web-components-part-4-polymer-library-4dk2)
-  - [Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
-  - [Part 6: Gluon](https://dev.to/bennypowers/lets-build-web-components-part-6-gluon-27ll)
-
-- "**Web components: from zero to hero**" by [Pascal Schilp](https://github.com/thepassle)
-  - [Part 1: An introduction to writing raw Web Components](https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m)
-  - [Part 2: Supercharging Web Components with lit-html](https://dev.to/thepassle/web-components-from-zero-to-hero-part-two-38p4)
+- [Using templates and slots (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots))
 
 ## Polyfills
 
@@ -112,6 +98,21 @@
 - [shadydom](https://github.com/webcomponents/shadydom) - ShadowDOM v1 shim.
 - [shadycss](https://github.com/webcomponents/shadycss) - ShadowDOM style encapsulation shim.
 - [template](https://github.com/webcomponents/template) - Minimal polyfill for `<template>`.
+
+## Best Practices
+
+- [Custom Element Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
+- [Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
+- [Guidelines for creating web platform compatible components](https://w3ctag.github.io/webcomponents-design-guidelines/)
+- [HowTo: Components](https://developers.google.com/web/fundamentals/web-components/examples/)
+- [Open Web Components Recommendations](https://open-wc.org)
+
+## Discover
+
+- [webcomponents.org](http://webcomponents.org/) - Discuss &amp; share web components.
+- [web-components-benchmark](https://github.com/vogloblinsky/web-components-benchmark) - Benchmark for a Todo list application with various Web Components technologies.
+- [web-components-examples](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
+- [web-components-todo](https://github.com/shprink/web-components-todo) - Simple todo list built with various Web Components technologies.
 
 ## Libraries
 
@@ -138,20 +139,19 @@ bindings, property change notifications, templates, localization, events engine,
 - [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
 - [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
 
-## Best Practices
+## Tutorials
 
-- [Guidelines for creating web platform compatible components](https://w3ctag.github.io/webcomponents-design-guidelines/)
-- [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
-- [Custom Element Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
-- [HowTo: Components](https://developers.google.com/web/fundamentals/web-components/examples/)
-- [Open Web Components Recommendations](https://open-wc.org)
+- "**Let's Build Web Components!**" by [Benny Powers](https://github.com/bennypowers)
+  - [Part 1: The Standards](https://dev.to/bennypowers/lets-build-web-components-part-1-the-standards-3e85)
+  - [Part 2: The Polyfills](https://dev.to/bennypowers/lets-build-web-components-part-2-the-polyfills-dkh)
+  - [Part 3: Vanilla Components](https://dev.to/bennypowers/lets-build-web-components-part-3-vanilla-components-4on3)
+  - [Part 4: Polymer Library](https://dev.to/bennypowers/lets-build-web-components-part-4-polymer-library-4dk2)
+  - [Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
+  - [Part 6: Gluon](https://dev.to/bennypowers/lets-build-web-components-part-6-gluon-27ll)
 
-## Discover
-
-- [webcomponents.org](http://webcomponents.org/) - Discuss &amp; share web components.
-- [web-components-todo](https://github.com/shprink/web-components-todo) - Simple todo list built with various Web Components technologies.
-- [web-components-benchmark](https://github.com/vogloblinsky/web-components-benchmark) - Benchmark for a Todo list application with various Web Components technologies.
-- [web-components-examples](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
+- "**Web components: from zero to hero**" by [Pascal Schilp](https://github.com/thepassle)
+  - [Part 1: An introduction to writing raw Web Components](https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m)
+  - [Part 2: Supercharging Web Components with lit-html](https://dev.to/thepassle/web-components-from-zero-to-hero-part-two-38p4
 
 ## Blogs
 
