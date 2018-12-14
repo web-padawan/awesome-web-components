@@ -15,6 +15,7 @@
 - [Best Practices](#best-practices)
 - [Discover](#discover)
 - [Libraries](#libraries)
+- [Component Libraries](#component-libraries)
 - [Frameworks](#frameworks)
   - [Angular](#angular)
   - [Vue](#vue)
@@ -125,6 +126,13 @@
 - [slim.js](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
 - [Smart Custom Element](https://github.com/HTMLElements/smart-custom-element) - UI library for creating custom elements with simple API.
 - [Switzerland](https://github.com/Wildhoney/Switzerland) - Library allowing to create Web Components in a functional way via middleware functions.
+
+## Component Libraries
+
+- [Elix](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
+- [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components.
+- [Vaadin components](https://github.com/vaadin/vaadin) - Evolving set of high-quality web components for building business web applications.
+- [Wired Elements](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
 
 ## Frameworks
 
