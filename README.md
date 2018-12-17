@@ -151,8 +151,8 @@
 
 ## Books
 
-- [Web Components in Action](https://www.manning.com/books/web-components-in-action) - Book about Web Components by Ben Farrell, available at Manning early release program.
-- [Web Component Essentials](https://leanpub.com/web-component-essentials) - Book introducing Web Components by Cory Rylan, early preview edition available at Leanpub.
+- [Web Components in Action](https://www.manning.com/books/web-components-in-action) - Book by Ben Farrell, available at Manning early release program.
+- [Web Component Essentials](https://leanpub.com/web-component-essentials) - Book by Cory Rylan, early preview edition available at Leanpub.
 
 ## Tutorials
 
