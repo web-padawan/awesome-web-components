@@ -21,6 +21,7 @@
 - [Frameworks](#frameworks)
   - [Angular](#angular)
   - [Vue](#vue)
+- [Books](#books)
 - [Tutorials](#tutorials)
 - [Blogs](#blogs)
 - [History](#history)
