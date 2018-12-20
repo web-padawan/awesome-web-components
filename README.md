@@ -15,6 +15,7 @@
 - [HTML Templates](#html-templates)
 - [Polyfills](#polyfills)
 - [Best Practices](#best-practices)
+- [Use Cases](#use-cases)
 - [Discover](#discover)
 - [Libraries](#libraries)
 - [Component Libraries](#component-libraries)
@@ -61,10 +62,7 @@
 - [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
 - [Web Components 101: An Introduction to Web Components](https://www.telerik.com/blogs/web-components-101-an-introduction-to-web-components)
 - [Web Components in 2018](https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/)
-- [Making Web Components Work](https://engineering.mixpanel.com/2018/06/12/making-web-components-work/)
 - [Web Components Introduction: Creating Custom HTML Elements in 2018](https://www.grapecity.com/en/blogs/web-components-introduction-creating-custom-html-elements-2018)
-- [Web Components — the right way](https://equinsuocha.io/blog/web-components-the-right-way/)
-- [Lessons Learned, making our app with Web Components](https://medium.com/samsung-internet-dev/lessons-learned-making-our-app-with-web-components-bf55379cfcda)
 
 ## Custom Elements
 
@@ -110,6 +108,12 @@
 - [Guidelines for creating web platform compatible components](https://w3ctag.github.io/webcomponents-design-guidelines/)
 - [HowTo: Components](https://developers.google.com/web/fundamentals/web-components/examples/)
 - [Open Web Components Recommendations](https://open-wc.org)
+
+## Use Cases
+
+- [Lessons Learned, making our app with Web Components](https://medium.com/samsung-internet-dev/lessons-learned-making-our-app-with-web-components-bf55379cfcda)
+- [Making Web Components Work](https://engineering.mixpanel.com/2018/06/12/making-web-components-work/)
+- [Web Components — the right way](https://equinsuocha.io/blog/web-components-the-right-way/)
 
 ## Discover
 
