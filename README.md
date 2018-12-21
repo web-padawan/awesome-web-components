@@ -16,6 +16,7 @@
 - [Polyfills](#polyfills)
 - [Best Practices](#best-practices)
 - [Use Cases](#use-cases)
+- [Accessibility](#accessibility)
 - [Discover](#discover)
 - [Libraries](#libraries)
 - [Component Libraries](#component-libraries)
@@ -73,7 +74,6 @@
 - [The Case for Custom Elements: Part 1](https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439)
 - [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133)
 - [Custom Elements That Work Anywhere](https://robdodson.me/interoperable-custom-elements/)
-- [The future of accessibility for custom elements](https://robdodson.me/the-future-of-accessibility-for-custom-elements/)
 - [Using Custom Elements (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
 - [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
 
@@ -109,12 +109,16 @@
 - [HowTo: Components](https://developers.google.com/web/fundamentals/web-components/examples/)
 - [Open Web Components Recommendations](https://open-wc.org)
 
+## Accessibility
+
+- [The future of accessibility for custom elements](https://robdodson.me/the-future-of-accessibility-for-custom-elements/)
+- [Web components still need to be accessible](https://www.24a11y.com/2018/web-components-still-need-to-be-accessible/)
+
 ## Use Cases
 
 - [Lessons Learned, making our app with Web Components](https://medium.com/samsung-internet-dev/lessons-learned-making-our-app-with-web-components-bf55379cfcda)
 - [Making Web Components Work](https://engineering.mixpanel.com/2018/06/12/making-web-components-work/)
 - [Web Components — the right way](https://equinsuocha.io/blog/web-components-the-right-way/)
-- [Web components still need to be accessible](https://www.24a11y.com/2018/web-components-still-need-to-be-accessible/)
 
 ## Discover
 
