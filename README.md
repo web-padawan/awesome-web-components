@@ -111,6 +111,7 @@
 
 ## Accessibility
 
+- [Styling Accessibility: A Web Components Approach](https://medium.com/@cfscorreia/styling-accessibility-a-web-components-approach-dc2aa8123eb2)
 - [The future of accessibility for custom elements](https://robdodson.me/the-future-of-accessibility-for-custom-elements/)
 - [Web components still need to be accessible](https://www.24a11y.com/2018/web-components-still-need-to-be-accessible/)
 
