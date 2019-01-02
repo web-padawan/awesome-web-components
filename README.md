@@ -123,6 +123,7 @@
 
 - [Lessons Learned, making our app with Web Components](https://medium.com/samsung-internet-dev/lessons-learned-making-our-app-with-web-components-bf55379cfcda)
 - [Making Web Components Work](https://engineering.mixpanel.com/2018/06/12/making-web-components-work/)
+- [Micro Frontends — extending the microservice idea to frontend development](https://micro-frontends.org)
 - [Web Components — the right way](https://equinsuocha.io/blog/web-components-the-right-way/)
 
 ## Discover
