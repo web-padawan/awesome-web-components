@@ -24,6 +24,7 @@
   - [Other](#other)
 - [Component Libraries](#component-libraries)
 - [Frameworks](#frameworks)
+  - [Overview](#overview)
   - [Angular](#angular)
   - [Vue](#vue)
 - [Compilers](#compilers)
@@ -166,6 +167,10 @@
 - [Wired Elements](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
 
 ## Frameworks
+
+### Overview
+
+- [JavaScript frameworks, meet Web Components](https://www.voorhoede.nl/nl/blog/javascript-frameworks-meet-web-components/)
 
 ### Angular
 
