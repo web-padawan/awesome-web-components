@@ -140,6 +140,7 @@
 
 ### Class Based
 
+- [Corpuscule](https://github.com/corpusculejs/corpuscule) - Small Web Components framework based on decorators.
 - [LitElement](https://lit-element.polymer-project.org) - Simple base class for creating fast, lightweight web components. Part of the Polymer Project.
 - [Omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).
 - [Polymer](https://polymer-library.polymer-project.org) - Original web component library by the Polymer Project authors.
