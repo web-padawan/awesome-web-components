@@ -31,6 +31,7 @@
 - [Books](#books)
 - [Tutorials](#tutorials)
 - [Blogs](#blogs)
+- [Articles](#articles)
 - [History](#history)
 - [Future](#future)
   - [CSS Shadow Parts](#css-shadow-parts)
@@ -217,6 +218,9 @@
 ## Blogs
 
 - [Polymer Blog](https://www.polymer-project.org/blog/) - The latest goings-on with the Polymer project and in the community.
+
+## Articles
+- [Using CSS-in-JS to Style Custom Elements](https://css-tricks.com/web-standards-meet-user-land-using-css-in-js-to-style-custom-elements/) by Ollie Williams
 
 ## History
 
