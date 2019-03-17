@@ -125,7 +125,7 @@
 
 ## Use Cases
 
-- [ING ❤ Web Components](https://dev.to/thepassle/ing--web-components-510c)
+- [ING ❤ Web Components](https://dev.to/thepassle/ing--web-components-aef)
 - [Lessons Learned, making our app with Web Components](https://medium.com/samsung-internet-dev/lessons-learned-making-our-app-with-web-components-bf55379cfcda)
 - [Making Web Components Work](https://engineering.mixpanel.com/2018/06/12/making-web-components-work/)
 - [Micro Frontends — extending the microservice idea to frontend development](https://micro-frontends.org)
