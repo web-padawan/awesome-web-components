@@ -161,6 +161,7 @@
 
 - [custom-element-ts](https://github.com/geocine/custom-elements-ts) - Create native custom elements using Typescript without using any third party libraries.
 - [preact-custom-element](https://github.com/bspaulding/preact-custom-element) - Generate/register a custom element from a preact component.
+- [remount](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 
 ## Component Libraries
 
