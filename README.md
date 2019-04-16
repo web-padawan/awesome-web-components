@@ -132,6 +132,7 @@
 - [Making Web Components Work](https://engineering.mixpanel.com/2018/06/12/making-web-components-work/)
 - [Micro Frontends — extending the microservice idea to frontend development](https://micro-frontends.org)
 - [Web Components — the right way](https://equinsuocha.io/blog/web-components-the-right-way/)
+- [Reasons Web Components are perfect for a big company](https://medium.com/@sergicontre/reasons-web-components-are-perfect-for-a-big-company-28790d712ad5)
 
 ## Discover
 
