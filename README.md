@@ -27,6 +27,7 @@
   - [Overview](#overview)
   - [Angular](#angular)
   - [Vue](#vue)
+  - [Aurelia](#aurelia)
 - [Compilers](#compilers)
 - [Books](#books)
 - [Tutorials](#tutorials)
@@ -191,6 +192,10 @@
 
 - [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
 - [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
+
+### Aurelia
+
+- [Aurelia Web Components plugin](https://github.com/aurelia/web-components)
 
 ## Compilers
 
