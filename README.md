@@ -264,6 +264,7 @@ These materials are here for historical reasons only, they are grouped by years 
 
 ### 2011
 
+- [Web Components and Model Driven Views by Alex Russell](https://fronteers.nl/congres/2011/sessions/web-components-and-model-driven-views-alex-russell)
 - [What the Heck is Shadow DOM?](https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
 
 ## Future
