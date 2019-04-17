@@ -170,6 +170,7 @@
 
 - [Elix](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components.
+- [PatternFly Elements](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components, and the tools to build them.
 - [Vaadin components](https://github.com/vaadin/vaadin) - Evolving set of high-quality web components for building business web applications.
 - [Wired Elements](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
 
