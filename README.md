@@ -136,6 +136,7 @@
 
 ## Discover
 
+- [bruck](https://github.com/Heydon/bruck) - Prototyping system built with web components and the Houdini Paint API.
 - [webcomponents.org](http://webcomponents.org/) - Discuss &amp; share web components.
 - [web-components-benchmark](https://github.com/vogloblinsky/web-components-benchmark) - Benchmark for a Todo list application with various Web Components technologies.
 - [web-components-examples](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
