@@ -14,8 +14,8 @@
 - [Shadow DOM](#shadow-dom)
 - [HTML Templates](#html-templates)
 - [Polyfills](#polyfills)
-  - [@webcomponents](#@webcomponents)
-  - [@ungap](#@ungap)
+  - [@webcomponents](#webcomponents)
+  - [@ungap](#ungap)
 - [Best Practices](#best-practices)
 - [Use Cases](#use-cases)
 - [Accessibility](#accessibility)
@@ -113,7 +113,7 @@ The polyfills below are maintained by Polymer team.
 - [@webcomponents/custom-elements](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - Polyfill for HTML Custom Elements v1.
 - [@webcomponents/shadydom](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 shim.
 - [@webcomponents/shadycss](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM style encapsulation shim.
-- [@webcomponents/template](hhttps://github.com/webcomponents/polyfills/tree/master/packages/template) - Minimal polyfill for `<template>`.
+- [@webcomponents/template](https://github.com/webcomponents/polyfills/tree/master/packages/template) - Minimal polyfill for `<template>`.
 
 ### @ungap
 
