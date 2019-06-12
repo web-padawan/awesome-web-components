@@ -14,6 +14,8 @@
 - [Shadow DOM](#shadow-dom)
 - [HTML Templates](#html-templates)
 - [Polyfills](#polyfills)
+  - [@webcomponents](#webcomponents)
+  - [@ungap](#ungap)
 - [Best Practices](#best-practices)
 - [Use Cases](#use-cases)
 - [Accessibility](#accessibility)
@@ -104,11 +106,20 @@
 
 ## Polyfills
 
-- [webcomponents.js](https://github.com/webcomponents/webcomponentsjs) - Suite of polyfills supporting the HTML Web Components specs.
-- [custom-elements](https://github.com/webcomponents/custom-elements) - Polyfill for HTML Custom Elements v1.
-- [shadydom](https://github.com/webcomponents/shadydom) - ShadowDOM v1 shim.
-- [shadycss](https://github.com/webcomponents/shadycss) - ShadowDOM style encapsulation shim.
-- [template](https://github.com/webcomponents/template) - Minimal polyfill for `<template>`.
+### @webcomponents
+
+The polyfills below are maintained by Polymer team.
+
+- [@webcomponents/custom-elements](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - Polyfill for HTML Custom Elements v1.
+- [@webcomponents/shadydom](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 shim.
+- [@webcomponents/shadycss](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM style encapsulation shim.
+- [@webcomponents/template](https://github.com/webcomponents/polyfills/tree/master/packages/template) - Minimal polyfill for `<template>`.
+
+### @ungap
+
+The polyfills below are maintained by [ungap project](https://ungap.github.io).
+
+- [@ungap/custom-elements-builtin](https://github.com/ungap/custom-elements-builtin) - polyfill for Custom Elements builtin extends.
 
 ## Best Practices
 
