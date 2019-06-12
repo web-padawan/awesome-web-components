@@ -25,7 +25,6 @@
   - [Best Practices](#best-practices)
   - [Use Cases](#use-cases)
   - [Accessibility](#accessibility)
-- [Discover](#discover)
 - [Libraries](#libraries)
   - [Class Based](#class-based)
   - [Functional](#functional)
@@ -39,7 +38,7 @@
 - [Compilers](#compilers)
 - [Books](#books)
 - [Tutorials](#tutorials)
-- [Blogs](#blogs)
+- [Miscellaneous](#miscellaneous)
 - [History](#history)
 - [Who to follow](#who-to-follow)
 - [License](#license)
@@ -157,14 +156,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [Web Components — the right way](https://equinsuocha.io/blog/web-components-the-right-way/)
 - [Reasons Web Components are perfect for a big company](https://medium.com/@sergicontre/reasons-web-components-are-perfect-for-a-big-company-28790d712ad5)
 
-## Discover
-
-- [bruck](https://github.com/Heydon/bruck) - Prototyping system built with web components and the Houdini Paint API.
-- [webcomponents.org](http://webcomponents.org/) - Discuss &amp; share web components.
-- [web-components-benchmark](https://github.com/vogloblinsky/web-components-benchmark) - Benchmark for a Todo list application with various Web Components technologies.
-- [web-components-examples](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
-- [web-components-todo](https://github.com/shprink/web-components-todo) - Simple todo list built with various Web Components technologies.
-
 ## Libraries
 
 ### Class Based
@@ -262,9 +253,13 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
   - [Part 4: Encapsulating Style and Structure with Shadow DOM](https://css-tricks.com/encapsulating-style-and-structure-with-shadow-dom/)
   - [Part 5: Advanced Tooling for Web Components](https://css-tricks.com/advanced-tooling-for-web-components/)
 
-## Blogs
+## Miscellaneous
 
-- [Polymer Blog](https://www.polymer-project.org/blog/) - The latest goings-on with the Polymer project and in the community.
+- [bruck](https://github.com/Heydon/bruck) - Prototyping system built with web components and the Houdini Paint API.
+- [webcomponents.org](http://webcomponents.org/) - Discuss &amp; share web components.
+- [web-components-benchmark](https://github.com/vogloblinsky/web-components-benchmark) - Benchmark for a Todo list application with various Web Components technologies.
+- [web-components-examples](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
+- [web-components-todo](https://github.com/shprink/web-components-todo) - Simple todo list built with various Web Components technologies.
 
 ## History
 
