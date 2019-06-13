@@ -274,6 +274,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 
 - [bruck](https://github.com/Heydon/bruck) - Prototyping system built with web components and the Houdini Paint API.
 - [webcomponents.org](http://webcomponents.org/) - Discuss &amp; share web components.
+- [webcomponents.news](http://webcomponents.news) - Collection of articles, tutorials, micro-libraries and websites that showcase Web Components.
 - [web-components-benchmark](https://github.com/vogloblinsky/web-components-benchmark) - Benchmark for a Todo list application with various Web Components technologies.
 - [web-components-examples](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
 - [web-components-todo](https://github.com/shprink/web-components-todo) - Simple todo list built with various Web Components technologies.
