@@ -54,14 +54,17 @@
   - [HTML Living Standard](https://html.spec.whatwg.org/multipage/custom-elements.html)
   - [DOM Living Standard](https://dom.spec.whatwg.org/#concept-element)
   - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements)
+  - [Chrome Platform Status metrics](https://chromestatus.com/metrics/feature/timeline/popularity/1689)
 
 - **Shadow DOM** describes a method of combining multiple DOM trees into one hierarchy and how these trees interact with each other within a document, thus enabling better composition of the DOM.
   - [DOM Living Standard](https://dom.spec.whatwg.org/#shadow-trees), section 4.2.2: shadow tree
   - [DOM Living Standard](https://dom.spec.whatwg.org/#interface-shadowroot), section 4.8: interface `ShadowRoot`
   - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom)
+  - [Chrome Platform Status metrics](https://chromestatus.com/metrics/feature/timeline/popularity/804)
 
 - **`<template>`** element is used to declare fragments of HTML that can be cloned and inserted in the document by script.
   - [HTML Living Standard](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
+  - [Chrome Platform Status metrics](https://chromestatus.com/metrics/feature/timeline/popularity/2769)
 
 ### Proposals
 
