@@ -81,6 +81,7 @@
 
 - [Form Participation API Explained](https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit?usp=sharing) - Document by Google Chrome team.
 - [Form-associated custom elements](https://www.chromestatus.com/features/4708990554472448) - Feature in Chrome platform status.
+- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated)
 
 #### Constructable Stylesheet Objects
 
