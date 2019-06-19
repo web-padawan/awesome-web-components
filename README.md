@@ -93,6 +93,7 @@
 
 - [std-switch](https://github.com/tkent-google/std-switch) - Proposal for `<std-switch>` HTML element implementing a 'switch' control.
 - [std-toast](https://github.com/jackbsteinberg/std-toast) - Proposal for `<std-toast>` HTML element implementing a 'toast' pop-up notification.
+  - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/std-toast)
 
 ### Polyfills
 
