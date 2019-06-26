@@ -193,6 +193,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 
 ### Functional
 
+- [atomico](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 - [osagai](https://github.com/HenriqueLimas/osagai) - Tiny library for creating Web Components in a functional way.
 - [Switzerland](https://github.com/Wildhoney/Switzerland) - Library allowing to create Web Components in a functional way via middleware functions.
