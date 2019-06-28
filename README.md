@@ -202,7 +202,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 
 ### Compilers
 
-- [sveltejs](https://svelte.dev) - Cybernetically enhanced web apps (Can optionaly generate Web Components).
+- [sveltejs](https://svelte.dev) - Cybernetically enhanced web apps (can optionaly generate Web Components).
 - [stenciljs](https://stenciljs.com) - Stencil is a compiler that generates Web Components.
 
 ### Other
