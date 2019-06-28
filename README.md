@@ -194,6 +194,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 ### Functional
 
 - [atomico](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
+- [haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 - [reLift-HTML](https://github.com/mardix/relift-html) - Small (3kb) view library allowing to create Web Components and to make HTML pages reactive.
 - [osagai](https://github.com/HenriqueLimas/osagai) - Tiny library for creating Web Components in a functional way.
