@@ -251,11 +251,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 
 - [Aurelia Web Components plugin](https://github.com/aurelia/web-components)
 
-## Compilers
-
-- [Stencil](https://stenciljs.com/docs/introduction/) - compiler that generates web components.
-- [Svelte](https://svelte.technology/guide#custom-elements) - compiler which can be configured to generate custom elements.
-
 ## Books
 
 - [Web Components in Action](https://www.manning.com/books/web-components-in-action) - Book by Ben Farrell, available at Manning early release program.
