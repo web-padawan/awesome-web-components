@@ -29,6 +29,7 @@
 - [Libraries](#libraries)
   - [Class Based](#class-based)
   - [Functional](#functional)
+  - [Compilers](#compilers)
   - [Other](#other)
 - [Component Libraries](#component-libraries)
 - [Frameworks](#frameworks)
@@ -36,7 +37,6 @@
   - [Angular](#angular)
   - [Vue](#vue)
   - [Aurelia](#aurelia)
-- [Compilers](#compilers)
 - [Books](#books)
 - [Tutorials](#tutorials)
 - [Miscellaneous](#miscellaneous)
@@ -200,6 +200,11 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [Switzerland](https://github.com/Wildhoney/Switzerland) - Library allowing to create Web Components in a functional way via middleware functions.
 - [ullr](https://github.com/aggre/ullr) - Library for building Web Components with functional programming.
 
+### Compilers
+
+- [Stencil](https://stenciljs.com) - Compiler that generates Web Components.
+- [Svelte](https://svelte.dev) - Cybernetically enhanced web apps (can optionaly generate Web Components).
+
 ### Other
 
 - [custom-element-ts](https://github.com/geocine/custom-elements-ts) - Create native custom elements using Typescript without using any third party libraries.
@@ -245,11 +250,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 ### Aurelia
 
 - [Aurelia Web Components plugin](https://github.com/aurelia/web-components)
-
-## Compilers
-
-- [Stencil](https://stenciljs.com/docs/introduction/) - compiler that generates web components.
-- [Svelte](https://svelte.technology/guide#custom-elements) - compiler which can be configured to generate custom elements.
 
 ## Books
 
