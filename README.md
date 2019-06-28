@@ -29,6 +29,7 @@
 - [Libraries](#libraries)
   - [Class Based](#class-based)
   - [Functional](#functional)
+  - [Compilers](#compilers)
   - [Other](#other)
 - [Component Libraries](#component-libraries)
 - [Frameworks](#frameworks)
@@ -36,7 +37,6 @@
   - [Angular](#angular)
   - [Vue](#vue)
   - [Aurelia](#aurelia)
-- [Compilers](#compilers)
 - [Books](#books)
 - [Tutorials](#tutorials)
 - [Miscellaneous](#miscellaneous)
@@ -191,11 +191,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [slim.js](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
 - [Smart Custom Element](https://github.com/HTMLElements/smart-custom-element) - UI library for creating custom elements with simple API.
 
-### Compilers
-
-- [sveltejs](https://svelte.dev) - Cybernetically enhanced web apps (Can optionaly generate Web Components).
-- [stenciljs](https://stenciljs.com) - Stencil is a compiler that generates Web Components.
-
 ### Functional
 
 - [atomico](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
@@ -204,6 +199,11 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [osagai](https://github.com/HenriqueLimas/osagai) - Tiny library for creating Web Components in a functional way.
 - [Switzerland](https://github.com/Wildhoney/Switzerland) - Library allowing to create Web Components in a functional way via middleware functions.
 - [ullr](https://github.com/aggre/ullr) - Library for building Web Components with functional programming.
+
+### Compilers
+
+- [sveltejs](https://svelte.dev) - Cybernetically enhanced web apps (Can optionaly generate Web Components).
+- [stenciljs](https://stenciljs.com) - Stencil is a compiler that generates Web Components.
 
 ### Other
 
