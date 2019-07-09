@@ -289,6 +289,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [web-components-benchmark](https://github.com/vogloblinsky/web-components-benchmark) - Benchmark for a Todo list application with various Web Components technologies.
 - [web-components-examples](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
 - [web-components-todo](https://github.com/shprink/web-components-todo) - Simple todo list built with various Web Components technologies.
+- [Vaadin Directory](https://vaadin.com/directory) - Publish, discuss and rate web components
 
 ## History
 
