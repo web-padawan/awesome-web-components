@@ -282,6 +282,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 ## Miscellaneous
 
 - [bruck](https://github.com/Heydon/bruck) - Prototyping system built with web components and the Houdini Paint API.
+- [Vaadin Directory](https://vaadin.com/directory) - Publish, discuss and rate web components
 - [webcomponents.dev](https://webcomponents.dev) - Your studio for Web Components.
 - [webcomponents.org](http://webcomponents.org/) - Discuss &amp; share web components.
 - [webcomponents.news](http://webcomponents.news) - Collection of articles, tutorials, micro-libraries and websites that showcase Web Components.
