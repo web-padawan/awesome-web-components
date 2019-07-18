@@ -37,6 +37,7 @@
   - [Angular](#angular)
   - [Vue](#vue)
   - [Aurelia](#aurelia)
+- [Tools](#tools)
 - [Books](#books)
 - [Tutorials](#tutorials)
 - [Miscellaneous](#miscellaneous)
@@ -256,6 +257,11 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 
 - [Aurelia Web Components plugin](https://github.com/aurelia/web-components)
 
+## Tools
+
+- [Cypress Daywalker](https://github.com/JaySunSyn/cypress-daywalker) - Web Components and Shadow DOM support for Cypress.
+- [web-component-analyzer](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
+
 ## Books
 
 - [Web Components in Action](https://www.manning.com/books/web-components-in-action) - Book by Ben Farrell, available at Manning early release program.
@@ -290,7 +296,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [webcomponents.dev](https://webcomponents.dev) - Your studio for Web Components.
 - [webcomponents.org](http://webcomponents.org/) - Discuss &amp; share web components.
 - [webcomponents.news](http://webcomponents.news) - Collection of articles, tutorials, micro-libraries and websites that showcase Web Components.
-- [web-component-analyzer](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
 - [web-components-benchmark](https://github.com/vogloblinsky/web-components-benchmark) - Benchmark for a Todo list application with various Web Components technologies.
 - [web-components-examples](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
 - [web-components-todo](https://github.com/shprink/web-components-todo) - Simple todo list built with various Web Components technologies.
