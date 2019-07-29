@@ -40,6 +40,7 @@
 - [Tools](#tools)
 - [Books](#books)
 - [Tutorials](#tutorials)
+- [Podcasts](#podcasts)
 - [Miscellaneous](#miscellaneous)
 - [History](#history)
 - [Who to follow](#who-to-follow)
@@ -289,6 +290,11 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
   - [Part 3: Creating a Custom Element from Scratch](https://css-tricks.com/creating-a-custom-element-from-scratch)
   - [Part 4: Encapsulating Style and Structure with Shadow DOM](https://css-tricks.com/encapsulating-style-and-structure-with-shadow-dom/)
   - [Part 5: Advanced Tooling for Web Components](https://css-tricks.com/advanced-tooling-for-web-components/)
+
+## Podcasts
+
+- [Frontend Happy Hour, episode 62: Web Components - shots of shadow DOM](https://frontendhappyhour.com/episodes/web-components-shots-of-shadow-dom/)
+- [Real Talk JavaScript, episode 7: Custom Web Components with Rob Wormald](https://realtalkjavascript.simplecast.fm/eaf3db9e)
 
 ## Miscellaneous
 
