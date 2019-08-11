@@ -154,7 +154,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 ### HTML Templates
 
 - [&lt;template&gt;: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
-- [Using templates and slots (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots))
+- [Using templates and slots (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots)
 
 ### Best Practices
 
@@ -208,7 +208,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 ### Compilers
 
 - [Stencil](https://stenciljs.com) - Compiler that generates Web Components.
-- [Svelte](https://svelte.dev) - Cybernetically enhanced web apps (can optionaly generate Web Components).
+- [Svelte](https://svelte.dev) - Cybernetically enhanced web apps (can optionally generate Web Components).
 
 ### Other
 
