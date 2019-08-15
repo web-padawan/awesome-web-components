@@ -41,6 +41,7 @@
 - [Books](#books)
 - [Tutorials](#tutorials)
 - [Podcasts](#podcasts)
+- [Benchmarks](#benchmarks)
 - [Miscellaneous](#miscellaneous)
 - [History](#history)
 - [Who to follow](#who-to-follow)
@@ -297,6 +298,11 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [Frontend Happy Hour, episode 62: Web Components - shots of shadow DOM](https://frontendhappyhour.com/episodes/web-components-shots-of-shadow-dom/)
 - [Real Talk JavaScript, episode 7: Custom Web Components with Rob Wormald](https://realtalkjavascript.simplecast.fm/eaf3db9e)
 
+## Benchmarks
+
+- [web-components-benchmark](https://vogloblinsky.github.io/web-components-benchmark/) - Benchmark Web Components technologies with various examples.
+- [web-components-todo](https://wc-todo.firebaseapp.com/) - The same todo application built in different Web Components libraries for benchmark purpose.
+
 ## Miscellaneous
 
 - [bruck](https://github.com/Heydon/bruck) - Prototyping system built with web components and the Houdini Paint API.
@@ -304,9 +310,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [webcomponents.dev](https://webcomponents.dev) - Your studio for Web Components.
 - [webcomponents.org](http://webcomponents.org/) - Discuss &amp; share web components.
 - [webcomponents.news](http://webcomponents.news) - Collection of articles, tutorials, micro-libraries and websites that showcase Web Components.
-- [web-components-benchmark](https://github.com/vogloblinsky/web-components-benchmark) - Benchmark for a Todo list application with various Web Components technologies.
 - [web-components-examples](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
-- [web-components-todo](https://github.com/shprink/web-components-todo) - Simple todo list built with various Web Components technologies.
 
 ## History
 
