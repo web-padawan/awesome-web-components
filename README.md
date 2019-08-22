@@ -36,6 +36,7 @@
 - [Frameworks](#frameworks)
   - [Angular](#angular)
   - [Vue](#vue)
+  - [Ember](#ember)
   - [Aurelia](#aurelia)
 - [Tools](#tools)
 - [Books](#books)
@@ -255,6 +256,10 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 
 - [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
 - [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
+
+### Ember
+
+- [ember-shadow-dom](https://github.com/knownasilya/ember-shadow-dom)
 
 ### Aurelia
 
