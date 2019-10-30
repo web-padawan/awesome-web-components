@@ -14,6 +14,7 @@
     - [CSS Shadow Parts](#css-shadow-parts)
     - [Form-associated Custom Elements](#form-associated-custom-elements)
     - [Constructable Stylesheet Objects](#constructable-stylesheet-objects)
+    - [Custom State Pseudo Class](#custom-state-pseudo-class)
     - [Builtin Modules](#builtin-modules)
   - [Polyfills](#polyfills)
     - [@webcomponents](#webcomponents)
@@ -86,6 +87,11 @@
 - [Form Participation API Explained](https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit?usp=sharing) - Document by Google Chrome team.
 - [Form-associated custom elements](https://www.chromestatus.com/features/4708990554472448) - Feature in Chrome platform status.
 - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated)
+
+#### Custom State Pseudo class
+
+- [Blink: Intent to implement](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/CApU9QIu3TM)
+- [`ElementInternals`'s `states` property and the `:state()` pseudo class](https://github.com/w3c/webcomponents/blob/gh-pages/proposals/custom-states-and-state-pseudo-class.md)
 
 #### Constructable Stylesheet Objects
 
