@@ -15,7 +15,6 @@
     - [Form-associated Custom Elements](#form-associated-custom-elements)
     - [Constructable Stylesheet Objects](#constructable-stylesheet-objects)
     - [Custom State Pseudo Class](#custom-state-pseudo-class)
-    - [Builtin Modules](#builtin-modules)
   - [Polyfills](#polyfills)
     - [@webcomponents](#webcomponents)
     - [@ungap](#ungap)
@@ -99,12 +98,6 @@
 - [web-platform-tests](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html)
 - [Explainer](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md)
 - [Constructable Stylesheets](https://www.chromestatus.com/feature/5394843094220800) - Feature in Chrome platform status.
-
-#### Builtin Modules
-
-- [std-switch](https://github.com/tkent-google/std-switch) - Proposal for `<std-switch>` HTML element implementing a 'switch' control.
-- [std-toast](https://github.com/jackbsteinberg/std-toast) - Proposal for `<std-toast>` HTML element implementing a 'toast' pop-up notification.
-  - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/std-toast)
 
 ### Polyfills
 
