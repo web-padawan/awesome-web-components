@@ -370,53 +370,53 @@ These materials are here for historical reasons only, they are grouped by years 
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://twitter.com/ChromiumDev">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1065986962467647489/Qrc3K-jZ_80x80.jpg">
-          <div>Chrome Developers</div>
-        </a>
-      </td>
-      <td align="center">
         <a href="https://twitter.com/polymer">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1063502058337136640/RmlG_bbW_80x80.jpg">
           <div>Polymer</div>
         </a>
       </td>
       <td align="center">
-        <a href="https://twitter.com/MSEdgeUpdates">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/984976713351356416/YtUr94vb_80x80.jpg">
-          <div>Edge Platform Updates</div>
+        <a href="https://twitter.com/stenciljs">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1135534552137510914/5ZzvOFFp_80x80.png">
+          <div>Stencil</div>
         </a>
       </td>
       <td align="center">
-        <a href="https://twitter.com/web_components">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/836671393844572160/eRcwt6Fw_80x80.jpg">
-          <div>Web Components</div>
+        <a href="https://twitter.com/openwc">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1101188623930662912/YKlBD7n6_80x80.png">
+          <div>open-wc.org</div>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/webcomp_dev">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1169270943371407360/U-90Bxn0_80x80.jpg">
+          <div>webcomponents.dev</div>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://twitter.com/shadow_hayato">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/448411087294046208/Nd6c9fr-_80x80.png">
-          <div>Hayato Ito</div>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/rob_dodson">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1031947699019427840/xl6p8ZBu_80x80.jpg">
-          <div>Rob Dodson</div>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/ebidel">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/955031454781616129/JRpZOp1l_80x80.jpg">
-          <div>Eric Bidelman</div>
-        </a>
-      </td>
-      <td align="center">
         <a href="https://twitter.com/justinfagnani">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/378800000808710206/2dbdaa1cb7b0db02f997aea5b40f29b8_80x80.jpeg">
           <div>Justin Fagnani</div>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/viljamis">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/671595827740086273/wCUWq-1S_80x80.png">
+          <div>Viljami Salminen</div>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/JanMiksovsky">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/675000078055051264/u1ZEQfeE_80x80.jpg">
+          <div>Jan Miksovsky</div>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/serhiikulykov">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1028197887329685504/cM6nOHlp_80x80.jpg">
+          <div>Serhii Kulykov</div>
         </a>
       </td>
     </tr>
