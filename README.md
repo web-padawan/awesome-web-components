@@ -185,6 +185,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [Micro Frontends — extending the microservice idea to frontend development](https://micro-frontends.org)
 - [Web Components — the right way](https://equinsuocha.io/blog/web-components-the-right-way/)
 - [Reasons Web Components are perfect for a big company](https://medium.com/@sergicontre/reasons-web-components-are-perfect-for-a-big-company-28790d712ad5)
+- [Why we use Web Components](https://viljamis.com/2019/why-we-use-web-components/)
 
 ## Libraries
 
