@@ -200,6 +200,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [Skate](https://github.com/skatejs/skatejs) - Web component library focusing on a functional rendering pipeline and a small footprint.
 - [slim.js](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
 - [Smart Custom Element](https://github.com/HTMLElements/smart-custom-element) - UI library for creating custom elements with simple API.
+- [wcsk](https://github.com/smff/wcsk) - Web Components starter kit
 
 ### Functional
 
