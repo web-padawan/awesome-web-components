@@ -195,7 +195,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [readymade](https://github.com/readymade-ui/readymade) - JavaScript microlibrary for developing Web Components with decorators.
 - [Skate](https://github.com/skatejs/skatejs) - Web component library focusing on a functional rendering pipeline and a small footprint.
 - [slim.js](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
-- [Smart Custom Element](https://github.com/HTMLElements/smart-custom-element) - UI library for creating custom elements with simple API.
 
 ### Functional
 
@@ -203,10 +202,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [functional-web-component](https://github.com/wtnbass/functional-web-component) - Functional component like React, but for Web Components.
 - [haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
-- [reLift-HTML](https://github.com/mardix/relift-html) - Small (3kb) view library allowing to create Web Components and to make HTML pages reactive.
-- [osagai](https://github.com/HenriqueLimas/osagai) - Tiny library for creating Web Components in a functional way.
-- [Switzerland](https://github.com/Wildhoney/Switzerland) - Library allowing to create Web Components in a functional way via middleware functions.
-- [ullr](https://github.com/aggre/ullr) - Library for building Web Components with functional programming.
 
 ### Compilers
 
@@ -215,7 +210,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 
 ### Other
 
-- [custom-element-ts](https://github.com/geocine/custom-elements-ts) - Create native custom elements using Typescript without using any third party libraries.
 - [preact-custom-element](https://github.com/bspaulding/preact-custom-element) - Generate/register a custom element from a preact component.
 - [remount](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 - [@riotjs/custom-elements](https://github.com/riot/custom-elements) - Simple API to create vanilla custom elements with Riot.js.
