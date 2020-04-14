@@ -11,7 +11,6 @@
 - [Specifications](#specifications)
   - [Standards](#standards)
   - [Proposals](#proposals)
-    - [CSS Shadow Parts](#css-shadow-parts)
     - [Form-associated Custom Elements](#form-associated-custom-elements)
     - [Constructable Stylesheet Objects](#constructable-stylesheet-objects)
     - [Custom State Pseudo Class](#custom-state-pseudo-class)
@@ -70,16 +69,13 @@
   - [HTML Living Standard](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
   - [Chrome Platform Status metrics](https://chromestatus.com/metrics/feature/timeline/popularity/2769)
 
+- **CSS Shadow Parts** allow developers to expose certain elements inside Shadow DOM for styling purposes.
+  - [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
+  - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
+  - [`::part()` CSS pseudo element](https://developer.mozilla.org/en-US/docs/Web/CSS/::part)
+  - [`part` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/part)
+
 ### Proposals
-
-#### CSS Shadow Parts
-
-- [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
-- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
-- [Explainer: CSS Shadow ::part and ::theme](https://github.com/fergald/docs/blob/master/explainers/css-shadow-parts-1.md)
-- [::part and ::theme pseudo elements on shadow hosts](https://www.chromestatus.com/features/5763933658939392) - Feature in Chrome platform status.
-- [Mozilla issue: Implement CSS Shadow Parts](https://bugzilla.mozilla.org/show_bug.cgi?id=1505489)
-- [WebKit issue: Add the support for the CSS shadow parts](https://bugs.webkit.org/show_bug.cgi?id=149443)
 
 #### Form-associated Custom Elements
 
