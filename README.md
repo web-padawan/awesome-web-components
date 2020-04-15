@@ -300,7 +300,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [Vaadin Directory](https://vaadin.com/directory) - Publish, discuss and rate web components
 - [webcomponents.dev](https://webcomponents.dev) - Your studio for Web Components.
 - [webcomponents.org](http://webcomponents.org/) - Discuss &amp; share web components.
-- [webcomponents.news](http://webcomponents.news) - Collection of articles, tutorials, micro-libraries and websites that showcase Web Components.
 - [web-components-examples](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
 
 ## History
