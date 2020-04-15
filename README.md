@@ -29,7 +29,6 @@
 - [Libraries](#libraries)
   - [Class Based](#class-based)
   - [Functional](#functional)
-  - [Compilers](#compilers)
   - [Other](#other)
 - [Component Libraries](#component-libraries)
 - [Frameworks](#frameworks)
@@ -192,9 +191,9 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [Lightning Web Components](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation.
 - [Omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).
 - [Polymer](https://polymer-library.polymer-project.org) - Original web component library by the Polymer Project authors.
-- [readymade](https://github.com/readymade-ui/readymade) - JavaScript microlibrary for developing Web Components with decorators.
 - [Skate](https://github.com/skatejs/skatejs) - Web component library focusing on a functional rendering pipeline and a small footprint.
 - [slim.js](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
+- [Stencil](https://github.com/ionic-team/stencil) - Compiler for generating Web Components.
 
 ### Functional
 
@@ -202,11 +201,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [functional-web-component](https://github.com/wtnbass/functional-web-component) - Functional component like React, but for Web Components.
 - [haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
-
-### Compilers
-
-- [Stencil](https://stenciljs.com) - Compiler that generates Web Components.
-- [Svelte](https://svelte.dev) - Cybernetically enhanced web apps (can optionally generate Web Components).
 
 ### Other
 
