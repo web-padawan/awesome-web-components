@@ -129,7 +129,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [Custom Elements v1: Reusable Web Components](https://developers.google.com/web/fundamentals/web-components/customelements)
 - [Custom Elements Everywhere](https://custom-elements-everywhere.com)
 - [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements)
-- [Introducing Custom Elements (WebKit)](https://webkit.org/blog/7027/introducing-custom-elements/)
 - [The Case for Custom Elements: Part 1](https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439)
 - [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133)
 - [Using Custom Elements (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
@@ -141,8 +140,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
 - [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
 - [Shadow DOM in depth](https://github.com/praveenpuglia/shadow-dom-in-depth)
-- [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/)
-- [Introducing Slot-Based Shadow DOM API (WebKit)](https://webkit.org/blog/4096/introducing-shadow-dom-api/)
 - [Using Shadow DOM (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
 - [Open vs. Closed Shadow DOM](https://blog.revillweb.com/open-vs-closed-shadow-dom-9f3d7427d1af)
 
@@ -313,11 +310,14 @@ These materials are here for historical reasons only, they are grouped by years 
 
 ### 2016
 
+- [Introducing Custom Elements](https://webkit.org/blog/7027/introducing-custom-elements/)
 - [Demythstifying Web Components](http://www.backalleycoder.com/2016/08/26/demythstifying-web-components/)
+- [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/)
 - [Understanding Web Components](https://medium.com/the-ui-files/understanding-web-components-d051baa66019)
 
 ### 2015
 
+- [Introducing Slot-Based Shadow DOM API](https://webkit.org/blog/4096/introducing-shadow-dom-api/)
 - [Web Components and their role in the future of web development](http://kaytcat.github.io/web-components/)
 - [Microsoft Edge and Web Components](https://blogs.windows.com/msedgedev/2015/07/15/microsoft-edge-and-web-components/)
 - [Bringing componentization to the web: An overview of Web Components](https://blogs.windows.com/msedgedev/2015/07/14/bringing-componentization-to-the-web-an-overview-of-web-components/)
