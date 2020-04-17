@@ -338,6 +338,7 @@ These materials are here for historical reasons only, they are grouped by years 
 ### 2013
 
 - [A Guide to Web Components](https://css-tricks.com/modular-future-web-components/)
+- [HTML's New Template Tag](https://www.html5rocks.com/en/tutorials/webcomponents/template/)
 
 ### 2012
 
