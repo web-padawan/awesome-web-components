@@ -258,6 +258,15 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
   - [Part 2: Supercharging Web Components with lit-html](https://dev.to/thepassle/web-components-from-zero-to-hero-part-two-38p4)
   - [Part 3: Web Components hero with LitElement](https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h)
 
+- "**The Modern JavaScript Tutorial**" by [Ilya Kantor](https://github.com/iliakan)
+  - [Part 1: From the orbital height](https://javascript.info/webcomponents-intro)
+  - [Part 2: Custom Elements](https://javascript.info/custom-elements)
+  - [Part 3: Shadow DOM](https://javascript.info/shadow-dom)
+  - [Part 4: Template element](https://javascript.info/template-element)
+  - [Part 5: Shadow DOM slots, composition](https://javascript.info/slots-composition)
+  - [Part 6: Shadow DOM styling](https://javascript.info/shadow-dom-style)
+  - [Part 7: Shadow DOM and events](https://javascript.info/shadow-dom-events)
+
 - **CSS tricks** article series by [Caleb Williams](https://css-tricks.com/author/calebdwilliams/)
   - [Part 1: An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
   - [Part 2: Crafting Reusable HTML Templates](https://css-tricks.com/crafting-reusable-html-templates/)
