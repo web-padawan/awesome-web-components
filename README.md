@@ -34,8 +34,6 @@
 - [Frameworks](#frameworks)
   - [Angular](#angular)
   - [Vue](#vue)
-  - [Ember](#ember)
-  - [Aurelia](#aurelia)
 - [Tools](#tools)
 - [Books](#books)
 - [Tutorials](#tutorials)
