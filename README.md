@@ -123,8 +123,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [Custom Elements v1: Reusable Web Components](https://developers.google.com/web/fundamentals/web-components/customelements)
 - [Custom Elements Everywhere](https://custom-elements-everywhere.com)
 - [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements)
-- [The Case for Custom Elements: Part 1](https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439)
-- [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133)
 - [Using Custom Elements (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
 - [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
 
@@ -323,6 +321,8 @@ These materials are here for historical reasons only, they are grouped by years 
 ### 2016
 
 - [Introducing Custom Elements](https://webkit.org/blog/7027/introducing-custom-elements/)
+- [The Case for Custom Elements: Part 1](https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439)
+- [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133)
 - [Demythstifying Web Components](http://www.backalleycoder.com/2016/08/26/demythstifying-web-components/)
 - [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/)
 - [Understanding Web Components](https://medium.com/the-ui-files/understanding-web-components-d051baa66019)
