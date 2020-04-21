@@ -170,6 +170,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [Lessons Learned, making our app with Web Components](https://medium.com/samsung-internet-dev/lessons-learned-making-our-app-with-web-components-bf55379cfcda)
 - [Making Web Components Work](https://engineering.mixpanel.com/2018/06/12/making-web-components-work/)
 - [Reasons Web Components are perfect for a big company](https://medium.com/@sergicontre/reasons-web-components-are-perfect-for-a-big-company-28790d712ad5)
+- [Shipping Web Components in 2020](https://dev.to/joe8bit/shipping-web-components-in-2020-2h54)
 - [Web Components at Scale at Salesforce: Challenges Encountered, Lessons Learnt](https://www.infoq.com/news/2020/03/web-components-salesforce-lwc/)
 - [Why we use Web Components](https://viljamis.com/2019/why-we-use-web-components/)
 
