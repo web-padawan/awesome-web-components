@@ -23,6 +23,7 @@
   - [Shadow DOM](#shadow-dom)
   - [HTML Templates](#html-templates)
   - [Best Practices](#best-practices)
+  - [Styling](#styling)
   - [Interoperability](#interoperability)
   - [Accessibility](#accessibility)
   - [Use Cases](#use-cases)
@@ -115,7 +116,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 
 - [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
 - [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
-- [Styling a Web Component](https://css-tricks.com/styling-a-web-component/)
 - [Web Components in 2019: An Overview of the Most Exciting Proposals for the Web Platform Related to Web Components](https://scotch.io/bar-talk/an-overview-of-the-most-exciting-proposals-for-the-web-platform-related-to-web-components)
 
 ### Custom Elements
@@ -147,6 +147,11 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [Guidelines for creating web platform compatible components](https://w3ctag.github.io/webcomponents-design-guidelines/)
 - [HowTo: Components](https://developers.google.com/web/fundamentals/web-components/examples/)
 - [Open Web Components Recommendations](https://open-wc.org)
+
+### Styling
+
+- [Styling a Web Component](https://css-tricks.com/styling-a-web-component/)
+- [Thinking Through Styling Options for Web Components](https://css-tricks.com/thinking-through-styling-options-for-web-components/)
 
 ### Interoperability
 
