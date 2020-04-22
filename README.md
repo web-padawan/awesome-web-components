@@ -220,6 +220,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
+- [Nuxeo Elements](https://github.com/nuxeo/nuxeo-elements) - Components for building web applications with Nuxeo using Web Components.
 - [PatternFly Elements](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components, and the tools to build them.
 - [Pearson Web Components](https://github.com/pearson-ux/web-components) - Pearson's shareable component library to help developers build consistent UIs.
 - [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with Web Components.
