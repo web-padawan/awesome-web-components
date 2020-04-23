@@ -210,6 +210,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 
 - [Amber Components](https://github.com/bitrockteam/amber-components) - Web Components implementation of the Amber Design System.
 - [AMP HTML](https://github.com/ampproject/amphtml) - Web component library for building web pages that render with reliable and fast performance.
+- [Brightspace UI core](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
 - [Bronconents](https://github.com/marius2502/bronconents) - Modern Web Components built with Lit-Element.
 - [Calcite Components](https://github.com/Esri/calcite-components) - Shared Web Components for Esri's Calcite design framework.
 - [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) - Experimental variant of Carbon Design System built with Web Components.
