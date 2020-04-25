@@ -152,6 +152,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 
 - [Styling a Web Component](https://css-tricks.com/styling-a-web-component/)
 - [Thinking Through Styling Options for Web Components](https://css-tricks.com/thinking-through-styling-options-for-web-components/)
+- [Styling in the Shadow DOM With CSS Shadow Parts](https://css-tricks.com/styling-in-the-shadow-dom-with-css-shadow-parts/)
 
 ### Interoperability
 
