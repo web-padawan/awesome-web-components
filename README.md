@@ -116,7 +116,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 
 - [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
 - [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
-- [Web Components in 2019: An Overview of the Most Exciting Proposals for the Web Platform Related to Web Components](https://scotch.io/bar-talk/an-overview-of-the-most-exciting-proposals-for-the-web-platform-related-to-web-components)
 
 ### Custom Elements
 
@@ -322,6 +321,10 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 The articles below represent a long story of the Web Components specifications on the way towards the standardization.
 Some of them refer to earlier, so-called "v0" Shadow DOM and Custom Elements specs, and abandoned HTML Imports spec.
 These materials are here for historical reasons only, they are grouped by years and listed in chronological order.
+
+### 2019
+
+- [Web Components in 2019: An Overview of the Most Exciting Proposals for the Web Platform Related to Web Components](https://scotch.io/bar-talk/an-overview-of-the-most-exciting-proposals-for-the-web-platform-related-to-web-components)
 
 ### 2018
 
