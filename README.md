@@ -131,7 +131,6 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Custom Element Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
 - [Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
 - [Guidelines for creating web platform compatible components](https://w3ctag.github.io/webcomponents-design-guidelines/)
-- [HowTo: Components](https://developers.google.com/web/fundamentals/web-components/examples/)
 - [Open Web Components Recommendations](https://open-wc.org)
 
 ### Styling
@@ -271,6 +270,12 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
   - [Part 5: Shadow DOM slots, composition](https://javascript.info/slots-composition)
   - [Part 6: Shadow DOM styling](https://javascript.info/shadow-dom-style)
   - [Part 7: Shadow DOM and events](https://javascript.info/shadow-dom-events)
+
+- "**HowTo: Components**" by [Web Fundamentals](https://developers.google.com/web/fundamentals/)
+  - [Overview](https://developers.google.com/web/fundamentals/web-components/examples)
+  - [`<howto-checkbox>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-checkbox)
+  - [`<howto-tabs>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-tabs)
+  - [`<howto-tooltip>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-tooltip)
 
 - **CSS tricks** article series by [Caleb Williams](https://css-tricks.com/author/calebdwilliams/)
   - [Part 1: An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
