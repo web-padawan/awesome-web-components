@@ -64,8 +64,8 @@ Custom Elements provide a way for authors to build their own fully-featured DOM 
 - [HTML Living Standard: Custom elements](https://html.spec.whatwg.org/multipage/custom-elements.html)
 - [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
 - [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements)
-- [Using Custom Elements (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
 - [Custom Elements v1: Reusable Web Components](https://developers.google.com/web/fundamentals/web-components/customelements)
+- [Using Custom Elements (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
 - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements)
 
 ### Shadow DOM
@@ -89,6 +89,7 @@ Shadow DOM describes a method of combining multiple DOM trees into one hierarchy
 - [HTML Living Standard: The `template` element](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
 - [&lt;template&gt;: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
 - [Using templates and slots (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots)
+- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element)
 
 ### CSS Shadow Parts
 
