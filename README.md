@@ -8,6 +8,7 @@
 
 ## Contents
 
+- [Introduction](#introduction)
 - [Specifications](#specifications)
   - [Standards](#standards)
   - [Proposals](#proposals)
@@ -18,7 +19,6 @@
     - [@webcomponents](#webcomponents)
     - [@ungap](#ungap)
 - [Articles](#articles)
-  - [Introduction](#introduction)
   - [Custom Elements](#custom-elements)
   - [Shadow DOM](#shadow-dom)
   - [HTML Templates](#html-templates)
@@ -46,6 +46,11 @@
 - [License](#license)
 
 > Web Components the Right Way was made with love by [Mateus Ortiz](https://twitter.com/mteusortiz) and maintained by [Serhii Kulykov](https://twitter.com/serhiikulykov)
+
+## Introduction
+
+- [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
+- [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
 
 ## Specifications
 
@@ -111,11 +116,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [@ungap/custom-elements-builtin](https://github.com/ungap/custom-elements-builtin) - polyfill for Custom Elements builtin extends.
 
 ## Articles
-
-### Introduction
-
-- [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
-- [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
 
 ### Custom Elements
 
