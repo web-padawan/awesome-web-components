@@ -59,7 +59,7 @@
 
 ### Custom Elements
 
-**Custom Elements** provide a way for authors to build their own fully-featured DOM elements.
+Custom Elements provide a way for authors to build their own fully-featured DOM elements.
 
 - [HTML Living Standard: Custom elements](https://html.spec.whatwg.org/multipage/custom-elements.html)
 - [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
@@ -70,7 +70,7 @@
 
 ### Shadow DOM
 
-**Shadow DOM** describes a method of combining multiple DOM trees into one hierarchy and how these trees interact with each other within a document, thus enabling better composition of the DOM.
+Shadow DOM describes a method of combining multiple DOM trees into one hierarchy and how these trees interact with each other within a document, thus enabling better composition of the DOM.
 
 - [DOM Living Standard: Interface `ShadowRoot`](https://dom.spec.whatwg.org/#interface-shadowroot)
 - [DOM Living Standard: Shadow tree](https://dom.spec.whatwg.org/#shadow-trees)
@@ -84,7 +84,7 @@
 
 ### HTML Templates
 
-**`<template>`** element is used to declare fragments of HTML that can be cloned and inserted in the document by script.
+`<template>` element is used to declare fragments of HTML that can be cloned and inserted in the document by script.
 
 - [HTML Living Standard: The `template` element](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
 - [&lt;template&gt;: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
@@ -92,7 +92,7 @@
 
 ### CSS Shadow Parts
 
-**CSS Shadow Parts** allow developers to expose certain elements inside Shadow DOM for styling purposes.
+CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM for styling purposes.
 
 - [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
 - [CSS Shadow Parts are coming!](https://dev.to/webpadawan/css-shadow-parts-are-coming-mi5)
