@@ -246,6 +246,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 - [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
 - [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
+- [Integrate Web Components with Your Vue.js App](https://alligator.io/vuejs/vue-integrate-web-components/)
 - [Using Web Components in Vue](https://coryrylan.com/blog/using-web-components-in-vue)
 
 ## Tools
