@@ -39,6 +39,7 @@
 - [Books](#books)
 - [Tutorials](#tutorials)
 - [Podcasts](#podcasts)
+- [Presentations](#presentations)
 - [Benchmarks](#benchmarks)
 - [Usage Metrics](#usage-metrics)
 - [Proposals](#proposals)
@@ -312,6 +313,12 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 - [Frontend Happy Hour, episode 62: Web Components - shots of shadow DOM](https://frontendhappyhour.com/episodes/web-components-shots-of-shadow-dom/)
 - [Real Talk JavaScript, episode 7: Custom Web Components with Rob Wormald](https://realtalkjavascript.simplecast.fm/eaf3db9e)
+
+## Presentations
+
+- [Are Web Components the Betamax of web development?](https://noti.st/lostinbrittany/EjUZyd/are-web-components-the-betamax-of-web-development)
+- [Web Components can do that?!](https://slides.com/vogloblinsky/web-components-can-do-that)
+- [Web Components: Introduction and State of the Art](https://webcomponents.dev/blog/web-components-slides-mar2020/)
 
 ## Benchmarks
 
