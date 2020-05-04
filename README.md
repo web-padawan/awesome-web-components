@@ -57,6 +57,7 @@
 
 - [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
 - [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
+- [Web Components (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 - [Web components: the secret ingredient helping power the web](https://web.dev/web-components-io-2019/)
 
 ## Standards
