@@ -21,6 +21,7 @@
   - [HTML Templates polyfills](#html-templates-polyfills)
 - [Articles](#articles)
   - [Best Practices](#best-practices)
+  - [Codelabs](#codelabs)
   - [Styling](#styling)
   - [Interoperability](#interoperability)
   - [Accessibility](#accessibility)
@@ -136,6 +137,12 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
 - [Guidelines for creating web platform compatible components](https://w3ctag.github.io/webcomponents-design-guidelines/)
 - [Open Web Components Recommendations](https://open-wc.org)
+
+### Codelabs
+
+- [Build a Story Web Component with LitElement](https://dev.to/straversi/build-a-story-web-component-with-litelement-e59)
+- [Open Web Components: Codelabs](https://open-wc.org/codelabs/)
+- [Recreating The Arduino Pushbutton Using SVG And <lit-element>](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
 
 ### Styling
 
