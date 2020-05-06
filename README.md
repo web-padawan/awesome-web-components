@@ -266,6 +266,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 ### Svelte
 
 - [How to Create a Web Component in Svelte](https://dev.to/silvio/how-to-create-a-web-components-in-svelte-2g4j)
+- [Svelte Web Component — 5.4KB](https://itnext.io/svelte-web-component-5-4kb-4afe46590d99)
 
 ## Tools
 
