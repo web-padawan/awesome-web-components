@@ -36,6 +36,7 @@
   - [Angular](#angular)
   - [React](#react)
   - [Vue](#vue)
+  - [Svelte](#svelte)
 - [Tools](#tools)
 - [Books](#books)
 - [Tutorials](#tutorials)
@@ -261,6 +262,10 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
 - [Integrate Web Components with Your Vue.js App](https://alligator.io/vuejs/vue-integrate-web-components/)
 - [Using Web Components in Vue](https://coryrylan.com/blog/using-web-components-in-vue)
+
+### Svelte
+
+- [How to Create a Web Component in Svelte](https://dev.to/silvio/how-to-create-a-web-components-in-svelte-2g4j)
 
 ## Tools
 
