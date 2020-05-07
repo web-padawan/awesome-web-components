@@ -389,6 +389,7 @@ These materials are here for historical reasons only, they are grouped by years 
 
 ### 2019
 
+- [A history of the HTML slot element](https://component.kitchen/blog/posts/a-history-of-the-html-slot-element)
 - [Web Components in 2019: An Overview of the Most Exciting Proposals for the Web Platform Related to Web Components](https://scotch.io/bar-talk/an-overview-of-the-most-exciting-proposals-for-the-web-platform-related-to-web-components)
 
 ### 2018
