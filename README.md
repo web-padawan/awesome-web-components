@@ -401,6 +401,7 @@ These materials are here for historical reasons only, they are grouped by years 
 ### 2017
 
 - [Web Components: The Long Game](https://infrequently.org/2017/10/web-components-the-long-game/)
+- [An intro to web components with otters](https://meowni.ca/posts/web-components-with-otters/)
 - [The broken promise of Web Components](https://dmitriid.com/blog/2017/03/the-broken-promise-of-web-components/)
 - [Regarding the broken promise of Web Components](http://robdodson.me/regarding-the-broken-promise-of-web-components/)
 
