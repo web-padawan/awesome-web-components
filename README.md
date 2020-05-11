@@ -148,6 +148,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Frankenstein Migration: Framework-Agnostic Approach (Part 2)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-2/)
 - [Open Web Components: Codelabs](https://open-wc.org/codelabs/)
 - [Recreating The Arduino Pushbutton Using SVG And <lit-element>](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
+- [Testing Workflow for Web Components](https://dev.to/open-wc/testing-workflow-for-web-components-g73)
 
 ### Styling
 
