@@ -138,6 +138,8 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 - [Frankenstein Migration: Framework-Agnostic Approach (Part 1)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-1/)
 - [Frankenstein Migration: Framework-Agnostic Approach (Part 2)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-2/)
+- [Making Web Components for Different Contexts](https://css-tricks.com/making-web-components-for-different-contexts/)
+- [Web Components — the right way](https://equinusocio.dev/blog/web-components-the-right-way/)
 
 ### Best Practices
 
