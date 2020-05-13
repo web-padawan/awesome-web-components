@@ -20,6 +20,7 @@
   - [Shadow DOM shims](#shadow-dom-shims)
   - [HTML Templates polyfills](#html-templates-polyfills)
 - [Articles](#articles)
+  - [Architecture](#architecture)
   - [Best Practices](#best-practices)
   - [Codelabs](#codelabs)
   - [Styling](#styling)
@@ -133,6 +134,11 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ## Articles
 
+### Architecture
+
+- [Frankenstein Migration: Framework-Agnostic Approach (Part 1)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-1/)
+- [Frankenstein Migration: Framework-Agnostic Approach (Part 2)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-2/)
+
 ### Best Practices
 
 - [Custom Element Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
@@ -144,8 +150,6 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 ### Codelabs
 
 - [Build a Story Web Component with LitElement](https://dev.to/straversi/build-a-story-web-component-with-litelement-e59)
-- [Frankenstein Migration: Framework-Agnostic Approach (Part 1)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-1/)
-- [Frankenstein Migration: Framework-Agnostic Approach (Part 2)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-2/)
 - [Open Web Components: Codelabs](https://open-wc.org/codelabs/)
 - [Recreating The Arduino Pushbutton Using SVG And <lit-element>](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
 - [Testing Workflow for Web Components](https://dev.to/open-wc/testing-workflow-for-web-components-g73)
