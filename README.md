@@ -28,6 +28,7 @@
   - [Accessibility](#accessibility)
   - [Use Cases](#use-cases)
   - [Case Studies](#case-studies)
+- [Examples](#examples)
 - [Libraries](#libraries)
   - [Class Based](#class-based)
   - [Functional](#functional)
@@ -204,6 +205,11 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [The Firefox UI is now built with Web Components](https://briangrinstead.com/blog/firefox-webcomponents/)
 - [Web Components at Scale at Salesforce: Challenges Encountered, Lessons Learnt](https://www.infoq.com/news/2020/03/web-components-salesforce-lwc/)
 - [web.dev engineering blog #1: How we build the site and use Web Components](https://web.dev/how-we-build-webdev-and-use-web-components/)
+
+## Examples
+
+- [howto-components](https://github.com/GoogleChromeLabs/howto-components) - Collection of web components that implement common web UI patterns.
+- [web-components-examples](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
 
 ## Libraries
 
@@ -397,7 +403,6 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Vaadin Directory](https://vaadin.com/directory) - Publish, discuss and rate web components
 - [webcomponents.dev](https://webcomponents.dev) - Your studio for Web Components.
 - [webcomponents.org](http://webcomponents.org/) - Discuss &amp; share web components.
-- [web-components-examples](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
 
 ## History
 
