@@ -269,6 +269,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### React
 
+- [Rendering React Components With Custom Elements](https://guillaumebriday.fr/rendering-react-components-with-custom-elements)
 - [How to use Web Components in React](https://www.robinwieruch.de/react-web-components)
 
 ### Vue
