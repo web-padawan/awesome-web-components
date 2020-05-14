@@ -298,48 +298,66 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ## Tutorials
 
-- "**Let's Build Web Components!**" by [Benny Powers](https://github.com/bennypowers)
-  - [Part 1: The Standards](https://dev.to/bennypowers/lets-build-web-components-part-1-the-standards-3e85)
-  - [Part 2: The Polyfills](https://dev.to/bennypowers/lets-build-web-components-part-2-the-polyfills-dkh)
-  - [Part 3: Vanilla Components](https://dev.to/bennypowers/lets-build-web-components-part-3-vanilla-components-4on3)
-  - [Part 4: Polymer Library](https://dev.to/bennypowers/lets-build-web-components-part-4-polymer-library-4dk2)
-  - [Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
-  - [Part 6: Gluon](https://dev.to/bennypowers/lets-build-web-components-part-6-gluon-27ll)
-  - [Part 7: Hybrids](https://dev.to/bennypowers/lets-build-web-components-part-7-hybrids-187l)
+### Let's Build Web Components
 
-- "**Web components: from zero to hero**" by [Pascal Schilp](https://github.com/thepassle)
-  - [Part 1: An introduction to writing raw Web Components](https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m)
-  - [Part 2: Supercharging Web Components with lit-html](https://dev.to/thepassle/web-components-from-zero-to-hero-part-two-38p4)
-  - [Part 3: Web Components hero with LitElement](https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h)
+By [@PowersBenny](https://twitter.com/PowersBenny)
 
-- "**The Modern JavaScript Tutorial**" by [Ilya Kantor](https://github.com/iliakan)
-  - [Part 1: From the orbital height](https://javascript.info/webcomponents-intro)
-  - [Part 2: Custom Elements](https://javascript.info/custom-elements)
-  - [Part 3: Shadow DOM](https://javascript.info/shadow-dom)
-  - [Part 4: Template element](https://javascript.info/template-element)
-  - [Part 5: Shadow DOM slots, composition](https://javascript.info/slots-composition)
-  - [Part 6: Shadow DOM styling](https://javascript.info/shadow-dom-style)
-  - [Part 7: Shadow DOM and events](https://javascript.info/shadow-dom-events)
+- [Part 1: The Standards](https://dev.to/bennypowers/lets-build-web-components-part-1-the-standards-3e85)
+- [Part 2: The Polyfills](https://dev.to/bennypowers/lets-build-web-components-part-2-the-polyfills-dkh)
+- [Part 3: Vanilla Components](https://dev.to/bennypowers/lets-build-web-components-part-3-vanilla-components-4on3)
+- [Part 4: Polymer Library](https://dev.to/bennypowers/lets-build-web-components-part-4-polymer-library-4dk2)
+- [Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
+- [Part 6: Gluon](https://dev.to/bennypowers/lets-build-web-components-part-6-gluon-27ll)
+- [Part 7: Hybrids](https://dev.to/bennypowers/lets-build-web-components-part-7-hybrids-187l)
 
-- "**HowTo: Components**" by [Web Fundamentals](https://developers.google.com/web/fundamentals/)
-  - [Overview](https://developers.google.com/web/fundamentals/web-components/examples)
-  - [`<howto-checkbox>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-checkbox)
-  - [`<howto-tabs>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-tabs)
-  - [`<howto-tooltip>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-tooltip)
+### Web components: from zero to hero
 
-- **CSS tricks** article series by [Caleb Williams](https://css-tricks.com/author/calebdwilliams/)
-  - [Part 1: An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
-  - [Part 2: Crafting Reusable HTML Templates](https://css-tricks.com/crafting-reusable-html-templates/)
-  - [Part 3: Creating a Custom Element from Scratch](https://css-tricks.com/creating-a-custom-element-from-scratch)
-  - [Part 4: Encapsulating Style and Structure with Shadow DOM](https://css-tricks.com/encapsulating-style-and-structure-with-shadow-dom/)
-  - [Part 5: Advanced Tooling for Web Components](https://css-tricks.com/advanced-tooling-for-web-components/)
+By [@passle_](https://twitter.com/passle_)
 
-- **Angular Elements** article series by [Manfred Steyer](https://www.angulararchitects.io/about/)
-  - [Part I: A Dynamic Dashboard In Four Steps With Web Components](https://www.angulararchitects.io/aktuelles/angular-elements-part-i/)
-  - [Part II: Lazy and External Web Components](https://www.angulararchitects.io/aktuelles/angular-elements-part-ii/)
-  - [Part III: Angular Elements Without Zone.Js](https://www.angulararchitects.io/aktuelles/angular-elements-part-iii/)
-  - [Part IV: Content Projection with Slots in Angular Elements (>=7)](https://www.angulararchitects.io/aktuelles/content-projection-with-slots-in-angular-elements-7/)
-  - [Part V: Your Options for Building Angular Elements with the CLI](https://www.angulararchitects.io/aktuelles/your-options-for-building-angular-elements/)
+- [Part 1: An introduction to writing raw Web Components](https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m)
+- [Part 2: Supercharging Web Components with lit-html](https://dev.to/thepassle/web-components-from-zero-to-hero-part-two-38p4)
+- [Part 3: Web Components hero with LitElement](https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h)
+
+### The Modern JavaScript Tutorial
+
+By [@iliakan](https://twitter.com/iliakan)
+
+- [Part 1: From the orbital height](https://javascript.info/webcomponents-intro)
+- [Part 2: Custom Elements](https://javascript.info/custom-elements)
+- [Part 3: Shadow DOM](https://javascript.info/shadow-dom)
+- [Part 4: Template element](https://javascript.info/template-element)
+- [Part 5: Shadow DOM slots, composition](https://javascript.info/slots-composition)
+- [Part 6: Shadow DOM styling](https://javascript.info/shadow-dom-style)
+- [Part 7: Shadow DOM and events](https://javascript.info/shadow-dom-events)
+
+### HowTo: Components
+
+By [Web Fundamentals](https://developers.google.com/web/fundamentals/)
+
+- [Overview](https://developers.google.com/web/fundamentals/web-components/examples)
+- [`<howto-checkbox>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-checkbox)
+- [`<howto-tabs>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-tabs)
+- [`<howto-tooltip>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-tooltip)
+
+### An Introduction to Web Components
+
+By [@calebwilliams12](https://twitter.com/calebwilliams12)
+
+- [Part 1: An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
+- [Part 2: Crafting Reusable HTML Templates](https://css-tricks.com/crafting-reusable-html-templates/)
+- [Part 3: Creating a Custom Element from Scratch](https://css-tricks.com/creating-a-custom-element-from-scratch)
+- [Part 4: Encapsulating Style and Structure with Shadow DOM](https://css-tricks.com/encapsulating-style-and-structure-with-shadow-dom/)
+- [Part 5: Advanced Tooling for Web Components](https://css-tricks.com/advanced-tooling-for-web-components/)
+
+### Angular Elements
+
+By [@ManfredSteyer](https://twitter.com/ManfredSteyer)
+
+- [Part I: A Dynamic Dashboard In Four Steps With Web Components](https://www.angulararchitects.io/aktuelles/angular-elements-part-i/)
+- [Part II: Lazy and External Web Components](https://www.angulararchitects.io/aktuelles/angular-elements-part-ii/)
+- [Part III: Angular Elements Without Zone.Js](https://www.angulararchitects.io/aktuelles/angular-elements-part-iii/)
+- [Part IV: Content Projection with Slots in Angular Elements (>=7)](https://www.angulararchitects.io/aktuelles/content-projection-with-slots-in-angular-elements-7/)
+- [Part V: Your Options for Building Angular Elements with the CLI](https://www.angulararchitects.io/aktuelles/your-options-for-building-angular-elements/)
 
 ## Podcasts
 
