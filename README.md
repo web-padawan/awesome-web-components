@@ -158,6 +158,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Building Custom Elements with Web Components for the 2020 Elections](https://medium.com/stories-from-upstatement/building-custom-elements-with-web-components-for-the-2020-elections-f767ff9e9c6a)
 - [Building Web Components with Vanilla JavaScript](https://dev.to/aspittel/building-web-components-with-vanilla-javascript--jho)
 - [Creating Web Components with Stencil](https://auth0.com/blog/creating-web-components-with-stencil/)
+- [Handling data with Web Components](https://itnext.io/handling-data-with-web-components-9e7e4a452e6e)
 - [Open Web Components: Codelabs](https://open-wc.org/codelabs/)
 - [Recreating The Arduino Pushbutton Using SVG And `<lit-element>`](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
 - [Snake-Eating Game Making with Web Components of Omi and MVP Architecture](https://dev.to/dntzhang/snake-eating-game-making-with-web-components-of-omi-and-mvp-architecture-206)
