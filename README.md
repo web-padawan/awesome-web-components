@@ -244,6 +244,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Skate](https://github.com/skatejs/skatejs) - Web component library focusing on a functional rendering pipeline and a small footprint.
 - [slim.js](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
 - [Stencil](https://github.com/ionic-team/stencil) - Compiler for generating Web Components.
+- [Tonic](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.
 
 ### Functional
 
