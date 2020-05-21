@@ -263,7 +263,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Other
 
-- [preact-custom-element](https://github.com/bspaulding/preact-custom-element) - Generate/register a custom element from a preact component.
+- [preact-custom-element](https://github.com/preactjs/preact-custom-element) - Generate/register a custom element from a preact component.
 - [remount](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 - [@riotjs/custom-elements](https://github.com/riot/custom-elements) - Simple API to create vanilla custom elements with Riot.js.
 
