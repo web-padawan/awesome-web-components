@@ -35,6 +35,7 @@
   - [Class Based](#class-based)
   - [Functional](#functional)
   - [Other](#other)
+  - [Benchmarks](#benchmarks)
 - [Component Libraries](#component-libraries)
 - [Frameworks](#frameworks)
   - [Angular](#angular)
@@ -45,7 +46,6 @@
 - [Books](#books)
 - [Tutorials](#tutorials)
 - [Podcasts](#podcasts)
-- [Benchmarks](#benchmarks)
 - [Usage Metrics](#usage-metrics)
 - [Proposals](#proposals)
   - [Form-associated Custom Elements](#form-associated-custom-elements)
@@ -267,6 +267,12 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [remount](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 - [@riotjs/custom-elements](https://github.com/riot/custom-elements) - Simple API to create vanilla custom elements with Riot.js.
 
+### Benchmarks
+
+- [All the Ways to Make a Web Component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component-april2020/)
+- [web-components-benchmark](https://vogloblinsky.github.io/web-components-benchmark/) - Benchmark Web Components technologies with various examples.
+- [web-components-todo](https://wc-todo.firebaseapp.com/) - The same todo application built in different Web Components libraries for benchmark purpose.
+
 ## Component Libraries
 
 - [Amber Components](https://github.com/bitrockteam/amber-components) - Web Components implementation of the Amber Design System.
@@ -382,12 +388,6 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 - [Frontend Happy Hour, episode 62: Web Components - shots of shadow DOM](https://frontendhappyhour.com/episodes/web-components-shots-of-shadow-dom/)
 - [Real Talk JavaScript, episode 7: Custom Web Components with Rob Wormald](https://realtalkjavascript.simplecast.fm/eaf3db9e)
-
-## Benchmarks
-
-- [All the Ways to Make a Web Component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component-april2020/)
-- [web-components-benchmark](https://vogloblinsky.github.io/web-components-benchmark/) - Benchmark Web Components technologies with various examples.
-- [web-components-todo](https://wc-todo.firebaseapp.com/) - The same todo application built in different Web Components libraries for benchmark purpose.
 
 ## Usage Metrics
 
