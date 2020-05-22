@@ -141,8 +141,10 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 - [Frankenstein Migration: Framework-Agnostic Approach (Part 1)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-1/)
 - [Frankenstein Migration: Framework-Agnostic Approach (Part 2)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-2/)
+- [Hiding internal framework methods and properties from web component APIs](https://component.kitchen/blog/posts/hiding-internal-framework-methods-and-properties-from-web-component-apis)
 - [How to deliver Custom Elements](https://medium.com/@WebReflection/how-to-deliver-custom-elements-702fae32d25c)
 - [Making Web Components for Different Contexts](https://css-tricks.com/making-web-components-for-different-contexts/)
+- [Supporting both automatic and manual registration of custom elements](https://component.kitchen/blog/posts/supporting-both-automatic-and-manual-registration-of-custom-elements)
 - [Web Components — the right way](https://equinusocio.dev/blog/web-components-the-right-way/)
 
 ### Best Practices
