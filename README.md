@@ -220,6 +220,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Clever components](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
 - [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - Standalone Components for SPA routing, displaying data from web services, and more.
 - [Elix](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
+- [Iooxa](https://github.com/iooxa/article) - Web components for interactive scientific writing, reactive documents and explorable explanations.
 - [Lion Web Components](https://github.com/ing-bank/lion) - Set of highly performant, accessible and flexible Web Components.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
