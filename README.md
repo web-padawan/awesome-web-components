@@ -215,6 +215,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 ### Component Libraries
 
 - [AMP](https://github.com/ampproject/amphtml) - Web component framework for easily creating user-first websites, stories, ads, emails and more.
+- [Apollo Elements](https://github.com/apollo-elements/apollo-elements) - Custom elements for using Apollo GraphQL with various web components libraries.
 - [AXA Pattern Library](https://github.com/axa-ch/patterns-library) - AXA CH UI components library built with Web Components.
 - [Blackstone UI](https://github.com/kjantzer/bui) - Web components for creating interfaces by Blackstone Publishing.
 - [Brightspace UI core](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
