@@ -42,7 +42,9 @@
   - [React](#react)
   - [Vue](#vue)
   - [Svelte](#svelte)
-- [Tools](#tools)
+- [Ecosystem](#ecosystem)
+  - [Starter Kits](#starter-kits)
+  - [Tools](#tools)
 - [Books](#books)
 - [Tutorials](#tutorials)
 - [Insights](#insights)
@@ -327,7 +329,15 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [How to Create a Web Component in Svelte](https://dev.to/silvio/how-to-create-a-web-components-in-svelte-2g4j)
 - [Svelte Web Component — 5.4KB](https://itnext.io/svelte-web-component-5-4kb-4afe46590d99)
 
-## Tools
+## Ecosystem
+
+### Starter Kits
+
+- [Create Open Web Components](https://open-wc.org/init/) - Web component project scaffolding.
+- [custom-element-boilerplate](https://github.com/github/custom-element-boilerplate) - Boilerplate for creating a custom element.
+- [hello-web-components](https://github.com/fernandopasik/hello-web-components) - Simple starter hello world web component written in TypeScript.
+
+### Tools
 
 - [Cypress Daywalker](https://github.com/JaySunSyn/cypress-daywalker) - Web Components and Shadow DOM support for Cypress.
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) - querySelector that can pierce Shadow DOM roots, useful for automated testing.
