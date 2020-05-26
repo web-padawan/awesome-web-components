@@ -19,19 +19,20 @@
   - [Customized Built-in Elements polyfills](#customized-built-in-elements-polyfills)
   - [Shadow DOM shims](#shadow-dom-shims)
   - [HTML Templates polyfills](#html-templates-polyfills)
-- [Articles](#articles)
-  - [Architecture](#architecture)
+- [Guides](#guides)
+  - [Accessibility](#accessibility)
   - [Best Practices](#best-practices)
   - [Codelabs](#codelabs)
+  - [Examples](#examples)
+- [Articles](#articles)
+  - [Architecture](#architecture)
   - [Styling](#styling)
   - [Interoperability](#interoperability)
-  - [Accessibility](#accessibility)
 - [Real World](#real-world)
   - [Case Studies](#case-studies)
   - [Component Libraries](#component-libraries)
   - [Design Systems](#design-systems)
   - [Use Cases](#use-cases)
-- [Examples](#examples)
 - [Libraries](#libraries)
   - [Class Based](#class-based)
   - [Functional](#functional)
@@ -139,17 +140,16 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [@webcomponents/template](https://github.com/webcomponents/polyfills/tree/master/packages/template) - Minimal polyfill for `<template>`.
 - [@ungap/import-node](https://github.com/ungap/import-node) - An `importNode` polyfill for IE11 by [ungap project](https://ungap.github.io).
 
-## Articles
+## Guides
 
-### Architecture
+### Accessibility
 
-- [Frankenstein Migration: Framework-Agnostic Approach (Part 1)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-1/)
-- [Frankenstein Migration: Framework-Agnostic Approach (Part 2)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-2/)
-- [Hiding internal framework methods and properties from web component APIs](https://component.kitchen/blog/posts/hiding-internal-framework-methods-and-properties-from-web-component-apis)
-- [How to deliver Custom Elements](https://medium.com/@WebReflection/how-to-deliver-custom-elements-702fae32d25c)
-- [Making Web Components for Different Contexts](https://css-tricks.com/making-web-components-for-different-contexts/)
-- [Supporting both automatic and manual registration of custom elements](https://component.kitchen/blog/posts/supporting-both-automatic-and-manual-registration-of-custom-elements)
-- [Web Components — the right way](https://equinusocio.dev/blog/web-components-the-right-way/)
+- [Accessibility for Web Components](https://developer.salesforce.com/blogs/2020/01/accessibility-for-web-components.html)
+- [How to Make Accessible Web Components — a Brief Guide](https://www.sitepoint.com/accessible-web-components/)
+- [The future of accessibility for custom elements](https://robdodson.me/the-future-of-accessibility-for-custom-elements/)
+- [The Guide to Accessible Web Components](https://www.erikkroes.nl/blog/accessibility/the-guide-to-accessible-web-components-draft/)
+- [Web Components and the Accessibility Object model (AOM)](https://www.24a11y.com/2019/web-components-and-the-aom/)
+- [Web components still need to be accessible](https://www.24a11y.com/2018/web-components-still-need-to-be-accessible/)
 
 ### Best Practices
 
@@ -174,6 +174,26 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Storybook for web components on steroids](https://dev.to/open-wc/storybook-for-web-components-on-steroids-4h29)
 - [Testing Workflow for Web Components](https://dev.to/open-wc/testing-workflow-for-web-components-g73)
 
+### Examples
+
+- [generic-components](https://github.com/thepassle/generic-components) - Collection of generic web components with a focus on accessibility, and ease of use.
+- [howto-components](https://github.com/GoogleChromeLabs/howto-components) - Collection of web components that implement common web UI patterns.
+- [open-wc code examples](https://open-wc.org/developing/code-examples.html) - Collection of best practices and design patterns for developing web components.
+- [vanilla-retro-js](https://github.com/martine-dowden/vanilla-retro-js) - Vanilla JS UI component library of HTML deprecated tags.
+- [web-components-examples](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
+
+## Articles
+
+### Architecture
+
+- [Frankenstein Migration: Framework-Agnostic Approach (Part 1)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-1/)
+- [Frankenstein Migration: Framework-Agnostic Approach (Part 2)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-2/)
+- [Hiding internal framework methods and properties from web component APIs](https://component.kitchen/blog/posts/hiding-internal-framework-methods-and-properties-from-web-component-apis)
+- [How to deliver Custom Elements](https://medium.com/@WebReflection/how-to-deliver-custom-elements-702fae32d25c)
+- [Making Web Components for Different Contexts](https://css-tricks.com/making-web-components-for-different-contexts/)
+- [Supporting both automatic and manual registration of custom elements](https://component.kitchen/blog/posts/supporting-both-automatic-and-manual-registration-of-custom-elements)
+- [Web Components — the right way](https://equinusocio.dev/blog/web-components-the-right-way/)
+
 ### Styling
 
 - [Styling a Web Component](https://css-tricks.com/styling-a-web-component/)
@@ -188,15 +208,6 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [JavaScript frameworks, meet Web Components](https://www.voorhoede.nl/nl/blog/javascript-frameworks-meet-web-components/)
 - [Web Components aren't a framework replacement - they're better than that](https://lamplightdev.com/blog/2020/01/18/web-components-arent-a-framework-replacement-theyre-better-than-that/)
 - [Web Components: Seamlessly interoperable](https://medium.com/@sergicontre/web-components-seamlessly-interoperable-82efd6989ca4)
-
-### Accessibility
-
-- [Accessibility for Web Components](https://developer.salesforce.com/blogs/2020/01/accessibility-for-web-components.html)
-- [How to Make Accessible Web Components — a Brief Guide](https://www.sitepoint.com/accessible-web-components/)
-- [The future of accessibility for custom elements](https://robdodson.me/the-future-of-accessibility-for-custom-elements/)
-- [The Guide to Accessible Web Components](https://www.erikkroes.nl/blog/accessibility/the-guide-to-accessible-web-components-draft/)
-- [Web Components and the Accessibility Object model (AOM)](https://www.24a11y.com/2019/web-components-and-the-aom/)
-- [Web components still need to be accessible](https://www.24a11y.com/2018/web-components-still-need-to-be-accessible/)
 
 ## Real World
 
@@ -260,14 +271,6 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Why I use Web Components - My use cases](https://dev.to/shihn/why-i-use-web-components-my-use-cases-1nip)
 - [Why we use Web Components](https://viljamis.com/2019/why-we-use-web-components/) by [@viljamis](https://twitter.com/viljamis)
 - [Why we use Web Components](https://dev.to/ionic/why-we-use-web-components-2c1i) by [@maxlynch](https://twitter.com/maxlynch)
-
-## Examples
-
-- [howto-components](https://github.com/GoogleChromeLabs/howto-components) - Collection of web components that implement common web UI patterns.
-- [generic-components](https://github.com/thepassle/generic-components) - Collection of generic web components with a focus on accessibility, and ease of use.
-- [open-wc code examples](https://open-wc.org/developing/code-examples.html) - Collection of best practices and design patterns for developing web components.
-- [vanilla-retro-js](https://github.com/martine-dowden/vanilla-retro-js) - Vanilla JS UI component library of HTML deprecated tags.
-- [web-components-examples](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
 
 ## Libraries
 
