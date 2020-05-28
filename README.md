@@ -36,7 +36,7 @@
 - [Libraries](#libraries)
   - [Class Based](#class-based)
   - [Functional](#functional)
-  - [Other](#other)
+  - [Integrations](#integrations)
   - [Benchmarks](#benchmarks)
 - [Frameworks](#frameworks)
   - [Angular](#angular)
@@ -300,7 +300,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 
-### Other
+### Integrations
 
 - [preact-custom-element](https://github.com/preactjs/preact-custom-element) - Generate/register a custom element from a preact component.
 - [remount](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
