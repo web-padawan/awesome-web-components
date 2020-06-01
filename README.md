@@ -424,7 +424,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Web Components and the AOM](https://decks.tink.uk/2019/jsconf/index.html) by [@LeonieWatson](https://twitter.com/LeonieWatson)
 - [Web Components and Styles Scoping](https://www.dropbox.com/s/wdh9uufjui5htll/Web-Components-and-Styles-Scoping-by-bashmish-FrontMania-2018.pdf) by [@bashmish](https://twitter.com/bashmish)
 - [Web Components can do that?!](https://slides.com/vogloblinsky/web-components-can-do-that) by [@vogloblinsky](https://twitter.com/vogloblinsky)
-- [Web Components: Introduction and State of the Art](https://webcomponents.dev/blog/web-components-slides-mar2020/) by [@webcomp_dev](https://twitter.com/webcomp_dev)
+- [Web Components: Introduction and State of the Art](https://webcomponents.dev/blog/web-components-slides/) by [@webcomp_dev](https://twitter.com/webcomp_dev)
 
 ### Talks
 
