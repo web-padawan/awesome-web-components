@@ -254,6 +254,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Vaadin components](https://github.com/vaadin/vaadin) - Evolving set of high-quality web components for building business web applications.
 - [Wired Elements](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
 - [Wokwi Elements](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
+- [XWeather](https://github.com/kherrick/x-weather) - Collection of web components implementing portions of the OpenWeatherMap API.
 
 ### Design Systems
 
