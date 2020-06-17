@@ -264,6 +264,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Calcite Components](https://github.com/Esri/calcite-components) - Shared Web Components for Esri's Calcite design framework.
 - [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) - Carbon Design System variant on top of Web Components.
 - [Chameleon Web Components](https://github.com/MaritzSTL/chameleon) - Collection of framework-agnostic elements based on the Chameleon Design System.
+- [Clarity Core Web Components](https://github.com/vmware/clarity/tree/master/packages/core) - Suite of web components from the Clarity Design System.
 - [Crayons](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
 - [Helix UI](https://github.com/HelixDesignSystem/helix-ui) - Web Component library for the Helix Design System.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components.
