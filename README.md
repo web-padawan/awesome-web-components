@@ -174,6 +174,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Snake-Eating Game Making with Web Components of Omi and MVP Architecture](https://dev.to/dntzhang/snake-eating-game-making-with-web-components-of-omi-and-mvp-architecture-206)
 - [Storybook for web components on steroids](https://dev.to/open-wc/storybook-for-web-components-on-steroids-4h29)
 - [Testing Workflow for Web Components](https://dev.to/open-wc/testing-workflow-for-web-components-g73)
+- [Web Components Tools: A Comparison](https://www.nexmo.com/blog/2020/05/20/web-components-tools-a-comparison)
 
 ### Examples
 
