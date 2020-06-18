@@ -28,6 +28,7 @@
   - [Architecture](#architecture)
   - [Styling](#styling)
   - [Interoperability](#interoperability)
+  - [Limitations](#limitations)
 - [Real World](#real-world)
   - [Case Studies](#case-studies)
   - [Component Libraries](#component-libraries)
@@ -213,6 +214,13 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [JavaScript frameworks, meet Web Components](https://www.voorhoede.nl/nl/blog/javascript-frameworks-meet-web-components/)
 - [Web Components aren't a framework replacement - they're better than that](https://lamplightdev.com/blog/2020/01/18/web-components-arent-a-framework-replacement-theyre-better-than-that/)
 - [Web Components: Seamlessly interoperable](https://medium.com/@sergicontre/web-components-seamlessly-interoperable-82efd6989ca4)
+
+### Limitations
+
+- [Beyond the polyfills: how Web Components affect us today?](https://dev.to/webpadawan/beyond-the-polyfills-how-web-components-affect-us-today-3j0a)
+- [Custom elements, shadow DOM and implicit form submission](https://www.hjorthhansen.dev/shadow-dom-and-forms/)
+- [Form-associated custom elements](https://www.hjorthhansen.dev/shadow-dom-form-participation/)
+- [You might not need shadow DOM](https://www.hjorthhansen.dev/you-might-not-need-shadow-dom/)
 
 ## Real World
 
