@@ -26,9 +26,9 @@
   - [Examples](#examples)
 - [Articles](#articles)
   - [Architecture](#architecture)
-  - [Styling](#styling)
   - [Interoperability](#interoperability)
   - [Limitations](#limitations)
+  - [Styling](#styling)
 - [Real World](#real-world)
   - [Case Studies](#case-studies)
   - [Component Libraries](#component-libraries)
@@ -199,14 +199,6 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Supporting both automatic and manual registration of custom elements](https://component.kitchen/blog/posts/supporting-both-automatic-and-manual-registration-of-custom-elements)
 - [Web Components — the right way](https://equinusocio.dev/blog/web-components-the-right-way/)
 
-### Styling
-
-- [Styling a Web Component](https://css-tricks.com/styling-a-web-component/)
-- [Styling in the Shadow DOM With CSS Shadow Parts](https://css-tricks.com/styling-in-the-shadow-dom-with-css-shadow-parts/)
-- [Styling is critical to web component reuse, but may prove difficult in practice](https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice)
-- [Thinking Through Styling Options for Web Components](https://css-tricks.com/thinking-through-styling-options-for-web-components/)
-- [Web Standards Meet User-Land: Using CSS-in-JS to Style Custom Elements](https://css-tricks.com/web-standards-meet-user-land-using-css-in-js-to-style-custom-elements/)
-
 ### Interoperability
 
 - [Custom Elements Everywhere](https://custom-elements-everywhere.com)
@@ -221,6 +213,14 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Custom elements, shadow DOM and implicit form submission](https://www.hjorthhansen.dev/shadow-dom-and-forms/)
 - [Form-associated custom elements](https://www.hjorthhansen.dev/shadow-dom-form-participation/)
 - [You might not need shadow DOM](https://www.hjorthhansen.dev/you-might-not-need-shadow-dom/)
+
+### Styling
+
+- [Styling a Web Component](https://css-tricks.com/styling-a-web-component/)
+- [Styling in the Shadow DOM With CSS Shadow Parts](https://css-tricks.com/styling-in-the-shadow-dom-with-css-shadow-parts/)
+- [Styling is critical to web component reuse, but may prove difficult in practice](https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice)
+- [Thinking Through Styling Options for Web Components](https://css-tricks.com/thinking-through-styling-options-for-web-components/)
+- [Web Standards Meet User-Land: Using CSS-in-JS to Style Custom Elements](https://css-tricks.com/web-standards-meet-user-land-using-css-in-js-to-style-custom-elements/)
 
 ## Real World
 
