@@ -338,7 +338,6 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 ### Angular
 
 - [Angular Elements Overview](https://angular.io/guide/elements)
-- [Building Custom Elements / Web Components with Angular 6](https://medium.com/@tomsu/building-web-components-with-angular-elements-746cd2a38d5b)
 - [Building and consuming Angular Elements as Web Components](https://indepth.dev/building-and-bundling-web-components/)
 - [How to use Angular ngModel and ngForms with WebComponents](https://itnext.io/how-to-use-angular-ngmodel-and-ngforms-with-webcomponents-802bd9e1d3d7)
 - [Using Web Components in Angular](https://coryrylan.com/blog/using-web-components-in-angular)
