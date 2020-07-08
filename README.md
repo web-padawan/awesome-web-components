@@ -252,6 +252,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [elements-sk](https://github.com/google/elements-sk) - Collection of custom elements for "a la carte" web development.
 - [Elix](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
 - [Iooxa](https://github.com/iooxa/article) - Web components for interactive scientific writing, reactive documents and explorable explanations.
+- [Ketch.UP](https://github.com/smeup/ketchup) - Web components library for Sme.UP.
 - [Lion Web Components](https://github.com/ing-bank/lion) - Set of highly performant, accessible and flexible Web Components.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project.
 - [Lume](https://github.com/lume/lume) - Custom elements for defining 2D or 3D scenes rendered with CSS3D or WebGL.
