@@ -375,7 +375,6 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Tools
 
-- [Cypress Daywalker](https://github.com/JaySunSyn/cypress-daywalker) - Web Components and Shadow DOM support for Cypress.
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) - querySelector that can pierce Shadow DOM roots, useful for automated testing.
 - [shadow-automation-selenium](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
 - [web-component-analyzer](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
