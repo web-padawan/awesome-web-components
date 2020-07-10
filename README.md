@@ -554,6 +554,8 @@ These materials are here for historical reasons only, they are grouped by years 
 
 - [Performance and Custom Elements](https://www.stevesouders.com/blog/2013/11/26/performance-and-custom-elements/)
 - [A Guide to Web Components](https://css-tricks.com/modular-future-web-components/)
+- [Creating Reusable Markup with The HTML Template Element](https://blog.teamtreehouse.com/creating-reusable-markup-with-the-html-template-element)
+- [Working with Shadow DOM](https://blog.teamtreehouse.com/working-with-shadow-dom)
 - [HTML's New Template Tag](https://www.html5rocks.com/en/tutorials/webcomponents/template/)
 
 ### 2012
