@@ -278,6 +278,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Chameleon Web Components](https://github.com/MaritzSTL/chameleon) - Collection of framework-agnostic elements based on the Chameleon Design System.
 - [Clarity Core Web Components](https://github.com/vmware/clarity/tree/master/packages/core) - Suite of web components from the Clarity Design System.
 - [Crayons](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
+- [FAST Components](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-components) - Library of Web Components based on the FAST design language.
 - [GOV.UK Web Components](https://github.com/tgreyuk/govuk-webcomponents) - Set of encapsulated web components consuming the GOV.UK Design System.
 - [Helix UI](https://github.com/HelixDesignSystem/helix-ui) - Web Component library for the Helix Design System.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components.
