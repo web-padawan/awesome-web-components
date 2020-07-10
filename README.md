@@ -552,6 +552,7 @@ These materials are here for historical reasons only, they are grouped by years 
 
 ### 2013
 
+- [Performance and Custom Elements](https://www.stevesouders.com/blog/2013/11/26/performance-and-custom-elements/)
 - [A Guide to Web Components](https://css-tricks.com/modular-future-web-components/)
 - [HTML's New Template Tag](https://www.html5rocks.com/en/tutorials/webcomponents/template/)
 
