@@ -385,6 +385,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [shadow-automation-selenium](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
 - [web-component-analyzer](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
 - [Web Components Codemods](https://github.com/kcmr/web-components-codemods) - Codemods for Web Components.
+- [storybook](https://storybook.js.org/docs/web-components/get-started/introduction) - The UI Development Environment.
 
 ## Books
 
