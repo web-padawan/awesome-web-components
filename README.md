@@ -383,7 +383,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) - querySelector that can pierce Shadow DOM roots, useful for automated testing.
 - [shadow-automation-selenium](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
-- [storybook](https://storybook.js.org/docs/web-components/get-started/introduction) - The UI Development Environment.
+- [@storybook/web-components](https://www.npmjs.com/package/@storybook/web-components) - UI development environment for plain web-component snippets.
 - [web-component-analyzer](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
 - [Web Components Codemods](https://github.com/kcmr/web-components-codemods) - Codemods for Web Components.
 
