@@ -382,6 +382,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Tools
 
+- [Custom Elements Locator](https://github.com/open-wc/locator) - Chrome extension to find custom elements on a page.
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) - querySelector that can pierce Shadow DOM roots, useful for automated testing.
 - [shadow-automation-selenium](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
 - [@storybook/web-components](https://www.npmjs.com/package/@storybook/web-components) - UI development environment for plain web-component snippets.
