@@ -283,6 +283,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [FAST Components](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-components) - Library of Web Components based on the FAST design language.
 - [GOV.UK Web Components](https://github.com/tgreyuk/govuk-webcomponents) - Set of encapsulated web components consuming the GOV.UK Design System.
 - [Helix UI](https://github.com/HelixDesignSystem/helix-ui) - Web Component library for the Helix Design System.
+- [Lyne Components](https://github.com/lyne-design-system/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components.
 - [NuML | NUDE Elements](https://github.com/tenphi/numl) - HTML Framework and Design System based on Web Components and runtime CSS generation.
 - [PatternFly Elements](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components based on the Unified Design Kit.
