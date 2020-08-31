@@ -250,6 +250,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [`<css-doodle>`](https://github.com/css-doodle/css-doodle) - Web component for drawing patterns with CSS.
 - [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle) - Custom element that allows to create a dark mode toggle or switch.
 - [`<emoji-picker>`](https://github.com/nolanlawson/emoji-picker-element) - Lightweight emoji picker, distributed as a web component.
+- [`<fg-modal>`](https://github.com/filamentgroup/fg-modal) - Accessible modal dialog web component.
 - [`<file-viewer>`](https://github.com/avipunes/file-viewer) - Web component built with Svelte to view files.
 - [`<json-viewer>`](https://github.com/alenaksu/json-viewer) - Web component to visualize JSON data in a tree view.
 - [`<lite-youtube>`](https://github.com/paulirish/lite-youtube-embed) - Lite YouTube embed with a focus on visual performance.
