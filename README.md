@@ -306,6 +306,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Clarity Core Web Components](https://github.com/vmware/clarity/tree/master/packages/core) - Suite of web components from the Clarity Design System.
 - [Crayons](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
 - [FAST Components](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-components) - Library of Web Components based on the FAST design language.
+- [Fluent UI Web Components](https://github.com/microsoft/fluentui/tree/master/packages/web-components) - Library of Web Components that supports Microsoft's Fluent design language.
 - [GOV.UK Web Components](https://github.com/tgreyuk/govuk-webcomponents) - Set of encapsulated web components consuming the GOV.UK Design System.
 - [Helix UI](https://github.com/HelixDesignSystem/helix-ui) - Web Component library for the Helix Design System.
 - [Lyne Components](https://github.com/lyne-design-system/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
