@@ -97,6 +97,7 @@ Shadow DOM describes a method of combining multiple DOM trees into one hierarchy
 - [Shadow DOM in depth](https://github.com/praveenpuglia/shadow-dom-in-depth)
 - [Shadow DOM v1: Self-Contained Web Components](https://developers.google.com/web/fundamentals/web-components/shadowdom)
 - [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
+- [Understanding Slot Updates with Web Components](https://coryrylan.com/blog/understanding-slot-updates-with-web-components)
 - [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
 - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom)
 
