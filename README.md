@@ -278,6 +278,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Elix](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
 - [Immersive Custom Elements](https://github.com/MozillaReality/immersive-custom-elements) - Set of web components for embedding immersive (VR & AR) content.
 - [Iooxa](https://github.com/iooxa/article) - Web components for interactive scientific writing, reactive documents and explorable explanations.
+- [Joomla UI custom elements](https://github.com/joomla-projects/custom-elements) - Compilation of Joomla 4 Custom Elements.
 - [Ketch.UP](https://github.com/smeup/ketchup) - Web components library for Sme.UP.
 - [Lion Web Components](https://github.com/ing-bank/lion) - Set of highly performant, accessible and flexible Web Components.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project.
