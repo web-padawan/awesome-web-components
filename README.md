@@ -359,6 +359,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [fuco](https://github.com/wtnbass/fuco) - Functional component like React, but for Web Components.
 - [haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
+- [Solid](https://github.com/ryansolid/solid) - Declarative JavaScript library for creating user interfaces.
 
 ### Integrations
 
