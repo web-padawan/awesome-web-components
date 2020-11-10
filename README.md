@@ -158,11 +158,11 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 ### Best Practices
 
 - [Custom Element Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
+- [Developing Components: Publishing](https://open-wc.org/guides/developing-components/publishing/)
 - [Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
 - [Guidelines for creating web platform compatible components](https://w3ctag.github.io/webcomponents-design-guidelines/)
 - [How to Publish Web Components to NPM](https://justinfagnani.com/2019/11/01/how-to-publish-web-components-to-npm/)
 - [Open Web Components Recommendations](https://open-wc.org)
-- [Publishing Web Components to NPM](https://open-wc.org/publishing/)
 
 ### Codelabs
 
