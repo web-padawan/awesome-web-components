@@ -413,7 +413,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Starter Kits
 
-- [Create Open Web Components](https://open-wc.org/init/) - Web component project scaffolding.
+- [Create Open Web Components](https://open-wc.org/docs/development/generator/) - Web component project scaffolding.
 - [custom-element-boilerplate](https://github.com/github/custom-element-boilerplate) - Boilerplate for creating a custom element.
 - [hello-web-components](https://github.com/fernandopasik/hello-web-components) - Simple starter hello world web component written in TypeScript.
 - [nutmeg](https://github.com/abraham/nutmeg) - Build, test, and publish vanilla Web Components with a little spice.
