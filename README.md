@@ -153,6 +153,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [The future of accessibility for custom elements](https://robdodson.me/the-future-of-accessibility-for-custom-elements/)
 - [The Guide to Accessible Web Components](https://www.erikkroes.nl/blog/accessibility/the-guide-to-accessible-web-components-draft/)
 - [Web Components and the Accessibility Object model (AOM)](https://www.24a11y.com/2019/web-components-and-the-aom/)
+- [Web Components punch list](https://developer.paciellogroup.com/blog/2014/09/web-components-punch-list/)
 - [Web components still need to be accessible](https://www.24a11y.com/2018/web-components-still-need-to-be-accessible/)
 
 ### Best Practices
