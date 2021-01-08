@@ -224,6 +224,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Styling
 
+- [Options for styling web components](https://nolanlawson.com/2021/01/03/options-for-styling-web-components/)
 - [Styling a Web Component](https://css-tricks.com/styling-a-web-component/)
 - [Styling in the Shadow DOM With CSS Shadow Parts](https://css-tricks.com/styling-in-the-shadow-dom-with-css-shadow-parts/)
 - [Styling is critical to web component reuse, but may prove difficult in practice](https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice)
