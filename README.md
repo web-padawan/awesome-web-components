@@ -83,6 +83,7 @@ Custom Elements provide a way for authors to build their own fully-featured DOM 
 - [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
 - [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements)
 - [Custom Elements v1: Reusable Web Components](https://developers.google.com/web/fundamentals/web-components/customelements)
+- [Handy Custom Elements' Patterns](https://gist.github.com/WebReflection/ec9f6687842aa385477c4afca625bbf4)
 - [MDN - Using Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
 - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements)
 
