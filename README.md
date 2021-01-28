@@ -353,6 +353,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [FAST Element](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-element) - Lightweight library for building performant, memory-efficient, standards-compliant Web Components.
 - [LitElement](https://lit-element.polymer-project.org) - Simple base class for creating fast, lightweight web components. Part of the Polymer Project.
 - [Lightning Web Components](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation.
+- [Native Web](https://github.com/nativew/nativeweb) - Tiny library for simple web components. [1kB]
 - [Omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).
 - [Panel](https://github.com/mixpanel/panel) - Web Components + Virtual DOM: web standards for powerful UIs.
 - [Polymer](https://polymer-library.polymer-project.org) - Original web component library by the Polymer Project authors.
