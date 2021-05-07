@@ -288,6 +288,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Clever components](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
 - [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - Standalone Components for SPA routing, displaying data from web services, and more.
 - [elements-sk](https://github.com/google/elements-sk) - Collection of custom elements for "a la carte" web development.
+- [github-elements](https://github.com/github/github-elements) - GitHub's Web Component collection.
 - [Elix](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
 - [Immersive Custom Elements](https://github.com/MozillaReality/immersive-custom-elements) - Set of web components for embedding immersive (VR & AR) content.
 - [Iooxa](https://github.com/iooxa/article) - Web components for interactive scientific writing, reactive documents and explorable explanations.
