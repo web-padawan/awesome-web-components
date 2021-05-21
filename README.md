@@ -68,6 +68,7 @@
 
 ## Introduction
 
+- [Web Components 101](https://nhswd.com/blog/web-components-101-what-are-web-components/)
 - [Intro to Web Components](https://developer.salesforce.com/blogs/2020/01/intro-to-web-components.html)
 - [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 - [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
