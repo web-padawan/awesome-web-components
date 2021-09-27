@@ -429,6 +429,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Tools
 
+- [Backlight](https://backlight.dev/) — With collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems. 
 - [Custom Elements Locator](https://github.com/open-wc/locator) - Chrome extension to find custom elements on a page.
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) - querySelector that can pierce Shadow DOM roots, useful for automated testing.
 - [shadow-automation-selenium](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
