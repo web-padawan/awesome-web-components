@@ -358,15 +358,13 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Class Based
 
-- [Corpuscule](https://github.com/corpusculejs/corpuscule) - Small Web Components framework based on decorators.
 - [DNA](https://github.com/chialab/dna) - Progressive Web Components library.
 - [FAST Element](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-element) - Lightweight library for building performant, memory-efficient, standards-compliant Web Components.
-- [LitElement](https://lit-element.polymer-project.org) - Simple base class for creating fast, lightweight web components. Part of the Polymer Project.
+- [Forge Core](https://github.com/tyler-technologies-oss/forge-core) - Building blocks and utilities that are used when building Forge Web Components.
+- [Lit](https://lit.dev) - Simple library for building fast, lightweight web components.
 - [Lightning Web Components](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation.
 - [Omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).
 - [Panel](https://github.com/mixpanel/panel) - Web Components + Virtual DOM: web standards for powerful UIs.
-- [Polymer](https://polymer-library.polymer-project.org) - Original web component library by the Polymer Project authors.
-- [Skate](https://github.com/skatejs/skatejs) - Web component library focusing on a functional rendering pipeline and a small footprint.
 - [slim.js](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
 - [Stencil](https://github.com/ionic-team/stencil) - Compiler for generating Web Components.
 - [Tonic](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.
@@ -377,7 +375,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [fuco](https://github.com/wtnbass/fuco) - Functional component like React, but for Web Components.
 - [haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
-- [Solid](https://github.com/ryansolid/solid) - Declarative JavaScript library for creating user interfaces.
+- [Solid Element](https://github.com/solidjs/solid/tree/main/packages/solid-element) - Library that extends Solid adding Custom Web Components and extensions.
 
 ### Integrations
 
