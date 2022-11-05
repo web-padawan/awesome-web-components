@@ -83,7 +83,7 @@ Custom Elements provide a way for authors to build their own fully-featured DOM 
 - [HTML Living Standard: Custom elements](https://html.spec.whatwg.org/multipage/custom-elements.html)
 - [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
 - [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements)
-- [Custom Elements v1: Reusable Web Components](https://developers.google.com/web/fundamentals/web-components/customelements)
+- [Custom Elements v1: Reusable Web Components](https://web.dev/custom-elements-v1/)
 - [Handy Custom Elements' Patterns](https://gist.github.com/WebReflection/ec9f6687842aa385477c4afca625bbf4)
 - [MDN - Using Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
 - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements)
@@ -97,7 +97,7 @@ Shadow DOM describes a method of combining multiple DOM trees into one hierarchy
 - [MDN - Using Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
 - [Open vs. Closed Shadow DOM](https://blog.revillweb.com/open-vs-closed-shadow-dom-9f3d7427d1af)
 - [Shadow DOM in depth](https://github.com/praveenpuglia/shadow-dom-in-depth)
-- [Shadow DOM v1: Self-Contained Web Components](https://developers.google.com/web/fundamentals/web-components/shadowdom)
+- [Shadow DOM v1: Self-Contained Web Components](https://web.dev/shadowdom-v1/)
 - [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
 - [Understanding Slot Updates with Web Components](https://coryrylan.com/blog/understanding-slot-updates-with-web-components)
 - [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
@@ -160,7 +160,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Best Practices
 
-- [Custom Element Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
+- [Custom Element Best Practices](https://web.dev/custom-elements-best-practices/)
 - [Developing Components: Publishing](https://open-wc.org/guides/developing-components/publishing/)
 - [Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
 - [Guidelines for creating web platform compatible components](https://w3ctag.github.io/webcomponents-design-guidelines/)
@@ -474,11 +474,11 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
   - [Part 6: Shadow DOM styling](https://javascript.info/shadow-dom-style)
   - [Part 7: Shadow DOM and events](https://javascript.info/shadow-dom-events)
 
-- "**HowTo: Components**" by [Web Fundamentals](https://developers.google.com/web/fundamentals/)
-  - [Overview](https://developers.google.com/web/fundamentals/web-components/examples)
-  - [`<howto-checkbox>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-checkbox)
-  - [`<howto-tabs>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-tabs)
-  - [`<howto-tooltip>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-tooltip)
+- "**HowTo: Components**" by [Web Fundamentals](https://web.dev)
+  - [Overview](https://web.dev/components-examples-overview/)
+  - [`<howto-checkbox>`](https://web.dev/components-howto-checkbox/)
+  - [`<howto-tabs>`](https://web.dev/components-howto-tabs/)
+  - [`<howto-tooltip>`](https://web.dev/components-howto-tooltip/)
 
 - **CSS tricks** article series by [Caleb Williams](https://css-tricks.com/author/calebdwilliams/)
   - [Part 1: An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
