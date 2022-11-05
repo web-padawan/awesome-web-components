@@ -173,6 +173,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Building Custom Elements with Web Components for the 2020 Elections](https://medium.com/stories-from-upstatement/building-custom-elements-with-web-components-for-the-2020-elections-f767ff9e9c6a)
 - [Building Web Components with Vanilla JavaScript](https://dev.to/aspittel/building-web-components-with-vanilla-javascript--jho)
 - [Creating a Reusable Avatar Web Component](https://marcoslooten.com/blog/creating-a-reusable-avatar-web-component/)
+- [Creating Custom Form Controls with ElementInternals](https://css-tricks.com/creating-custom-form-controls-with-elementinternals/)
 - [Creating Web Components with Stencil](https://auth0.com/blog/creating-web-components-with-stencil/)
 - [From Web Component to Lit Element](https://codelabs.developers.google.com/codelabs/the-lit-path)
 - [Getting started with LitElement and TypeScript](https://labs.thisdot.co/blog/getting-started-with-litelement-and-typescript)
@@ -421,6 +422,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### React
 
+- [3 Approaches to Integrate React with Custom Elements](https://css-tricks.com/3-approaches-to-integrate-react-with-custom-elements/)
 - [Rendering React Components With Custom Elements](https://guillaumebriday.fr/rendering-react-components-with-custom-elements)
 - [How to use Web Components in React](https://www.robinwieruch.de/react-web-components)
 
