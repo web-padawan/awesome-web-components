@@ -229,10 +229,11 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Styling
 
+- [Eschewing Shadow DOM](https://every-layout.dev/blog/eschewing-shadow-dom/)
+- [How Nordhealth uses Custom Properties in Web Components](https://web.dev/custom-properties-web-components/)
 - [Options for styling web components](https://nolanlawson.com/2021/01/03/options-for-styling-web-components/)
 - [Styling a Web Component](https://css-tricks.com/styling-a-web-component/)
 - [Styling in the Shadow DOM With CSS Shadow Parts](https://css-tricks.com/styling-in-the-shadow-dom-with-css-shadow-parts/)
-- [Styling is critical to web component reuse, but may prove difficult in practice](https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice)
 - [Thinking Through Styling Options for Web Components](https://css-tricks.com/thinking-through-styling-options-for-web-components/)
 - [Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think](https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/)
 - [Web Standards Meet User-Land: Using CSS-in-JS to Style Custom Elements](https://css-tricks.com/web-standards-meet-user-land-using-css-in-js-to-style-custom-elements/)
