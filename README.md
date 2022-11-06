@@ -151,7 +151,9 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 ### Accessibility
 
 - [Accessibility for Web Components](https://developer.salesforce.com/blogs/2020/01/accessibility-for-web-components.html)
+- [Dialogs and shadow DOM: can we make it accessible?](https://nolanlawson.com/2022/06/14/dialogs-and-shadow-dom-can-we-make-it-accessible/)
 - [How to Make Accessible Web Components — a Brief Guide](https://www.sitepoint.com/accessible-web-components/)
+- [Managing focus in the shadow DOM](https://nolanlawson.com/2021/02/13/managing-focus-in-the-shadow-dom/)
 - [The future of accessibility for custom elements](https://robdodson.me/the-future-of-accessibility-for-custom-elements/)
 - [The Guide to Accessible Web Components](https://www.erikkroes.nl/blog/accessibility/the-guide-to-accessible-web-components-draft/)
 - [Web Components and the Accessibility Object model (AOM)](https://www.24a11y.com/2019/web-components-and-the-aom/)
@@ -229,9 +231,11 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Styling
 
+- [Does shadow DOM improve style performance?](https://nolanlawson.com/2021/08/15/does-shadow-dom-improve-style-performance/)
 - [Eschewing Shadow DOM](https://every-layout.dev/blog/eschewing-shadow-dom/)
 - [How Nordhealth uses Custom Properties in Web Components](https://web.dev/custom-properties-web-components/)
 - [Options for styling web components](https://nolanlawson.com/2021/01/03/options-for-styling-web-components/)
+- [Style scoping versus shadow DOM: which is fastest?](https://nolanlawson.com/2022/06/22/style-scoping-versus-shadow-dom-which-is-fastest/)
 - [Styling a Web Component](https://css-tricks.com/styling-a-web-component/)
 - [Styling in the Shadow DOM With CSS Shadow Parts](https://css-tricks.com/styling-in-the-shadow-dom-with-css-shadow-parts/)
 - [Thinking Through Styling Options for Web Components](https://css-tricks.com/thinking-through-styling-options-for-web-components/)
