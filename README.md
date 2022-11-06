@@ -234,6 +234,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Styling in the Shadow DOM With CSS Shadow Parts](https://css-tricks.com/styling-in-the-shadow-dom-with-css-shadow-parts/)
 - [Styling is critical to web component reuse, but may prove difficult in practice](https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice)
 - [Thinking Through Styling Options for Web Components](https://css-tricks.com/thinking-through-styling-options-for-web-components/)
+- [Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think](https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/)
 - [Web Standards Meet User-Land: Using CSS-in-JS to Style Custom Elements](https://css-tricks.com/web-standards-meet-user-land-using-css-in-js-to-style-custom-elements/)
 
 ## Real World
@@ -423,8 +424,10 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 ### React
 
 - [3 Approaches to Integrate React with Custom Elements](https://css-tricks.com/3-approaches-to-integrate-react-with-custom-elements/)
+- [Building Interoperable Web Components That Even Work With React](https://css-tricks.com/building-interoperable-web-components-react/)
 - [Rendering React Components With Custom Elements](https://guillaumebriday.fr/rendering-react-components-with-custom-elements)
 - [How to use Web Components in React](https://www.robinwieruch.de/react-web-components)
+- [Using Web Components With Next (or Any SSR Framework)](https://css-tricks.com/using-web-components-with-next-or-any-ssr-framework/)
 
 ### Vue
 
