@@ -310,13 +310,11 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Design Systems
 
-- [Amber Components](https://github.com/bitrockteam/amber-components) - Web Components implementation of the Amber Design System.
 - [Astro Space UX Design System](https://github.com/RocketCommunicationsInc/astro) - Set of components to build rich space app experiences with established interaction patterns.
 - [Auro Design System](https://auro.alaskaair.com) - Alaska Airlines design system to innovate on ideas and collaborate on the future.
 - [Bolt Design System](https://github.com/boltdesignsystem/bolt) - Twig and Web Component-powered UI components, reusable visual styles and tooling.
 - [Calcite Components](https://github.com/Esri/calcite-components) - Shared Web Components for Esri's Calcite design framework.
 - [Carbon Web Components](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
-- [Chameleon Web Components](https://github.com/MaritzSTL/chameleon) - Collection of framework-agnostic elements based on the Chameleon Design System.
 - [Clarity Core Web Components](https://github.com/vmware-clarity/core/tree/main/projects/core) - Suite of web components from the Clarity Design System.
 - [Crayons](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
 - [FAST Components](https://github.com/microsoft/fast/tree/master/packages/web-components) - Library of Web Components based on the FAST design language.
@@ -332,7 +330,6 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [NuML | NUDE Elements](https://github.com/tenphi/numl) - HTML Framework and Design System based on Web Components and runtime CSS generation.
 - [OutlineJS](https://github.com/phase2/outline) - Web component based design system starter kit.
 - [PatternFly Elements](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components based on the Unified Design Kit.
-- [Pearson Web Components](https://github.com/pearson-ux/web-components) - Pearson's shareable component library implementing Gravity design system.
 - [Pharos Design System](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
 - [Red Hat Design System](https://github.com/RedHat-UX/red-hat-design-system) - Web components for building uniform experiences with the Red Hat brand.
 - [Siemens iX Web Components](https://github.com/siemens/ix/tree/main/packages/core) - Web Components implementing Siemens iX design system.
