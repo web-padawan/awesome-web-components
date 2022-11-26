@@ -592,7 +592,12 @@ These materials are here for historical reasons only, they are grouped by years 
 #### 2019
 
 - [A history of the HTML slot element](https://component.kitchen/blog/posts/a-history-of-the-html-slot-element)
-- [Web Components in 2019: An Overview of the Most Exciting Proposals for the Web Platform Related to Web Components](https://scotch.io/bar-talk/an-overview-of-the-most-exciting-proposals-for-the-web-platform-related-to-web-components)
+- [Web Components for Cross-Framework Component Libraries](https://codeburst.io/web-components-for-cross-framework-component-libraries-2647741f9470)
+- [Web Components in 2019: Part 1](https://codeburst.io/web-components-in-2019-part-1-6bd7251edce5)
+- [Web Components in 2019: Part 2](https://codeburst.io/web-components-in-2019-part-2-a7de8c770c5a)
+- [Web Components in 2019: Part 3](https://codeburst.io/web-components-in-2019-part-3-e725b781a414)
+- [Web Components in 2019: Part 4](https://codeburst.io/web-components-in-2019-part-4-7fe8e63a4dee)
+- [Developments in Web Components I’m excited about in 2019](https://medium.com/angular-in-depth/developments-in-web-components-im-excited-about-in-2019-3ae7751c2f64)
 
 #### 2018
 
@@ -600,7 +605,7 @@ These materials are here for historical reasons only, they are grouped by years 
 - [Web Components 101: An Introduction to Web Components](https://www.telerik.com/blogs/web-components-101-an-introduction-to-web-components)
 - [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
 - [6 Reasons You Should Use Native Web Components](https://codeburst.io/6-reasons-you-should-use-native-web-components-b45e18e069c2)
-- [Web Components in 2018](https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/)
+- [Web Components in 2018](https://www.sitepen.com/blog/web-components-in-2018)
 - [Web Components Introduction: Creating Custom HTML Elements in 2018](https://www.grapecity.com/en/blogs/web-components-introduction-creating-custom-html-elements-2018)
 - [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
 - [Extending Native DOM Elements with Web Components](https://medium.com/revillweb/extending-native-dom-elements-with-web-components-233350c8e86a)
