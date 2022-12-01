@@ -617,6 +617,7 @@ These materials are here for historical reasons only, they are grouped by years 
 - [An intro to web components with otters](https://meowni.ca/posts/web-components-with-otters/)
 - [The broken promise of Web Components](https://dmitriid.com/blog/2017/03/the-broken-promise-of-web-components/)
 - [Regarding the broken promise of Web Components](http://robdodson.me/regarding-the-broken-promise-of-web-components/)
+- [Web Components v1 - the next generation](https://web.dev/webcomponents-org/)
 
 #### 2016
 
@@ -656,6 +657,7 @@ These materials are here for historical reasons only, they are grouped by years 
 
 - [Performance and Custom Elements](https://www.stevesouders.com/blog/2013/11/26/performance-and-custom-elements/)
 - [A Guide to Web Components](https://css-tricks.com/modular-future-web-components/)
+- [Working with Custom Elements](https://web.dev/customelements/)
 - [Creating Reusable Markup with The HTML Template Element](https://blog.teamtreehouse.com/creating-reusable-markup-with-the-html-template-element)
 - [Working with Shadow DOM](https://blog.teamtreehouse.com/working-with-shadow-dom)
 - [HTML's New Template Tag](https://www.html5rocks.com/en/tutorials/webcomponents/template/)
