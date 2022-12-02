@@ -660,7 +660,11 @@ These materials are here for historical reasons only, they are grouped by years 
 - [Working with Custom Elements](https://web.dev/customelements/)
 - [Creating Reusable Markup with The HTML Template Element](https://blog.teamtreehouse.com/creating-reusable-markup-with-the-html-template-element)
 - [Working with Shadow DOM](https://blog.teamtreehouse.com/working-with-shadow-dom)
-- [HTML's New Template Tag](https://www.html5rocks.com/en/tutorials/webcomponents/template/)
+- [Shadow DOM 101](https://web.dev/shadowdom/)
+- [Shadow DOM 201](https://web.dev/shadowdom-201/)
+- [Shadow DOM 301](https://web.dev/shadowdom-301/)
+- [Visualizing shadow DOM concepts](https://developer.chrome.com/blog/visualizing-shadow-dom-concepts/)
+- [HTML's New Template Tag](https://web.dev/webcomponents-template/)
 
 #### 2012
 
