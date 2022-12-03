@@ -65,6 +65,8 @@
 
 ## Introduction
 
+- [An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
+- [What are browser-native web components?](https://gomakethings.com/what-are-browser-native-web-components/)
 - [Web Components 101](https://nhswd.com/blog/web-components-101-what-are-web-components/)
 - [Intro to Web Components](https://developer.salesforce.com/blogs/2020/01/intro-to-web-components.html)
 - [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
@@ -125,6 +127,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 ### Accessibility
 
 - [Accessibility for Web Components](https://developer.salesforce.com/blogs/2020/01/accessibility-for-web-components.html)
+- [Accessibility with ID Referencing and Shadow DOM](https://coryrylan.com/blog/accessibility-with-id-referencing-and-shadow-dom)
 - [Dialogs and shadow DOM: can we make it accessible?](https://nolanlawson.com/2022/06/14/dialogs-and-shadow-dom-can-we-make-it-accessible/)
 - [How to Make Accessible Web Components — a Brief Guide](https://www.sitepoint.com/accessible-web-components/)
 - [Managing focus in the shadow DOM](https://nolanlawson.com/2021/02/13/managing-focus-in-the-shadow-dom/)
