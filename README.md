@@ -794,11 +794,11 @@ These materials are here for historical reasons only, they are grouped by years 
   <tbody>
 </table>
 
+## Maintainers
+
+- Created by [@mateusortiz](https://github.com/mateusortiz) in 2014.
+- Maintained by [@web-padawan](https://github.com/web-padawan) since 2018.
+
 ## License
 
-Copyright 2014-2018, All rights reserved.
-
-Code licensed under the:
-[MIT license](http://mateusortiz.mit-license.org)
-
-@author Mateus Ortiz <mteusortiz@gmail.com>
+[![CC0](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
