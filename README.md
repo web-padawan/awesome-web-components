@@ -1,8 +1,10 @@
-# Web Components the Right Way
+# Awesome Web Components
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome Web Components resources.
+> **Note**
+> This project was previously named "Web Components the Right Way"
 
 [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) — a suite of different technologies allowing you to create reusable custom elements — with their functionality encapsulated away from the rest of your code — and utilize them in your web apps.
 
@@ -59,9 +61,8 @@
   - [Polyfills](#polyfills)
   - [History](#history)
 - [Who to follow](#who-to-follow)
+- [Maintainers](#maintainers)
 - [License](#license)
-
-> Web Components the Right Way was made with love by [Mateus Ortiz](https://twitter.com/mteusortiz) and maintained by [Serhii Kulykov](https://twitter.com/serhiikulykov)
 
 ## Introduction
 
