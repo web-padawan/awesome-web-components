@@ -61,7 +61,6 @@ A curated list of awesome Web Components resources.
   - [History](#history)
 - [Who To Follow](#who-to-follow)
 - [Maintainers](#maintainers)
-- [License](#license)
 
 ## Introduction
 
@@ -547,7 +546,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Explainer](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md)
 - [Constructable Stylesheets](https://www.chromestatus.com/feature/5394843094220800) - Feature in Chrome platform status.
 
-### Custom State Pseudo class
+### Custom State Pseudo Class
 
 - [Blink: Intent to implement](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/CApU9QIu3TM)
 - [`ElementInternals`'s `states` property and the `:state()` pseudo class](https://github.com/w3c/webcomponents/blob/gh-pages/proposals/custom-states-and-state-pseudo-class.md)
@@ -798,7 +797,3 @@ These materials are here for historical reasons only, they are grouped by years 
 
 - Created by [@mateusortiz](https://github.com/mateusortiz) in 2014.
 - Maintained by [@web-padawan](https://github.com/web-padawan) since 2018.
-
-## License
-
-[![CC0](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
