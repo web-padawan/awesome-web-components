@@ -65,12 +65,13 @@ A curated list of awesome Web Components resources.
 ## Introduction
 
 - [An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
-- [What are browser-native web components?](https://gomakethings.com/what-are-browser-native-web-components/)
-- [Web Components 101](https://nhswd.com/blog/web-components-101-what-are-web-components/)
 - [Intro to Web Components](https://developer.salesforce.com/blogs/2020/01/intro-to-web-components.html)
-- [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 - [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
+- [The Motivation For Using Web Components, an Introduction](https://www.thinktecture.com/web-components/introduction-and-motivation/)
 - [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
+- [Web Components 101](https://nhswd.com/blog/web-components-101-what-are-web-components/)
+- [What are browser-native web components?](https://gomakethings.com/what-are-browser-native-web-components/)
+- [Why Web Components?](https://www.fast.design/docs/resources/why-web-components/)
 
 ## Standards
 
