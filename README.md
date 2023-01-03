@@ -42,6 +42,7 @@ A curated list of awesome Web Components resources.
   - [Vue](#vue)
   - [Svelte](#svelte)
 - [Ecosystem](#ecosystem)
+  - [Meta Frameworks](#meta-frameworks)
   - [Starter Kits](#starter-kits)
   - [Tools](#tools)
 - [Books](#books)
@@ -425,6 +426,15 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Svelte Web Component — 5.4KB](https://itnext.io/svelte-web-component-5-4kb-4afe46590d99)
 
 ## Ecosystem
+
+## Meta Frameworks
+
+- [AMP](https://github.com/ampproject/amphtml) - Web component framework to easily create user-first experiences for the web.
+- [Enhance](https://enhance.dev/docs/) - Web standards-based HTML framework for building lightweight web applications.
+- [luna-js](https://github.com/webtides/luna-js) - SSR framework that makes working with the WebComponents standard a breeze.
+- [Rocket](https://rocket.modern-web.dev) - Modern web setup for static sites with a sprinkle of JavaScript.
+- [Web Components Compiler](https://github.com/ProjectEvergreen/wcc) - Compiler to make server-side rendering of native web components easier.
+- [WebC](https://github.com/11ty/webc) - Framework-independent standalone HTML serializer for generating markup for web components.
 
 ### Starter Kits
 
