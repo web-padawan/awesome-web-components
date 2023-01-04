@@ -71,6 +71,7 @@ A curated list of awesome Web Components resources.
 - [The Motivation For Using Web Components, an Introduction](https://www.thinktecture.com/web-components/introduction-and-motivation/)
 - [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
 - [Web Components 101](https://nhswd.com/blog/web-components-101-what-are-web-components/)
+- [Web Components: From the orbital height](https://javascript.info/webcomponents-intro)
 - [What are browser-native web components?](https://gomakethings.com/what-are-browser-native-web-components/)
 - [Why Web Components?](https://www.fast.design/docs/resources/why-web-components/)
 
@@ -80,11 +81,13 @@ A curated list of awesome Web Components resources.
 
 Custom Elements provide a way for authors to build their own fully-featured DOM elements.
 
-- [HTML Living Standard: Custom elements](https://html.spec.whatwg.org/multipage/custom-elements.html)
 - [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
 - [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements)
+- [Custom elements](https://javascript.info/custom-elements)
 - [Custom Elements v1: Reusable Web Components](https://web.dev/custom-elements-v1/)
+- [Handling properties in custom element upgrades](https://nolanlawson.com/2021/08/03/handling-properties-in-custom-element-upgrades/)
 - [Handy Custom Elements' Patterns](https://gist.github.com/WebReflection/ec9f6687842aa385477c4afca625bbf4)
+- [HTML Living Standard: Custom elements](https://html.spec.whatwg.org/multipage/custom-elements.html)
 - [MDN - Using Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
 - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements)
 
@@ -92,15 +95,22 @@ Custom Elements provide a way for authors to build their own fully-featured DOM 
 
 Shadow DOM describes a method of combining multiple DOM trees into one hierarchy and how these trees interact with each other within a document, thus enabling better composition of the DOM.
 
-- [DOM Living Standard: Interface `ShadowRoot`](https://dom.spec.whatwg.org/#interface-shadowroot)
+- [A complete guide on shadow DOM and event propagation](https://pm.dartus.fr/blog/a-complete-guide-on-shadow-dom-and-event-propagation/)
 - [DOM Living Standard: Shadow tree](https://dom.spec.whatwg.org/#shadow-trees)
 - [MDN - Using Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
+- [Mind the document.activeElement!](https://dev.to/open-wc/mind-the-document-activeelement-2o9a)
 - [Open vs. Closed Shadow DOM](https://blog.revillweb.com/open-vs-closed-shadow-dom-9f3d7427d1af)
+- [Shadow DOM](https://javascript.info/shadow-dom)
+- [Shadow DOM and events](https://javascript.info/shadow-dom-events)
 - [Shadow DOM in depth](https://github.com/praveenpuglia/shadow-dom-in-depth)
+- [Shadow DOM slots, composition](https://javascript.info/slots-composition)
+- [Shadow DOM styling](https://javascript.info/shadow-dom-style)
 - [Shadow DOM v1: Self-Contained Web Components](https://web.dev/shadowdom-v1/)
 - [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
 - [Understanding Slot Updates with Web Components](https://coryrylan.com/blog/understanding-slot-updates-with-web-components)
 - [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
+- [Who doesn't love some slots?](https://dev.to/westbrook/who-doesnt-love-some-s-3de0)
+- [Your Content in Shadow DOM Portals](https://dev.to/westbrook/your-content-in-shadow-dom-portals-3cdb)
 - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom)
 
 ### HTML Templates
@@ -108,8 +118,13 @@ Shadow DOM describes a method of combining multiple DOM trees into one hierarchy
 `<template>` element is used to declare fragments of HTML that can be cloned and inserted in the document by script.
 
 - [HTML Living Standard: The `template` element](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
+- [HTML templates with vanilla JavaScript](https://gomakethings.com/html-templates-with-vanilla-javascript/)
 - [MDN - &lt;template&gt;: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
 - [MDN - Using templates and slots](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots)
+- [Template element](https://javascript.info/template-element)
+- [Templating in HTML](https://kittygiraudel.com/2022/09/30/templating-in-html/)
+- [The HTML5 template element](https://dev.to/ahferroin7/the-html5-template-element-26b6)
+- [Understanding The Template Element In HTML](https://blog.openreplay.com/understanding-the-template-element-in-html/)
 - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element)
 
 ### CSS Shadow Parts
@@ -475,15 +490,6 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
   - [Part 1: An introduction to writing raw Web Components](https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m)
   - [Part 2: Supercharging Web Components with lit-html](https://dev.to/thepassle/web-components-from-zero-to-hero-part-two-38p4)
   - [Part 3: Web Components hero with LitElement](https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h)
-
-- "**The Modern JavaScript Tutorial**" by [Ilya Kantor](https://github.com/iliakan)
-  - [Part 1: From the orbital height](https://javascript.info/webcomponents-intro)
-  - [Part 2: Custom Elements](https://javascript.info/custom-elements)
-  - [Part 3: Shadow DOM](https://javascript.info/shadow-dom)
-  - [Part 4: Template element](https://javascript.info/template-element)
-  - [Part 5: Shadow DOM slots, composition](https://javascript.info/slots-composition)
-  - [Part 6: Shadow DOM styling](https://javascript.info/shadow-dom-style)
-  - [Part 7: Shadow DOM and events](https://javascript.info/shadow-dom-events)
 
 - "**HowTo: Components**" by [Web Fundamentals](https://web.dev)
   - [Overview](https://web.dev/components-examples-overview/)
