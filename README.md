@@ -44,6 +44,7 @@ A curated list of awesome Web Components resources.
 - [Ecosystem](#ecosystem)
   - [Meta Frameworks](#meta-frameworks)
   - [Starter Kits](#starter-kits)
+  - [Testing Solutions](#testing-solutions)
   - [Tools](#tools)
 - [Books](#books)
 - [Tutorials](#tutorials)
@@ -452,13 +453,25 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [hello-web-components](https://github.com/fernandopasik/hello-web-components) - Simple starter hello world web component written in TypeScript.
 - [nutmeg](https://github.com/abraham/nutmeg) - Build, test, and publish vanilla Web Components with a little spice.
 
+### Testing Solutions
+
+- [capybara-shadowdom](https://github.com/yuki24/capybara-shadowdom) - Ruby gem that adds basic support for the Shadow DOM to Capybara.
+- [Cypress component tests for Lit](https://dev.to/simonireilly/cypress-component-tests-for-lit-elements-web-components-45oj) - How to run component tests for a Lit web component with Cypress.
+- [cypress-lit](https://github.com/simonireilly/cypress-lit) - Test your Lit elements and native web components in Cypress with all the modern browsers.
+- [Developing Components: Testing](https://open-wc.org/guides/developing-components/testing/) - Using @web/test-runner for testing web components in a real browser.
+- [How To Automate Shadow DOM In Selenium WebDriver](https://www.lambdatest.com/blog/shadow-dom-in-selenium/) - Locating Shadow DOM elements using Selenium WebDriver in a Maven project.
+- [Native Automation support for Shadow DOM](https://staleelement.medium.com/native-automation-support-for-shadow-dom-with-webdriverio-and-cypress-chapter-3-26249a589f5e) - Shadow DOM and open-source testing frameworks.
+- [Open Web Components: Testing](https://open-wc.org/docs/testing/testing-package/) - Opinionated package that combines and configures testing libraries.
+- [query-selector-shadow-dom](https://github.com/webdriverio/query-selector-shadow-dom) - querySelector that can pierce Shadow DOM roots, useful for automated testing.
+- [shadow-automation-selenium](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
+- [Testing Shadow DOM elements in Selenium](https://reflect.run/articles/testing-shadow-dom-elements-in-selenium/) - In Selenium 4, there is now a way to access Shadow DOM nodes.
+- [Test web components with Playwright](https://alexbilson.dev/plants/technology/test-web-components-with-playwright/) - So you’ve created a native web component or two. How do you test them in popular browsers?
+- [W3C Webdriver conquering automation of Shadow DOM](https://staleelement.medium.com/w3c-webdriver-conquering-automation-of-shadow-dom-chapter-2-d92c7fe9e74c) - Shadow DOM tree and its interaction with the W3C Webdriver.
+
 ### Tools
 
 - [Backlight](https://backlight.dev/) — With collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems.
 - [Custom Elements Locator](https://github.com/open-wc/locator) - Chrome extension to find custom elements on a page.
-- [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) - querySelector that can pierce Shadow DOM roots, useful for automated testing.
-- [shadow-automation-selenium](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
-- [shadow-dom-utils](https://github.com/43081j/shadow-dom-utils) - Set of useful utilities for dealing with shadow DOM, primarily for test environment.
 - [@storybook/web-components](https://www.npmjs.com/package/@storybook/web-components) - UI development environment for plain web-component snippets.
 - [webcomponents.dev](https://webcomponents.dev) - Component IDE for web platform developers.
 - [web-component-analyzer](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
