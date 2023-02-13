@@ -327,6 +327,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 - [Astro Space UX Design System](https://github.com/RocketCommunicationsInc/astro) - Set of components to build rich space app experiences with established interaction patterns.
 - [Auro Design System](https://auro.alaskaair.com) - Alaska Airlines design system to innovate on ideas and collaborate on the future.
+- [Blueprint UI](https://blueprintui.dev) - Web Component based design system with flexible and lightweight components.
 - [Bolt Design System](https://github.com/boltdesignsystem/bolt) - Twig and Web Component-powered UI components, reusable visual styles and tooling.
 - [Calcite Components](https://github.com/Esri/calcite-components) - Shared Web Components for Esri's Calcite design framework.
 - [Carbon Web Components](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
