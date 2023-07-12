@@ -474,6 +474,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Backlight](https://backlight.dev/) — With collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems.
 - [Custom Elements Locator](https://github.com/open-wc/locator) - Chrome extension to find custom elements on a page.
 - [@storybook/web-components](https://www.npmjs.com/package/@storybook/web-components) - UI development environment for plain web-component snippets.
+- [Hreflang checker](https://localizely.com/hreflang-checker/) - Tool for testing Hreflang tags on multilingual web pages.
 - [webcomponents.dev](https://webcomponents.dev) - Component IDE for web platform developers.
 - [web-component-analyzer](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
 - [Web Components Codemods](https://github.com/kcmr/web-components-codemods) - Codemods for Web Components.
