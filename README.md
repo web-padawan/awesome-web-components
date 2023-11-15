@@ -298,6 +298,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Immersive Custom Elements](https://github.com/MozillaReality/immersive-custom-elements) - Set of web components for embedding immersive (VR & AR) content.
 - [Joomla UI custom elements](https://github.com/joomla-projects/custom-elements) - Compilation of Joomla 4 Custom Elements.
 - [Ketch.UP](https://github.com/smeup/ketchup) - Web components library for Sme.UP.
+- [LDRS](https://uiball.com/ldrs/) - Lightweight, customizable loading animations/spinners.
 - [Lion Web Components](https://github.com/ing-bank/lion) - Set of highly performant, accessible and flexible Web Components.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project.
 - [Lume](https://github.com/lume/lume) - Custom elements for defining 2D or 3D scenes rendered with CSS3D or WebGL.
