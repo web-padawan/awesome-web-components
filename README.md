@@ -327,6 +327,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Wired Elements](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
 - [Wokwi Elements](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
 - [XWeather](https://github.com/kherrick/x-weather) - Collection of web components implementing portions of the OpenWeatherMap API.
+- [AnywhereUI](https://github.com/adaleks/anywhere-ui): Collection of rich web components that includes framework bindings. It is created with StencilJS.
 
 ### Design Systems
 
@@ -604,7 +605,6 @@ The only notable exception is that customized built-in elements are rejected by 
 
 - [@webcomponents/template](https://github.com/webcomponents/polyfills/tree/master/packages/template) - Minimal polyfill for `<template>`.
 - [@ungap/import-node](https://github.com/ungap/import-node) - An `importNode` polyfill for IE11 by [ungap project](https://ungap.github.io).
-
 
 ### History
 
