@@ -388,6 +388,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [slim.js](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
 - [Stencil](https://github.com/ionic-team/stencil) - Compiler for generating Web Components.
 - [Tonic](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.
+- [Spectrum Web Components](https://opensource.adobe.com/spectrum-web-components/) - Spectrum, Adobe's design system
 
 ### Functional
 
@@ -525,6 +526,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Presentations
 
+- [Lit 3.0 Launch Event](https://www.youtube.com/watch?v=ri9FEl_hRTc)
 - [Are Web Components the Betamax of web development?](https://noti.st/lostinbrittany/EjUZyd/are-web-components-the-betamax-of-web-development) by [@lostinbrittany](https://twitter.com/lostinbrittany)
 - [Designing Standard Systems](https://drive.google.com/file/d/1ALFiWOFU0UAGUpaZPMIVnoADs9_REtL5/view) by [@stefsull](https://twitter.com/stefsull) and [@bferrua](https://twitter.com/bferrua)
 - [Frontend Architecture for Scalable Design Systems](https://events.drupal.org/seattle2019/sessions/design-system-architecture-pattern-lab-twig-and-web-components) by [@salem_cobalt](https://twitter.com/salem_cobalt)
