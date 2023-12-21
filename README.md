@@ -389,6 +389,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [slim.js](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
 - [Stencil](https://github.com/ionic-team/stencil) - Compiler for generating Web Components.
 - [Tonic](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.
+- [componentforge](https://github.com/darshanmarathe/componentforge) - 0 configuration, class based, Fast.
 
 ### Functional
 
