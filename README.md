@@ -291,6 +291,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Curvenote](https://github.com/curvenote/article) - Web components for creating interactive scientific articles.
 - [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - Standalone Components for SPA routing, displaying data from web services, and more.
 - [Dile Components](https://github.com/Polydile/dile-components) - General use Web Components for websites and applications.
+- [Drab](https://github.com/rossrobino/drab) - Headless custom element library.
 - [elements-sk](https://github.com/google/elements-sk) - Collection of custom elements for "a la carte" web development.
 - [github-elements](https://github.com/github/github-elements) - GitHub's Web Component collection.
 - [Elix](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
