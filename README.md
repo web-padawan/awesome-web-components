@@ -397,6 +397,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 - [Solid Element](https://github.com/solidjs/solid/tree/main/packages/solid-element) - Library that extends Solid adding Custom Web Components and extensions.
+- [Wompo](https://wompo.dev) - Lightweight and fast library to create Web-Components in a React-like syntax.
 
 ### Integrations
 
