@@ -257,6 +257,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [`<active-table>`](https://github.com/OvidijusParsiunas/active-table) - Editable table web component.
 - [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) - API documentation and live playground for Web Components.
 - [`<chess-board>`](https://github.com/justinfagnani/chessboard-element) - Standalone chess board web component.
+- [`<code-mirror>`](https://github.com/lume/code-mirror-el) - A custom element for controlling a JavaScript-based [CodeMirror](https://codemirror.net/) text editor without any compromises. [Live](https://codepen.io/trusktr/pen/poGZYOy) [demo.](https://docs.lume.io/examples/texture-shadow/)
 - [`<css-doodle>`](https://github.com/css-doodle/css-doodle) - Web component for drawing patterns with CSS.
 - [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle) - Custom element that allows to create a dark mode toggle or switch.
 - [`<deep-chat>`](https://github.com/OvidijusParsiunas/deep-chat) - Web component for chat with AI capabilities.
@@ -265,6 +266,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [`<file-viewer>`](https://github.com/avipunes/file-viewer) - Web component built with Svelte to view files.
 - [`<json-viewer>`](https://github.com/alenaksu/json-viewer) - Web component to visualize JSON data in a tree view.
 - [`<lite-youtube>`](https://github.com/paulirish/lite-youtube-embed) - Lite YouTube embed with a focus on visual performance.
+- [`<live-code>`](https://github.com/lume/live-code) - A custom element to display editable code with live output. Built with `<code-mirror>`. [Live](https://codepen.io/trusktr/pen/PogvVBj?editors=1000) [demo.](https://docs.lume.io/examples/hello-world/)
 - [`<midi-player>`](https://github.com/cifkao/html-midi-player) - MIDI file player and visualizer web components.
 - [`<model-viewer>`](https://github.com/google/model-viewer) - Web component for rendering interactive 3D models.
 - [`<player-x>`](https://github.com/playerxo/playerx) - Media player web component.
