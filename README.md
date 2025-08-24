@@ -384,7 +384,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Joist](https://github.com/joist-framework/joist) - Set of small libraries designed to add the bare minimum to web components to make you productive.
 - [Lit](https://lit.dev) - Simple library for building fast, lightweight web components.
 - [Lightning Web Components](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation.
-- [Lume Element](https://github.com/lume/element/) - Write custom elements with reactivity and templating powered by Solid.js signals and effects, with optional concise decorators, and with optional type checking for React, Preact, Vue, Svelte, Solid.js, and more. The library behind [Lume 3D elements](https://lume.io).
+- [Lume Element](https://github.com/lume/element) - Write custom elements with reactivity and templating powered by Solid.js signals and effects.
 - [Omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).
 - [Panel](https://github.com/mixpanel/panel) - Web Components + Virtual DOM: web standards for powerful UIs.
 - [ReadyMade](https://github.com/readymade-ui/readymade/tree/main/src/modules/core) - Write custom element classes with decorators. No dependencies.
