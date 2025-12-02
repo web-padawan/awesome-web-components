@@ -279,7 +279,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [`<web-vitals>`](https://github.com/stefanjudis/web-vitals-element) - Bring [web vitals](https://github.com/GoogleChrome/web-vitals) quickly into your page using custom elements.
 
 ### Component Libraries
-
+- [Air](https://github.com/openwebstudio/aircomponents) - A modern component library built with StencilJS, focusing on semantic, standardized, and branded design for reusable UI components.
 - [AMP](https://github.com/ampproject/amphtml) - Web component framework for easily creating user-first websites, stories, ads, emails and more.
 - [AnywhereUI](https://github.com/adaleks/anywhere-ui) - Collection of rich web components that includes framework bindings. Created with StencilJS.
 - [Apollo Elements](https://github.com/apollo-elements/apollo-elements) - Custom elements for using Apollo GraphQL with various web components libraries.
