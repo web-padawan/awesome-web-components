@@ -275,6 +275,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [`<shader-doodle>`](https://github.com/halvves/shader-doodle) - Web component for writing and rendering shaders.
 - [`<theme-switch>`](https://github.com/mahozad/theme-switch) - Animated toggle button to switch between light, dark, and system theme.
 - [`<trix-editor>`](https://github.com/basecamp/trix) - Rich text editor custom element for everyday writing.
+- [`<validation-output>`](https://github.com/SanderSander/validation-output) - Client side validation output element for better validation messages.
 - [`<vime-player>`](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player.
 - [`<web-vitals>`](https://github.com/stefanjudis/web-vitals-element) - Bring [web vitals](https://github.com/GoogleChrome/web-vitals) quickly into your page using custom elements.
 
