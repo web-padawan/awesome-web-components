@@ -277,6 +277,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [`<trix-editor>`](https://github.com/basecamp/trix) - Rich text editor custom element for everyday writing.
 - [`<vime-player>`](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player.
 - [`<web-vitals>`](https://github.com/stefanjudis/web-vitals-element) - Bring [web vitals](https://github.com/GoogleChrome/web-vitals) quickly into your page using custom elements.
+- [`<web-component-designer>`](https://github.com/node-projects/web-component-designer) - A wysiwyg designer [demo](https://node-projects.github.io/web-component-designer-demo/index.html) for webcomponents as a webcomponent.
 
 ### Component Libraries
 
