@@ -295,6 +295,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [elements-sk](https://github.com/google/elements-sk) - Collection of custom elements for "a la carte" web development.
 - [github-elements](https://github.com/github/github-elements) - GitHub's Web Component collection.
 - [Elix](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
+- [EHTML](https://e-html.org/) - Web component library that enhances HTML, by adding declarative data loading, powerful HTML-native templating, advanced form handling, real-time web sockets.
 - [Furo Webcomponents](https://github.com/eclipse/eclipsefuro-web) - Enterprise ready set of web components which work best with Eclipse Furo.
 - [Fusion Web Components](https://github.com/equinor/fusion-web-components) - Ser of web components used by Equinor Fusion.
 - [Ignite UI Web Components](https://github.com/IgniteUI/igniteui-webcomponents) - Complete library of UI components from Infragistics.
