@@ -383,6 +383,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [FAST Element](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-element) - Lightweight library for building performant, memory-efficient, standards-compliant Web Components.
 - [Forge Core](https://github.com/tyler-technologies-oss/forge-core) - Building blocks and utilities that are used when building Forge Web Components.
 - [Joist](https://github.com/joist-framework/joist) - Set of small libraries designed to add the bare minimum to web components to make you productive.
+- [KoiCom](https://github.com/valkoivo/koicom) - Library for testable interfaces using server-independent web components with a standardized lifecycle.
 - [Lit](https://lit.dev) - Simple library for building fast, lightweight web components.
 - [Lightning Web Components](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation.
 - [Lume Element](https://github.com/lume/element) - Write custom elements with reactivity and templating powered by Solid.js signals and effects.
