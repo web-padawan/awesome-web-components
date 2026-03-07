@@ -256,6 +256,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 - [`<active-table>`](https://github.com/OvidijusParsiunas/active-table) - Editable table web component.
 - [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) - API documentation and live playground for Web Components.
+- [`<changelog-widget>`](https://github.com/NikitaDmitrieff/changelog-widget) - Embeddable changelog widget with Shadow DOM, zero dependencies, and framework-agnostic design.
 - [`<chess-board>`](https://github.com/justinfagnani/chessboard-element) - Standalone chess board web component.
 - [`<css-doodle>`](https://github.com/css-doodle/css-doodle) - Web component for drawing patterns with CSS.
 - [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle) - Custom element that allows to create a dark mode toggle or switch.
