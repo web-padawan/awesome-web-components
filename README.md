@@ -7,6 +7,7 @@ A curated list of awesome Web Components resources.
 
 [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) — a suite of different technologies allowing you to create reusable custom elements — with their functionality encapsulated away from the rest of your code — and utilize them in your web apps.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for web component workflow orchestration, automated frontend management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Introduction](#introduction)
