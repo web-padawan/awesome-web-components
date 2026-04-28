@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/web-padawan-awesome-web-components-badge.png)](https://mseep.ai/app/web-padawan-awesome-web-components)
+
 # Awesome Web Components [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Web Components resources.
