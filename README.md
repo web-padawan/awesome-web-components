@@ -354,6 +354,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Momentum UI Web Components](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - Set of UI components based on Momentum Design.
 - [Nord](https://nordhealth.design) - Nordhealth’s design system for products, digital experiences and brand.
 - [NuML | NUDE Elements](https://github.com/tenphi/numl) - HTML Framework and Design System based on Web Components and runtime CSS generation.
+- [NVIDIA Elements](https://github.com/nvidia/elements) - The Design Language and UI Agent Harness for AI/ML Factories, Robotics, and Autonomous Vehicles.
 - [OutlineJS](https://github.com/phase2/outline) - Web component based design system starter kit.
 - [PatternFly Elements](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components based on the Unified Design Kit.
 - [Pharos Design System](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
