@@ -496,7 +496,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 ## Books
 
 - [Web Components in Action](https://www.manning.com/books/web-components-in-action) - Book by Ben Farrell, available at Manning early release program.
-- [Web Component Development with Modern Libraries and Tooling](https://www.manning.com/books/web-component-development-with-modern-libraries-and-tooling) - Book about building reusable web components that last well beyond the next library update.
+- [Web Component Development with Modern Libraries and Tooling](https://www.manning.com/books/web-component-development-with-modern-libraries-and-tooling) - Book by Mark Volkmann, available at Manning early access program.
 - [Web Component Essentials](https://leanpub.com/web-component-essentials) - Book by Cory Rylan, early preview edition available at Leanpub.
 
 ## Tutorials
