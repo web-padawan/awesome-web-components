@@ -269,6 +269,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [`<model-viewer>`](https://github.com/google/model-viewer) - Web component for rendering interactive 3D models.
 - [`<notectl-editor>`](https://github.com/Samyssmile/notectl) - Modern rich text editor with plugin architecture, immutable state, and zero-config framework-agnostic deployment.
 - [`<pdfjs-viewer-element>`](https://github.com/alekswebnet/pdfjs-viewer-element) - Custom element that embeds PDF.js default viewer.
+- [`<phantom-ui>`](https://github.com/Aejkatappaja/phantom-ui) - Skeleton loader that measures your real DOM to render matching shimmer placeholders.
 - [`<player-x>`](https://github.com/playerxo/playerx) - Media player web component.
 - [`<progressive-image>`](https://github.com/andreruffert/progressive-image-element) - Custom element to progressively enhance image placeholders.
 - [`<qr-code>`](https://github.com/bitjson/qr-code) – Web component for rendering customizable, animate-able, SVG-based QR codes.
