@@ -289,6 +289,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Apollo Elements](https://github.com/apollo-elements/apollo-elements) - Custom elements for using Apollo GraphQL with various web components libraries.
 - [AsciiTheme](https://github.com/markoblogo/AsciiTheme) - ASCII visual layer with a native `<ascii-theme-toggle>` custom element plus React and Vue wrappers.
 - [AXA Pattern Library](https://github.com/axa-ch-webhub-cloud/pattern-library) - AXA CH UI components library built with Web Components.
+- [sitelen-layer-plugin](https://github.com/markoblogo/sitelen-layer-plugin) - Toki pona display-layer plugin with custom-element-friendly integration surface and framework adapters.
 - [Blackstone UI](https://github.com/kjantzer/bui) - Web components for creating interfaces by Blackstone Publishing.
 - [Blaze UI Atoms](https://github.com/BlazeSoftware/atoms) - Set of web components powered by Blaze CSS.
 - [Brightspace UI core](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
