@@ -263,6 +263,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [`<emoji-picker>`](https://github.com/nolanlawson/emoji-picker-element) - Lightweight emoji picker, distributed as a web component.
 - [`<fg-modal>`](https://github.com/filamentgroup/fg-modal) - Accessible modal dialog web component.
 - [`<file-viewer>`](https://github.com/avipunes/file-viewer) - Web component built with Svelte to view files.
+- [`<flyfish-file-viewer>`](https://github.com/flyfish-dev/file-viewer) - Offline-first file preview component with lazy browser-side renderers for Office, PDF, CAD, archives, email, media, code, and more.
 - [`<json-viewer>`](https://github.com/alenaksu/json-viewer) - Web component to visualize JSON data in a tree view.
 - [`<lite-youtube>`](https://github.com/paulirish/lite-youtube-embed) - Lite YouTube embed with a focus on visual performance.
 - [`<midi-player>`](https://github.com/cifkao/html-midi-player) - MIDI file player and visualizer web components.
