@@ -287,7 +287,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [AMP](https://github.com/ampproject/amphtml) - Web component framework for easily creating user-first websites, stories, ads, emails and more.
 - [AnywhereUI](https://github.com/adaleks/anywhere-ui) - Collection of rich web components that includes framework bindings. Created with StencilJS.
 - [Apollo Elements](https://github.com/apollo-elements/apollo-elements) - Custom elements for using Apollo GraphQL with various web components libraries.
-- [Aura Router](https://github.com/aura-ui/router) - HTML-first client-side router as Web Components; upgrade static MPA pages to SPA navigation without a framework rewrite.
+- [Aura Router](https://github.com/aura-ui/router) - Keep the HTML. Upgrade the navigation. HTML-first client navigation for complete pages — plain HTML or Web Components.
 - [AXA Pattern Library](https://github.com/axa-ch-webhub-cloud/pattern-library) - AXA CH UI components library built with Web Components.
 - [Blackstone UI](https://github.com/kjantzer/bui) - Web components for creating interfaces by Blackstone Publishing.
 - [Blaze UI Atoms](https://github.com/BlazeSoftware/atoms) - Set of web components powered by Blaze CSS.
