@@ -318,6 +318,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [One Platform Components](https://github.com/1-Platform/op-components) - Set of web components for Red Hat One Platform.
 - [Open Business Application Platform Web Components](https://github.com/openbap/obap-elements) - Collection of web components designed for business applications.
 - [Pixano Elements](https://github.com/pixano/pixano-elements) - Re-usable web components dedicated to data annotation tasks.
+- [PlayCanvas Web Components](https://github.com/playcanvas/web-components) - Custom elements for building 3D interactive web apps with the PlayCanvas Engine.
 - [Playground Elements](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
 - [Shoelace](https://github.com/shoelace-style/shoelace) - A forward-thinking library of web components.
 - [Smart Web Components](https://github.com/HTMLElements/smart-webcomponents) - Web components for business applications.
