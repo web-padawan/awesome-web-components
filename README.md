@@ -464,7 +464,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Rocket](https://rocket.modern-web.dev) - Modern web setup for static sites with a sprinkle of JavaScript.
 - [Web Components Compiler](https://github.com/ProjectEvergreen/wcc) - Compiler to make server-side rendering of native web components easier.
 - [WebC](https://github.com/11ty/webc) - Framework-independent standalone HTML serializer for generating markup for web components.
-
+- [lessjs](https://github.com/lessjs-run/lessjs) - Minimal-incremental, progressive fullstack framework built on Web Standards.
 ### Starter Kits
 
 - [Create Open Web Components](https://open-wc.org/docs/development/generator/) - Web component project scaffolding.
