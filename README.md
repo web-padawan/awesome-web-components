@@ -278,6 +278,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web component for creating documentation from OpenAPI Specification.
 - [`<shader-doodle>`](https://github.com/halvves/shader-doodle) - Web component for writing and rendering shaders.
 - [`<theme-switch>`](https://github.com/mahozad/theme-switch) - Animated toggle button to switch between light, dark, and system theme.
+- [`<tip-stream>`](https://github.com/zengineco/tip-widget) - Embeddable multi-method tip QR (crypto BIP-21 plus PayPal, Cash App, Venmo, Ko-fi), zero dependencies and no backend.
 - [`<trix-editor>`](https://github.com/basecamp/trix) - Rich text editor custom element for everyday writing.
 - [`<vime-player>`](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player.
 - [`<web-vitals>`](https://github.com/stefanjudis/web-vitals-element) - Bring [web vitals](https://github.com/GoogleChrome/web-vitals) quickly into your page using custom elements.
