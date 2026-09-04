@@ -23,6 +23,7 @@ A curated list of awesome Web Components resources.
 - [Articles](#articles)
   - [Architecture](#architecture)
   - [Interoperability](#interoperability)
+  - [Opinions](#opinions)
   - [Limitations](#limitations)
   - [Styling](#styling)
 - [Real World](#real-world)
@@ -207,6 +208,26 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [JavaScript frameworks, meet Web Components](https://www.voorhoede.nl/nl/blog/javascript-frameworks-meet-web-components/)
 - [Web Components aren't a framework replacement - they're better than that](https://lamplightdev.com/blog/2020/01/18/web-components-arent-a-framework-replacement-theyre-better-than-that/)
 - [Web Components: Seamlessly interoperable](https://medium.com/@sergicontre/web-components-seamlessly-interoperable-82efd6989ca4)
+
+### Opinions
+
+- [Web components are okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
+- [Web Components Are Not the Future — They’re the Present](https://www.abeautifulsite.net/posts/web-components-are-not-the-future-they-re-the-present/)
+- [Web Components Are Not the Future](https://dev.to/ryansolid/web-components-are-not-the-future-48bh)
+- [If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
+- [Debunking Web Component Myths and Misconceptions](https://eisenbergeffect.medium.com/debunking-web-component-myths-and-misconceptions-ea9bb13daf61)
+- [Let’s talk about web components](https://bradfrost.com/blog/post/lets-talk-about-web-components/)
+- [A Web Component Story](https://www.abeautifulsite.net/posts/a-web-component-story/)
+- [Why it’s okay for web components to use frameworks](https://nolanlawson.com/2021/08/01/why-its-okay-for-web-components-to-use-frameworks/)
+- [Misadventures in web components](https://www.falldowngoboone.com/blog/misadventures-in-web-components/)
+- [What happened to web components?](https://blog.logrocket.com/what-happened-to-web-components/)
+- [The Failed Criticism of Web Components](https://www.dannymoerkerke.com/blog/the-failed-criticism-of-web-components/)
+- [The failed promise of Web Components](https://lea.verou.me/blog/2020/09/the-failed-promise-of-web-components/)
+- [The Flaws Of Web Components (And Possible Solutions)](https://www.thinktecture.com/web-components/web-components-flaws/)
+- [The Perks Of Web Components](https://www.thinktecture.com/web-components/web-components-perks/")
+- [There’s No Need To Hate Web Components](https://www.dannymoerkerke.com/blog/theres-no-need-to-hate-web-components/)
+- [Why I don't use web components](https://dev.to/richharris/why-i-don-t-use-web-components-2cia)
+- [The Web Components journey: wrong ways, lacking parts and promising paths](https://dev.to/webpadawan/the-journey-of-web-components-wrong-ways-lacking-parts-and-promising-paths-1d5a)
 
 ### Limitations
 
