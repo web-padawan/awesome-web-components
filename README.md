@@ -81,7 +81,6 @@ A curated list of awesome Web Components resources.
 
 Custom Elements provide a way for authors to build their own fully-featured DOM elements.
 
-- [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
 - [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements)
 - [Custom elements](https://javascript.info/custom-elements)
 - [Custom Elements v1: Reusable Web Components](https://web.dev/custom-elements-v1/)
@@ -639,6 +638,7 @@ These materials are here for historical reasons only, they are grouped by years 
 - [Styling Accessibility: A Web Components Approach](https://medium.com/@cfscorreia/styling-accessibility-a-web-components-approach-dc2aa8123eb2)
 - [Web Components 101: An Introduction to Web Components](https://www.telerik.com/blogs/web-components-101-an-introduction-to-web-components)
 - [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
+- [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
 - [6 Reasons You Should Use Native Web Components](https://codeburst.io/6-reasons-you-should-use-native-web-components-b45e18e069c2)
 - [Web Components in 2018](https://www.sitepen.com/blog/web-components-in-2018)
 - [Web Components Introduction: Creating Custom HTML Elements in 2018](https://www.grapecity.com/en/blogs/web-components-introduction-creating-custom-html-elements-2018)
@@ -648,6 +648,7 @@ These materials are here for historical reasons only, they are grouped by years 
 #### 2017
 
 - [Styling is critical to web component reuse, but may prove difficult in practice](https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice)
+- [Make a Native Web Component with Custom Elements v1 and Shadow DOM v1](https://bendyworks.com/blog/native-web-components/)
 - [Web Components: The Long Game](https://infrequently.org/2017/10/web-components-the-long-game/)
 - [Web Components: Just in the Nick of Time (Polymer Summit 2017)](https://youtu.be/y-8Lmg5Gobw)
 - [Using Web Components in Ionic (Polymer Summit 2017)](https://youtu.be/UfD-k7aHkQE)
@@ -658,8 +659,8 @@ These materials are here for historical reasons only, they are grouped by years 
 - [Polymer @ YouTube (Polymer Summit 2017)](https://youtu.be/tNulrEbTQf8)
 - [Web Components for CMS (Polymer Summit 2017)](https://youtu.be/c-WDHG6rrdU)
 - [An intro to web components with otters](https://meowni.ca/posts/web-components-with-otters/)
-- [The broken promise of Web Components](https://dmitriid.com/blog/2017/03/the-broken-promise-of-web-components/)
-- [Regarding the broken promise of Web Components](http://robdodson.me/regarding-the-broken-promise-of-web-components/)
+- [The broken promise of Web Components](https://dmitriid.com/the-broken-promise-of-web-components)
+- [Regarding the broken promise of Web Components](https://robdodson.me/posts/regarding-the-broken-promise-of-web-components/)
 - [Web Components v1 - the next generation](https://web.dev/webcomponents-org/)
 
 #### 2016
