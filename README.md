@@ -349,7 +349,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [TrendChart Elements](https://github.com/WebLogin/trendchart-elements) - Components to generate simple, light and responsive charts.
 - [Umbraco UI Components](https://github.com/umbraco/Umbraco.UI) - Collection of user interface web components for Umbraco CMS.
 - [Vaadin components](https://github.com/vaadin/web-components) - Evolving set of high-quality web components for building business web applications.
-- [VSCode Webview Elements](https://github.com/bendera/vscode-webview-elements) - Components for creating VSCode extensions which use the Webview API.
+- [VSCode Elements](https://github.com/vscode-elements/elements) - Web component library for developing Visual Studio Code extensions.
 - [Web Awesome](https://github.com/shoelace-style/webawesome) - Open source library of web components from Font Awesome.
 - [Webmarkets web components](https://github.com/Webmarkets/wm-web-components) - Set of Webmarkets' public web components.
 - [Wired Elements](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
@@ -361,7 +361,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Astro Space UX Design System](https://github.com/RocketCommunicationsInc/astro) - Set of components to build rich space app experiences with established interaction patterns.
 - [Auro Design System](https://auro.alaskaair.com) - Alaska Airlines design system to innovate on ideas and collaborate on the future.
 - [Blueprint UI](https://blueprintui.dev) - Web Component based design system with flexible and lightweight components.
-- [Calcite Components](https://github.com/Esri/calcite-components) - Shared Web Components for Esri's Calcite design framework.
+- [Calcite Design System](https://github.com/Esri/calcite-design-system) - Web Components for Esri's Calcite design framework.
 - [Carbon Web Components](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
 - [Crayons](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
 - [Fluent UI Web Components](https://github.com/microsoft/fluentui/tree/master/packages/web-components) - Library of Web Components that supports Microsoft's Fluent design language.
@@ -370,16 +370,19 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Lyne Components](https://github.com/sbb-design-systems/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
 - [Material Web Components](https://github.com/material-components/material-web) - Material Design implemented as Web Components.
 - [Momentum UI Web Components](https://github.com/momentum-design/momentum-ui/tree/main/web-components) - Set of UI components based on Momentum Design.
+- [Nessie Design System](https://design.ns.nl) - Web components  by NS Dutch Railways for consumer (external) applications.
 - [Nord](https://nordhealth.design) - Nordhealth’s design system for products, digital experiences and brand.
+- [Nucleus design system](https://britishgas.design/introduction/) - Standardised set of reusable components for British Gas.
 - [NVIDIA Elements](https://github.com/nvidia/elements) - The Design Language and UI Agent Harness for AI/ML Factories, Robotics, and Autonomous Vehicles.
 - [OutlineJS](https://github.com/phase2/outline) - Web component based design system starter kit.
 - [PatternFly Elements](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components based on the Unified Design Kit.
 - [Pharos Design System](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
+- [Polaris web components](https://shopify.dev/docs/api/app-home/latest/web-components) - Native UI elements that follow Shopify's design system.
 - [Red Hat Design System](https://github.com/RedHat-UX/red-hat-design-system) - Web components for building uniform experiences with the Red Hat brand.
 - [Siemens iX Web Components](https://github.com/siemens/ix/tree/main/packages/core) - Web Components implementing Siemens iX design system.
 - [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with Web Components.
-- [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - Set of reusable UI elements implementing SAP Fiori Design Guidelines.
-- [U-M Library Design System](https://design-system.lib.umich.edu) - University of Michigan Library Design System.
+- [Tractie — NS Design System](https://tractie.ns.nl) -  Web components by NS Dutch Railways for employee internal applications.
+- [UI5 Web Components](https://github.com/UI5/webcomponents) - Set of reusable UI elements implementing SAP Fiori Design Guidelines.
 
 ### Use Cases
 
@@ -391,8 +394,8 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Web Components for Enterprise. Part 1: Salesforce, Oracle, SAP](https://dev.to/webpadawan/web-components-for-enterprise-part-1-salesforce-oracle-sap-e70)
 - [Web Components for Enterprise. Part 2: Nuxeo, Ionic, Vaadin](https://dev.to/webpadawan/web-components-for-enterprise-part-2-nuxeo-ionic-vaadin-22l7)
 - [Why I use Web Components - My use cases](https://dev.to/shihn/why-i-use-web-components-my-use-cases-1nip)
-- [Why we use Web Components](https://viljamis.com/2019/why-we-use-web-components/) by [@viljamis](https://twitter.com/viljamis)
-- [Why we use Web Components](https://dev.to/ionic/why-we-use-web-components-2c1i) by [@maxlynch](https://twitter.com/maxlynch)
+- [Why we use Web Components](https://arielsalminen.com/2019/why-we-use-web-components/)
+- [Why we use Web Components](https://dev.to/ionic/why-we-use-web-components-2c1i)
 
 ## Libraries
 
