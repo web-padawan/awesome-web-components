@@ -549,17 +549,13 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 ### Presentations
 
 - [Are Web Components the Betamax of web development?](https://noti.st/lostinbrittany/EjUZyd/are-web-components-the-betamax-of-web-development) by [@lostinbrittany](https://twitter.com/lostinbrittany)
-- [Designing Standard Systems](https://drive.google.com/file/d/1ALFiWOFU0UAGUpaZPMIVnoADs9_REtL5/view) by [@stefsull](https://twitter.com/stefsull) and [@bferrua](https://twitter.com/bferrua)
-- [Frontend Architecture for Scalable Design Systems](https://events.drupal.org/seattle2019/sessions/design-system-architecture-pattern-lab-twig-and-web-components) by [@salem_cobalt](https://twitter.com/salem_cobalt)
+- [Frontend Architecture for Scalable Design Systems](https://speakerdeck.com/sghoweri/frontend-architecture-for-scalable-design-systems) by [@salem_cobalt](https://twitter.com/salem_cobalt)
 - [lit-apollo: Data-Driven Components that Use the Platform](https://apolloelements.dev/using-lit-apollo/) by [@PowersBenny](https://twitter.com/PowersBenny)
-- [Mastering Shadow DOM](https://martine-dowden.github.io/portfolio/presentation/mastering-shadow-dom) by [@Martine_Dowden](https://twitter.com/Martine_Dowden)
+- [Mastering Shadow DOM](https://martine.dev/publications/mastering-shadow-dom) by [@Martine_Dowden](https://twitter.com/Martine_Dowden)
 - [Modernizing Large Frontends with Web Components](https://speakerdeck.com/samjulien/modernizing-large-frontends-with-web-components) by [@samjulien](https://twitter.com/samjulien)
 - [Shadow DOM: off the beaten track](https://docs.google.com/presentation/d/1wi74YiTLtLSfgjyccKm5LxYp9k8aeJda0AekWV5mqJI/edit?usp=sharing) by [@serhiikulykov](https://twitter.com/serhiikulykov)
 - [Using Web Components to Build a Framework-agnostic UI Library](https://gotochgo.com/2019/sessions/866/using-web-components-to-build-a-framework-agnostic-ui-library) by [@brianbouril](https://twitter.com/brianbouril) and [@danciupuliga](https://twitter.com/danciupuliga)
-- [Web Components and the AOM](https://decks.tink.uk/2019/jsconf/index.html) by [@LeonieWatson](https://twitter.com/LeonieWatson)
-- [Web Components and Styles Scoping](https://www.dropbox.com/s/wdh9uufjui5htll/Web-Components-and-Styles-Scoping-by-bashmish-FrontMania-2018.pdf) by [@bashmish](https://twitter.com/bashmish)
 - [Web Components can do that?!](https://slides.com/vogloblinsky/web-components-can-do-that) by [@vogloblinsky](https://twitter.com/vogloblinsky)
-- [Web Components: Introduction and State of the Art](https://webcomponents.dev/blog/web-components-slides/) by [@webcomp_dev](https://twitter.com/webcomp_dev)
 
 ### Talks
 
