@@ -365,22 +365,16 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Astro Space UX Design System](https://github.com/RocketCommunicationsInc/astro) - Set of components to build rich space app experiences with established interaction patterns.
 - [Auro Design System](https://auro.alaskaair.com) - Alaska Airlines design system to innovate on ideas and collaborate on the future.
 - [Blueprint UI](https://blueprintui.dev) - Web Component based design system with flexible and lightweight components.
-- [Bolt Design System](https://github.com/boltdesignsystem/bolt) - Twig and Web Component-powered UI components, reusable visual styles and tooling.
 - [Calcite Components](https://github.com/Esri/calcite-components) - Shared Web Components for Esri's Calcite design framework.
 - [Carbon Web Components](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
-- [Clarity Core Web Components](https://github.com/vmware-clarity/core/tree/main/projects/core) - Suite of web components from the Clarity Design System.
 - [Crayons](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
-- [FAST Components](https://github.com/microsoft/fast/tree/master/packages/web-components) - Library of Web Components based on the FAST design language.
 - [Fluent UI Web Components](https://github.com/microsoft/fluentui/tree/master/packages/web-components) - Library of Web Components that supports Microsoft's Fluent design language.
 - [Forge Components](https://github.com/tyler-technologies-oss/forge) - Library of Web Components adhering to the Forge Design System.
-- [GOV.UK Web Components](https://github.com/tgreyuk/govuk-webcomponents) - Set of encapsulated web components consuming the GOV.UK Design System.
-- [Helix UI](https://github.com/HelixDesignSystem/helix-ui) - Web Component library for the Helix Design System.
 - [Liquid](https://github.com/emdgroup-liquid/liquid) - UI component library based on the Liquid Design System.
-- [Lyne Components](https://github.com/lyne-design-system/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
+- [Lyne Components](https://github.com/sbb-design-systems/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
 - [Material Web Components](https://github.com/material-components/material-web) - Material Design implemented as Web Components.
-- [Momentum UI Web Components](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - Set of UI components based on Momentum Design.
+- [Momentum UI Web Components](https://github.com/momentum-design/momentum-ui/tree/main/web-components) - Set of UI components based on Momentum Design.
 - [Nord](https://nordhealth.design) - Nordhealth’s design system for products, digital experiences and brand.
-- [NuML | NUDE Elements](https://github.com/tenphi/numl) - HTML Framework and Design System based on Web Components and runtime CSS generation.
 - [NVIDIA Elements](https://github.com/nvidia/elements) - The Design Language and UI Agent Harness for AI/ML Factories, Robotics, and Autonomous Vehicles.
 - [OutlineJS](https://github.com/phase2/outline) - Web component based design system starter kit.
 - [PatternFly Elements](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components based on the Unified Design Kit.
@@ -390,7 +384,6 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with Web Components.
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - Set of reusable UI elements implementing SAP Fiori Design Guidelines.
 - [U-M Library Design System](https://design-system.lib.umich.edu) - University of Michigan Library Design System.
-- [Zooplus web components](https://github.com/zooplus/zoo-web-components) - Set of web components that implement Z+ shop style guide.
 
 ### Use Cases
 
@@ -446,7 +439,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 - [All the Ways to Make a Web Component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/)
 - [web-components-benchmark](https://vogloblinsky.github.io/web-components-benchmark/) - Benchmark Web Components technologies with various examples.
-- [web-components-todo](https://wc-todo.firebaseapp.com/) - The same todo application built in different Web Components libraries for benchmark purpose.
+- [web-components-todo](https://github.com/shprink/web-components-todo) - The same todo application built in different Web Components libraries for benchmark purpose.
 
 ## Frameworks
 
