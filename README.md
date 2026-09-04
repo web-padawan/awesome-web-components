@@ -61,7 +61,6 @@ A curated list of awesome Web Components resources.
 - [Archive](#archive)
   - [Polyfills](#polyfills)
   - [History](#history)
-- [Who To Follow](#who-to-follow)
 - [Maintainers](#maintainers)
 
 ## Introduction
@@ -766,65 +765,6 @@ These materials are here for historical reasons only, they are grouped by years 
 
 - [Web Components and Model Driven Views by Alex Russell](https://fronteers.nl/congres/2011/sessions/web-components-and-model-driven-views-alex-russell)
 - [What the Heck is Shadow DOM?](https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
-
-## Who To Follow
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href="https://twitter.com/polymer">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1063502058337136640/RmlG_bbW_80x80.jpg">
-          <div>Polymer</div>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/stenciljs">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1135534552137510914/5ZzvOFFp_80x80.png">
-          <div>Stencil</div>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/openwc">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1101188623930662912/YKlBD7n6_80x80.png">
-          <div>open-wc.org</div>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/webcomp_dev">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1169270943371407360/U-90Bxn0_80x80.jpg">
-          <div>webcomponents.dev</div>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://twitter.com/justinfagnani">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/378800000808710206/2dbdaa1cb7b0db02f997aea5b40f29b8_80x80.jpeg">
-          <div>Justin Fagnani</div>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/viljamis">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/671595827740086273/wCUWq-1S_80x80.png">
-          <div>Viljami Salminen</div>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/JanMiksovsky">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/675000078055051264/u1ZEQfeE_80x80.jpg">
-          <div>Jan Miksovsky</div>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/serhiikulykov">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1028197887329685504/cM6nOHlp_80x80.jpg">
-          <div>Serhii Kulykov</div>
-        </a>
-      </td>
-    </tr>
-  <tbody>
-</table>
 
 ## Maintainers
 
