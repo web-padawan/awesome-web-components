@@ -15,6 +15,7 @@ A curated list of awesome Web Components resources.
   - [Shadow DOM](#shadow-dom)
   - [HTML Templates](#html-templates)
   - [CSS Shadow Parts](#css-shadow-parts)
+  - [Form Associated Custom Elements](#form-associated-custom-elements)
 - [Guides](#guides)
   - [Accessibility](#accessibility)
   - [Best Practices](#best-practices)
@@ -55,7 +56,6 @@ A curated list of awesome Web Components resources.
   - [Talks](#talks)
 - [Usage Metrics](#usage-metrics)
 - [Proposals](#proposals)
-  - [Form-associated Custom Elements](#form-associated-custom-elements)
   - [Constructable Stylesheet Objects](#constructable-stylesheet-objects)
   - [Custom State Pseudo Class](#custom-state-pseudo-class)
 - [Miscellaneous](#miscellaneous)
@@ -138,6 +138,14 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [MDN - `part` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/part)
 - [::part and ::theme, an ::explainer](https://meowni.ca/posts/part-theme-explainer/)
 - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
+
+### Form Associated Custom Elements
+
+- [HTML Living Standard: Creating a form-associated custom element](https://html.spec.whatwg.org/dev/custom-elements.html#custom-elements-face-example)
+- [Form-Associated Custom Elements: Web Components That Belong in a Form](https://dev.to/grimicorn/form-associated-custom-elements-web-components-that-belong-in-a-form-19kd)
+- [Form-Associated Custom Elements in Practice](https://blog.master.dev/form-associated-custom-elements-in-practice/)
+- [ElementInternals and Form-Associated Custom Elements](https://webkit.org/blog/13711/elementinternals-and-form-associated-custom-elements/)
+- [Form-associated custom elements](https://www.hjorthhansen.dev/shadow-dom-form-participation/)
 
 ## Guides
 
@@ -233,7 +241,6 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 - [Beyond the polyfills: how Web Components affect us today?](https://dev.to/webpadawan/beyond-the-polyfills-how-web-components-affect-us-today-3j0a)
 - [Custom elements, shadow DOM and implicit form submission](https://www.hjorthhansen.dev/shadow-dom-and-forms/)
-- [Form-associated custom elements](https://www.hjorthhansen.dev/shadow-dom-form-participation/)
 - [You might not need shadow DOM](https://www.hjorthhansen.dev/you-might-not-need-shadow-dom/)
 
 ### Styling
