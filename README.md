@@ -411,8 +411,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 - [DNA](https://github.com/chialab/dna) - Progressive Web Components library.
 - [element-js](https://github.com/webtides/element-js) - Simple and lightweight base classes for web components with a beautiful API.
-- [FAST Element](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-element) - Lightweight library for building performant, memory-efficient, standards-compliant Web Components.
-- [Forge Core](https://github.com/tyler-technologies-oss/forge-core) - Building blocks and utilities that are used when building Forge Web Components.
+- [FAST Element](https://github.com/microsoft/fast/tree/main/packages/fast-element) - Lightweight library for building performant, memory-efficient, standards-compliant Web Components.
 - [Joist](https://github.com/joist-framework/joist) - Set of small libraries designed to add the bare minimum to web components to make you productive.
 - [Lit](https://lit.dev) - Simple library for building fast, lightweight web components.
 - [Lightning Web Components](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation.
@@ -422,7 +421,6 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [ReadyMade](https://github.com/readymade-ui/readymade/tree/main/src/modules/core) - Write custom element classes with decorators. No dependencies.
 - [slim.js](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
 - [Stencil](https://github.com/ionic-team/stencil) - Compiler for generating Web Components.
-- [Tonic](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.
 - [WebCell](https://github.com/EasyWebApp/WebCell) - Web Components engine based on VDOM, JSX, MobX & TypeScript.
 
 ### Functional
@@ -475,7 +473,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Svelte
 
-- [Svelte Custom Element API](https://svelte.dev/docs#Custom_element_API)
+- [Svelte Custom Element API](https://svelte.dev/docs/svelte/custom-elements)
 - [How to Create a Web Component in Svelte](https://dev.to/silvio/how-to-create-a-web-components-in-svelte-2g4j)
 - [Svelte Web Component — 5.4KB](https://itnext.io/svelte-web-component-5-4kb-4afe46590d99)
 
