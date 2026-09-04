@@ -133,11 +133,10 @@ Shadow DOM describes a method of combining multiple DOM trees into one hierarchy
 CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM for styling purposes.
 
 - [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
+- [CSS shadow parts](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Shadow_parts)
 - [CSS Shadow Parts are coming!](https://dev.to/webpadawan/css-shadow-parts-are-coming-mi5)
-- [MDN - `::part()` CSS pseudo element](https://developer.mozilla.org/en-US/docs/Web/CSS/::part)
-- [MDN - `part` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/part)
 - [::part and ::theme, an ::explainer](https://meowni.ca/posts/part-theme-explainer/)
-- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
+- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow/part)
 
 ### Form Associated Custom Elements
 
