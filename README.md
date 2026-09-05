@@ -293,6 +293,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [`<midi-player>`](https://github.com/cifkao/html-midi-player) - MIDI file player and visualizer web components.
 - [`<model-viewer>`](https://github.com/google/model-viewer) - Web component for rendering interactive 3D models.
 - [`<notectl-editor>`](https://github.com/Samyssmile/notectl) - Modern rich text editor with plugin architecture, immutable state, and zero-config framework-agnostic deployment.
+- [`<overflow-guard>`](https://github.com/arturmarc/overflow-guard) - Custom element for detecting overflow and applying fallback styles.
 - [`<pdfjs-viewer-element>`](https://github.com/alekswebnet/pdfjs-viewer-element) - Custom element that embeds PDF.js default viewer.
 - [`<phantom-ui>`](https://github.com/Aejkatappaja/phantom-ui) - Skeleton loader that measures your real DOM to render matching shimmer placeholders.
 - [`<player-x>`](https://github.com/playerxo/playerx) - Media player web component.
