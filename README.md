@@ -211,7 +211,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Advanced Tooling for Web Components](https://css-tricks.com/advanced-tooling-for-web-components/)
 - [Custom Elements Everywhere](https://custom-elements-everywhere.com)
 - [Custom Elements That Work Anywhere](https://robdodson.me/interoperable-custom-elements/)
-- [JavaScript frameworks, meet Web Components](https://www.voorhoede.nl/nl/blog/javascript-frameworks-meet-web-components/)
+- [JavaScript frameworks, meet Web Components](https://www.voorhoede.nl/en/blog/javascript-frameworks-meet-web-components/)
 - [Web Components aren't a framework replacement - they're better than that](https://lamplightdev.com/blog/2020/01/18/web-components-arent-a-framework-replacement-theyre-better-than-that/)
 - [Web Components: Seamlessly interoperable](https://medium.com/@sergicontre/web-components-seamlessly-interoperable-82efd6989ca4)
 
@@ -721,7 +721,7 @@ These materials are here for historical reasons only, they are grouped by years 
 - [Google I/O 2014 - Polymer and Web Components change everything you know about Web development](https://youtu.be/8OJ7ih8EE7s)
 - [Google I/O 2014 - Unlock the next era of UI development with Polymer](https://youtu.be/HKrYfrAzqFA)
 - [Making Polymer Elements Accessible](https://youtu.be/_IBiXfxhF-A)
-- [Building an Accessible Disclosure Button – using Web Components](https://developer.paciellogroup.com/blog/2014/06/accessible-disclosure-button-using-web-components/)
+- [Building an Accessible Disclosure Button – using Web Components](https://stevefaulkner.github.io/Articles/Building%20an%20Accessible%20Disclosure%20Button%20%E2%80%93%20using%20Web%20Components.html)
 - [The Road to Web Components](https://youtu.be/yLyyXHhSl8w)
 - [The Web Components Revolution is Here](https://youtu.be/3QLmAm9xtnU)
 - [Web Components: A chance to create the future](https://youtu.be/JUzjr1bIRUg)
@@ -751,7 +751,6 @@ These materials are here for historical reasons only, they are grouped by years 
 - [Working with Shadow DOM](https://blog.teamtreehouse.com/working-with-shadow-dom)
 - [Breaking Development: Web Components](https://www.lukew.com/ff/entry.asp?1752)
 - [Web Components: A Tectonic Shift for Web Development - Google I/O 2013](https://youtu.be/fqULJBBEVQE)
-- [Web Components: Getting Started](https://vimeo.com/68212204)
 - [Shadow DOM 101](https://web.dev/shadowdom/)
 - [Shadow DOM 201](https://web.dev/shadowdom-201/)
 - [Shadow DOM 301](https://web.dev/shadowdom-301/)
@@ -762,7 +761,7 @@ These materials are here for historical reasons only, they are grouped by years 
 #### 2012
 
 - [The Basics of the Shadow DOM](https://www.sitepoint.com/the-basics-of-the-shadow-dom/)
-- [Notes on Web Components + ARIA](https://developer.paciellogroup.com/blog/2012/07/notes-on-web-components-aria/)
+- [Notes on Web Components + ARIA](https://stevefaulkner.github.io/Articles/Notes%20on%20Web%20Components%20+%20ARIA.html)
 - [Google I/O 2012 - The Web Platform's Cutting Edge](https://youtu.be/2txPYQOWBtg)
 - [Introduction to Web Components](https://www.w3.org/TR/2012/WD-components-intro-20120522/)
 
