@@ -550,6 +550,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Presentations
 
+- [Lit 3.0 Launch Event](https://www.youtube.com/watch?v=ri9FEl_hRTc)
 - [Are Web Components the Betamax of web development?](https://noti.st/lostinbrittany/EjUZyd/are-web-components-the-betamax-of-web-development) by [@lostinbrittany](https://twitter.com/lostinbrittany)
 - [Frontend Architecture for Scalable Design Systems](https://speakerdeck.com/sghoweri/frontend-architecture-for-scalable-design-systems) by [@salem_cobalt](https://twitter.com/salem_cobalt)
 - [lit-apollo: Data-Driven Components that Use the Platform](https://apolloelements.dev/using-lit-apollo/) by [@PowersBenny](https://twitter.com/PowersBenny)
