@@ -411,8 +411,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).
 - [Panel](https://github.com/mixpanel/panel) - Web Components + Virtual DOM: web standards for powerful UIs.
 - [ReadyMade](https://github.com/readymade-ui/readymade/tree/main/src/modules/core) - Write custom element classes with decorators. No dependencies.
-- [slim.js](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
-- [Stencil](https://github.com/ionic-team/stencil) - Compiler for generating Web Components.
+- [Stencil](https://github.com/stenciljs/core) - Compiler for generating Web Components.
 - [WebCell](https://github.com/EasyWebApp/WebCell) - Web Components engine based on VDOM, JSX, MobX & TypeScript.
 
 ### Functional
@@ -687,7 +686,7 @@ These materials are here for historical reasons only, they are grouped by years 
 - [There is an Element for that](https://medium.com/synsugar/there-is-an-element-for-that-a9fcdafe4a25)
 - [What happened to Web Components?](https://2ality.com/2015/08/web-component-status.html)
 - [Web Components and their role in the future of web development](http://kaytcat.github.io/web-components/)
-- [Microsoft Edge and Web Components](https://blogs.windows.com/msedgedev/2015/07/15/microsoft-edge-and-web-components/)
+- [Microsoft Edge and Web Components](https://archive.is/BtcAM)
 - [Bringing componentization to the web: An overview of Web Components](https://blogs.windows.com/msedgedev/2015/07/14/bringing-componentization-to-the-web-an-overview-of-web-components/)
 - [Why Web Components will make the web a better place for our users](https://medium.com/@kaelig/why-web-components-will-make-the-web-a-better-place-for-our-users-38dc3154fc1d)
 - [Practical Questions around Web Components](https://www.ianfeather.co.uk/practical-questions-around-web-components/)
