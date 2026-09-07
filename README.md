@@ -672,13 +672,13 @@ These materials are here for historical reasons only, they are grouped by years 
 - [Introducing Custom Elements](https://webkit.org/blog/7027/introducing-custom-elements/)
 - [The Case for Custom Elements: Part 1](https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439)
 - [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133)
-- [Demythstifying Web Components](http://www.backalleycoder.com/2016/08/26/demythstifying-web-components/)
+- [Demythstifying Web Components](https://backalleycoder.com/posts/demythstifying-web-components/)
 - [Extensible web components](https://adactio.com/journal/11052)
-- [Web Component Challenges](https://blog.revillweb.com/web-component-challenges-a09ebc598d65)
+- [Web Component Challenges](https://archive.is/RUhaE)
 - [Web Components and progressive enhancement](https://onishi.ltd/articles/2016/08/web-components-and-progressive-enhancement/)
 - [Update on standardizing Shadow DOM and Custom Elements](https://annevankesteren.nl/2015/07/shadow-dom-custom-elements-update)
 - [What's New in Shadow DOM v1 (by examples)](https://hayatoito.github.io/2016/shadowdomv1/)
-- [Why web components are so important](https://blog.revillweb.com/why-web-components-are-so-important-66ad0bd4807a)
+- [Why web components are so important](https://archive.is/aHSeX)
 - [Understanding Web Components](https://medium.com/the-ui-files/understanding-web-components-d051baa66019)
 
 #### 2015
