@@ -80,7 +80,6 @@ A curated list of awesome Web Components resources.
 
 Custom Elements provide a way for authors to build their own fully-featured DOM elements.
 
-- [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements)
 - [Custom elements](https://javascript.info/custom-elements)
 - [Custom Elements v1: Reusable Web Components](https://web.dev/custom-elements-v1/)
 - [Handling properties in custom element upgrades](https://nolanlawson.com/2021/08/03/handling-properties-in-custom-element-upgrades/)
@@ -97,14 +96,13 @@ Shadow DOM describes a method of combining multiple DOM trees into one hierarchy
 - [DOM Living Standard: Shadow tree](https://dom.spec.whatwg.org/#shadow-trees)
 - [MDN - Using Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
 - [Mind the document.activeElement!](https://dev.to/open-wc/mind-the-document-activeelement-2o9a)
-- [Open vs. Closed Shadow DOM](https://blog.revillweb.com/open-vs-closed-shadow-dom-9f3d7427d1af)
 - [Shadow DOM](https://javascript.info/shadow-dom)
 - [Shadow DOM and events](https://javascript.info/shadow-dom-events)
 - [Shadow DOM in depth](https://github.com/praveenpuglia/shadow-dom-in-depth)
 - [Shadow DOM slots, composition](https://javascript.info/slots-composition)
 - [Shadow DOM styling](https://javascript.info/shadow-dom-style)
 - [Shadow DOM v1: Self-Contained Web Components](https://web.dev/shadowdom-v1/)
-- [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
+- [The Shadow DOM Explained: Achieving True Encapsulation in Web Components](https://medium.com/@rgndunes/the-shadow-dom-explained-achieving-true-encapsulation-in-web-components-e3422f5957cd)
 - [Understanding Slot Updates with Web Components](https://coryrylan.com/blog/understanding-slot-updates-with-web-components)
 - [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
 - [Who doesn't love some slots?](https://dev.to/westbrook/who-doesnt-love-some-s-3de0)
@@ -638,10 +636,12 @@ These materials are here for historical reasons only, they are grouped by years 
 #### 2018
 
 - _2018-12-19_ [Styling Accessibility: A Web Components Approach](https://medium.com/@cfscorreia/styling-accessibility-a-web-components-approach-dc2aa8123eb2)
+- _2018-11-29_ [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
 - _2018-11-28_ [Web Components 101: An Introduction to Web Components](https://www.telerik.com/blogs/web-components-101-an-introduction-to-web-components)
 - _2018-11-21_ [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
 - _2018-11-15_ [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
 - _2018-11-08_ [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
+- _2018-08-21_ [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements)
 - _2018-08-19_ [6 Reasons You Should Use Native Web Components](https://codeburst.io/6-reasons-you-should-use-native-web-components-b45e18e069c2)
 - _2018-07-16_ [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
 - _2018-07-06_ [Web Components in 2018](https://www.sitepen.com/blog/web-components-in-2018)
