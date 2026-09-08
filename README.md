@@ -66,7 +66,6 @@ A curated list of awesome Web Components resources.
 
 ## Introduction
 
-- [An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
 - [Intro to Web Components](https://developer.salesforce.com/blogs/2020/01/intro-to-web-components)
 - [The Motivation For Using Web Components, an Introduction](https://www.thinktecture.com/web-components/introduction-and-motivation/)
 - [Web Components 101](https://nhswd.com/blog/web-components-101-what-are-web-components/)
@@ -625,13 +624,14 @@ These materials are here for historical reasons only, they are grouped by years 
 
 #### 2019
 
-- [A history of the HTML slot element](https://component.kitchen/blog/posts/a-history-of-the-html-slot-element)
-- [Web Components for Cross-Framework Component Libraries](https://codeburst.io/web-components-for-cross-framework-component-libraries-2647741f9470)
-- [Web Components in 2019: Part 1](https://codeburst.io/web-components-in-2019-part-1-6bd7251edce5)
-- [Web Components in 2019: Part 2](https://codeburst.io/web-components-in-2019-part-2-a7de8c770c5a)
-- [Web Components in 2019: Part 3](https://codeburst.io/web-components-in-2019-part-3-e725b781a414)
-- [Web Components in 2019: Part 4](https://codeburst.io/web-components-in-2019-part-4-7fe8e63a4dee)
-- [Developments in Web Components I’m excited about in 2019](https://medium.com/angular-in-depth/developments-in-web-components-im-excited-about-in-2019-3ae7751c2f64)
+- _2019-09-02_ [Web Components for Cross-Framework Component Libraries](https://codeburst.io/web-components-for-cross-framework-component-libraries-2647741f9470)
+- _2019-07-01_ [Web Components in 2019: Part 4](https://codeburst.io/web-components-in-2019-part-4-7fe8e63a4dee)
+- _2019-06-30_ [Web Components in 2019: Part 3](https://codeburst.io/web-components-in-2019-part-3-e725b781a414)
+- _2019-06-30_ [Web Components in 2019: Part 2](https://codeburst.io/web-components-in-2019-part-2-a7de8c770c5a)
+- _2019-06-29_ [Web Components in 2019: Part 1](https://codeburst.io/web-components-in-2019-part-1-6bd7251edce5)
+- _2019-03-18_ [An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
+- _2019-04-08_ [A history of the HTML slot element](https://component.kitchen/blog/posts/a-history-of-the-html-slot-element)
+- _2019-02-05_ [Developments in Web Components I’m excited about in 2019](https://medium.com/angular-in-depth/developments-in-web-components-im-excited-about-in-2019-3ae7751c2f64)
 
 #### 2018
 
