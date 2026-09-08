@@ -216,6 +216,8 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Web components are okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
 - [Web Components Are Not the Future — They’re the Present](https://www.abeautifulsite.net/posts/web-components-are-not-the-future-they-re-the-present/)
 - [Web Components Are Not the Future](https://dev.to/ryansolid/web-components-are-not-the-future-48bh)
+- [HTML Web Components](https://blog.jim-nielsen.com/2023/html-web-components/) by Jim Nielsen
+- [HTML Web Components](https://adactio.com/journal/20618) by Jeremy Keith
 - [If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
 - [Debunking Web Component Myths and Misconceptions](https://eisenbergeffect.medium.com/debunking-web-component-myths-and-misconceptions-ea9bb13daf61)
 - [Let’s talk about web components](https://bradfrost.com/blog/post/lets-talk-about-web-components/)
