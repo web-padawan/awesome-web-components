@@ -331,6 +331,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project.
 - [Lume](https://github.com/lume/lume) - Custom elements for 3D graphics. Built with Three.js for WebGL/WebGPU rendering, and Solid.js for reactivity and templating.
 - [Medblocks UI](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
+- [Morpheus](https://github.com/romshark/morpheus) - An experimental web components UI kit.
 - [Mutation testing elements](https://github.com/stryker-mutator/mutation-testing-elements) - A schema for mutation testing results with the web components to visualize it.
 - [Nightingale](https://github.com/ebi-webcomponents/nightingale) - Data visualisation web components for the life sciences.
 - [Nuxeo Elements](https://github.com/nuxeo/nuxeo-elements) - Components for building web applications with Nuxeo using Web Components.
@@ -375,7 +376,9 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [OutlineJS](https://github.com/phase2/outline) - Web component based design system starter kit.
 - [PatternFly Elements](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components based on the Unified Design Kit.
 - [Pharos Design System](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
+- [PIE Design System](https://pie.design) - Just Eat Takeaway.com’s global design system
 - [Polaris web components](https://shopify.dev/docs/api/app-home/latest/web-components) - Native UI elements that follow Shopify's design system.
+- [Porsche Design System](https://designsystem.porsche.com/v4/) - Toolkit for creating web applications based on Web Components.
 - [Red Hat Design System](https://github.com/RedHat-UX/red-hat-design-system) - Web components for building uniform experiences with the Red Hat brand.
 - [Siemens iX Web Components](https://github.com/siemens/ix/tree/main/packages/core) - Web Components implementing Siemens iX design system.
 - [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with Web Components.
