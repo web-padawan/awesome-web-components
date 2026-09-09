@@ -277,6 +277,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 ### Components
 
 - [`<active-table>`](https://github.com/OvidijusParsiunas/active-table) - Editable table web component.
+- [`<agent-robot-avatar>`](https://github.com/CX-ArtLab/agent-robot-avatar) - Zero-dependency animated robot avatar Web Component with programmable agent states and pointer interactions.
 - [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) - API documentation and live playground for Web Components.
 - [`<aura-router>`](https://github.com/aura-ui/router) - HTML-first client-side router web component.
 - [`<chess-board>`](https://github.com/justinfagnani/chessboard-element) - Standalone chess board web component.
