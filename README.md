@@ -15,6 +15,7 @@ A curated list of awesome Web Components resources.
   - [Shadow DOM](#shadow-dom)
   - [HTML Templates](#html-templates)
   - [CSS Shadow Parts](#css-shadow-parts)
+  - [Form Associated Custom Elements](#form-associated-custom-elements)
 - [Guides](#guides)
   - [Accessibility](#accessibility)
   - [Best Practices](#best-practices)
@@ -23,6 +24,7 @@ A curated list of awesome Web Components resources.
 - [Articles](#articles)
   - [Architecture](#architecture)
   - [Interoperability](#interoperability)
+  - [Opinions](#opinions)
   - [Limitations](#limitations)
   - [Styling](#styling)
 - [Real World](#real-world)
@@ -54,27 +56,22 @@ A curated list of awesome Web Components resources.
   - [Talks](#talks)
 - [Usage Metrics](#usage-metrics)
 - [Proposals](#proposals)
-  - [Form-associated Custom Elements](#form-associated-custom-elements)
   - [Constructable Stylesheet Objects](#constructable-stylesheet-objects)
   - [Custom State Pseudo Class](#custom-state-pseudo-class)
 - [Miscellaneous](#miscellaneous)
 - [Archive](#archive)
   - [Polyfills](#polyfills)
   - [History](#history)
-- [Who To Follow](#who-to-follow)
 - [Maintainers](#maintainers)
 
 ## Introduction
 
-- [An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
-- [Intro to Web Components](https://developer.salesforce.com/blogs/2020/01/intro-to-web-components.html)
-- [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
+- [Intro to Web Components](https://developer.salesforce.com/blogs/2020/01/intro-to-web-components)
 - [The Motivation For Using Web Components, an Introduction](https://www.thinktecture.com/web-components/introduction-and-motivation/)
-- [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
 - [Web Components 101](https://nhswd.com/blog/web-components-101-what-are-web-components/)
 - [Web Components: From the orbital height](https://javascript.info/webcomponents-intro)
 - [What are browser-native web components?](https://gomakethings.com/what-are-browser-native-web-components/)
-- [Why Web Components?](https://www.fast.design/docs/resources/why-web-components/)
+- [Why Web Components?](https://fast.design/docs/3.x/resources/why-web-components/)
 
 ## Standards
 
@@ -82,8 +79,6 @@ A curated list of awesome Web Components resources.
 
 Custom Elements provide a way for authors to build their own fully-featured DOM elements.
 
-- [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
-- [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements)
 - [Custom elements](https://javascript.info/custom-elements)
 - [Custom Elements v1: Reusable Web Components](https://web.dev/custom-elements-v1/)
 - [Handling properties in custom element upgrades](https://nolanlawson.com/2021/08/03/handling-properties-in-custom-element-upgrades/)
@@ -100,14 +95,13 @@ Shadow DOM describes a method of combining multiple DOM trees into one hierarchy
 - [DOM Living Standard: Shadow tree](https://dom.spec.whatwg.org/#shadow-trees)
 - [MDN - Using Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
 - [Mind the document.activeElement!](https://dev.to/open-wc/mind-the-document-activeelement-2o9a)
-- [Open vs. Closed Shadow DOM](https://blog.revillweb.com/open-vs-closed-shadow-dom-9f3d7427d1af)
 - [Shadow DOM](https://javascript.info/shadow-dom)
 - [Shadow DOM and events](https://javascript.info/shadow-dom-events)
 - [Shadow DOM in depth](https://github.com/praveenpuglia/shadow-dom-in-depth)
 - [Shadow DOM slots, composition](https://javascript.info/slots-composition)
 - [Shadow DOM styling](https://javascript.info/shadow-dom-style)
 - [Shadow DOM v1: Self-Contained Web Components](https://web.dev/shadowdom-v1/)
-- [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
+- [The Shadow DOM Explained: Achieving True Encapsulation in Web Components](https://medium.com/@rgndunes/the-shadow-dom-explained-achieving-true-encapsulation-in-web-components-e3422f5957cd)
 - [Understanding Slot Updates with Web Components](https://coryrylan.com/blog/understanding-slot-updates-with-web-components)
 - [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
 - [Who doesn't love some slots?](https://dev.to/westbrook/who-doesnt-love-some-s-3de0)
@@ -134,24 +128,31 @@ Shadow DOM describes a method of combining multiple DOM trees into one hierarchy
 CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM for styling purposes.
 
 - [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
+- [CSS shadow parts](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Shadow_parts)
 - [CSS Shadow Parts are coming!](https://dev.to/webpadawan/css-shadow-parts-are-coming-mi5)
-- [MDN - `::part()` CSS pseudo element](https://developer.mozilla.org/en-US/docs/Web/CSS/::part)
-- [MDN - `part` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/part)
 - [::part and ::theme, an ::explainer](https://meowni.ca/posts/part-theme-explainer/)
-- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
+- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow/part)
+
+### Form Associated Custom Elements
+
+- [HTML Living Standard: Creating a form-associated custom element](https://html.spec.whatwg.org/dev/custom-elements.html#custom-elements-face-example)
+- [Form-Associated Custom Elements: Web Components That Belong in a Form](https://dev.to/grimicorn/form-associated-custom-elements-web-components-that-belong-in-a-form-19kd)
+- [Form-Associated Custom Elements in Practice](https://blog.master.dev/form-associated-custom-elements-in-practice/)
+- [ElementInternals and Form-Associated Custom Elements](https://webkit.org/blog/13711/elementinternals-and-form-associated-custom-elements/)
 
 ## Guides
 
 ### Accessibility
 
-- [Accessibility for Web Components](https://developer.salesforce.com/blogs/2020/01/accessibility-for-web-components.html)
+- [Accessibility for Web Components](https://developer.salesforce.com/blogs/2020/01/accessibility-for-web-components)
 - [Accessibility with ID Referencing and Shadow DOM](https://coryrylan.com/blog/accessibility-with-id-referencing-and-shadow-dom)
 - [Dialogs and shadow DOM: can we make it accessible?](https://nolanlawson.com/2022/06/14/dialogs-and-shadow-dom-can-we-make-it-accessible/)
 - [How to Make Accessible Web Components — a Brief Guide](https://www.sitepoint.com/accessible-web-components/)
 - [Managing focus in the shadow DOM](https://nolanlawson.com/2021/02/13/managing-focus-in-the-shadow-dom/)
+- [Shadow DOM Focus Delegation: Getting delegatesFocus Right](https://blog.master.dev/shadow-dom-focus-delegation-getting-delegatesfocus-right/)
 - [The future of accessibility for custom elements](https://robdodson.me/the-future-of-accessibility-for-custom-elements/)
 - [The Guide to Accessible Web Components](https://www.erikkroes.nl/blog/accessibility/the-guide-to-accessible-web-components-draft/)
-- [Web Components and the Accessibility Object model (AOM)](https://www.24a11y.com/2019/web-components-and-the-aom/)
+- [Web Components and accessibility](https://www.accessibility-developer-guide.com/knowledge/web-components/)
 - [Web Components punch list](https://www.tpgi.com/web-components-punch-list/)
 - [Web components still need to be accessible](https://www.24a11y.com/2018/web-components-still-need-to-be-accessible/)
 
@@ -199,22 +200,43 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [How to deliver Custom Elements](https://medium.com/@WebReflection/how-to-deliver-custom-elements-702fae32d25c)
 - [Making Web Components for Different Contexts](https://css-tricks.com/making-web-components-for-different-contexts/)
 - [Supporting both automatic and manual registration of custom elements](https://component.kitchen/blog/posts/supporting-both-automatic-and-manual-registration-of-custom-elements)
-- [Web Components — the right way](https://equinusocio.dev/blog/web-components-the-right-way/)
 
 ### Interoperability
 
 - [Advanced Tooling for Web Components](https://css-tricks.com/advanced-tooling-for-web-components/)
 - [Custom Elements Everywhere](https://custom-elements-everywhere.com)
 - [Custom Elements That Work Anywhere](https://robdodson.me/interoperable-custom-elements/)
-- [JavaScript frameworks, meet Web Components](https://www.voorhoede.nl/nl/blog/javascript-frameworks-meet-web-components/)
+- [JavaScript frameworks, meet Web Components](https://www.voorhoede.nl/en/blog/javascript-frameworks-meet-web-components/)
 - [Web Components aren't a framework replacement - they're better than that](https://lamplightdev.com/blog/2020/01/18/web-components-arent-a-framework-replacement-theyre-better-than-that/)
 - [Web Components: Seamlessly interoperable](https://medium.com/@sergicontre/web-components-seamlessly-interoperable-82efd6989ca4)
 
+### Opinions
+
+- [Liskov's Gun: The parallel evolution of React and Web Components](https://www.baldurbjarnason.com/2024/liskovs-gun/)
+- [Web Components are not Framework Components — and That’s Okay](https://lea.verou.me/blog/2024/wcs-vs-frameworks/)
+- [Web components are okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
+- [Web Components Are Not the Future — They’re the Present](https://www.abeautifulsite.net/posts/web-components-are-not-the-future-they-re-the-present/)
+- [Web Components Are Not the Future](https://dev.to/ryansolid/web-components-are-not-the-future-48bh)
+- [HTML Web Components](https://blog.jim-nielsen.com/2023/html-web-components/) by Jim Nielsen
+- [HTML Web Components](https://adactio.com/journal/20618) by Jeremy Keith
+- [If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
+- [Debunking Web Component Myths and Misconceptions](https://eisenbergeffect.medium.com/debunking-web-component-myths-and-misconceptions-ea9bb13daf61)
+- [Let’s talk about web components](https://bradfrost.com/blog/post/lets-talk-about-web-components/)
+- [A Web Component Story](https://www.abeautifulsite.net/posts/a-web-component-story/)
+- [Why it’s okay for web components to use frameworks](https://nolanlawson.com/2021/08/01/why-its-okay-for-web-components-to-use-frameworks/)
+- [Misadventures in web components](https://www.falldowngoboone.com/blog/misadventures-in-web-components/)
+- [What happened to web components?](https://blog.logrocket.com/what-happened-to-web-components/)
+- [The Failed Criticism of Web Components](https://www.dannymoerkerke.com/blog/the-failed-criticism-of-web-components/)
+- [The failed promise of Web Components](https://lea.verou.me/blog/2020/09/the-failed-promise-of-web-components/)
+- [The Flaws Of Web Components (And Possible Solutions)](https://www.thinktecture.com/web-components/web-components-flaws/)
+- [The Perks Of Web Components](https://www.thinktecture.com/web-components/web-components-perks/")
+- [There’s No Need To Hate Web Components](https://www.dannymoerkerke.com/blog/theres-no-need-to-hate-web-components/)
+- [Why I don't use web components](https://dev.to/richharris/why-i-don-t-use-web-components-2cia)
+- [The Web Components journey: wrong ways, lacking parts and promising paths](https://dev.to/webpadawan/the-journey-of-web-components-wrong-ways-lacking-parts-and-promising-paths-1d5a)
+
 ### Limitations
 
-- [Beyond the polyfills: how Web Components affect us today?](https://dev.to/webpadawan/beyond-the-polyfills-how-web-components-affect-us-today-3j0a)
 - [Custom elements, shadow DOM and implicit form submission](https://www.hjorthhansen.dev/shadow-dom-and-forms/)
-- [Form-associated custom elements](https://www.hjorthhansen.dev/shadow-dom-form-participation/)
 - [You might not need shadow DOM](https://www.hjorthhansen.dev/you-might-not-need-shadow-dom/)
 
 ### Styling
@@ -256,6 +278,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 - [`<active-table>`](https://github.com/OvidijusParsiunas/active-table) - Editable table web component.
 - [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) - API documentation and live playground for Web Components.
+- [`<aura-router>`](https://github.com/aura-ui/router) - HTML-first client-side router web component.
 - [`<chess-board>`](https://github.com/justinfagnani/chessboard-element) - Standalone chess board web component.
 - [`<css-doodle>`](https://github.com/css-doodle/css-doodle) - Web component for drawing patterns with CSS.
 - [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle) - Custom element that allows to create a dark mode toggle or switch.
@@ -269,6 +292,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [`<model-viewer>`](https://github.com/google/model-viewer) - Web component for rendering interactive 3D models.
 - [`<notectl-editor>`](https://github.com/Samyssmile/notectl) - Modern rich text editor with plugin architecture, immutable state, and zero-config framework-agnostic deployment.
 - [`<pdfjs-viewer-element>`](https://github.com/alekswebnet/pdfjs-viewer-element) - Custom element that embeds PDF.js default viewer.
+- [`<phantom-ui>`](https://github.com/Aejkatappaja/phantom-ui) - Skeleton loader that measures your real DOM to render matching shimmer placeholders.
 - [`<player-x>`](https://github.com/playerxo/playerx) - Media player web component.
 - [`<progressive-image>`](https://github.com/andreruffert/progressive-image-element) - Custom element to progressively enhance image placeholders.
 - [`<qr-code>`](https://github.com/bitjson/qr-code) – Web component for rendering customizable, animate-able, SVG-based QR codes.
@@ -290,17 +314,16 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Blackstone UI](https://github.com/kjantzer/bui) - Web components for creating interfaces by Blackstone Publishing.
 - [Blaze UI Atoms](https://github.com/BlazeSoftware/atoms) - Set of web components powered by Blaze CSS.
 - [Brightspace UI core](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
+- [Burnish Components](https://github.com/danfking/burnish/tree/main/packages/components) - Web components for rendering MCP tool-call output as UI.
 - [Clever components](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
 - [Curvenote](https://github.com/curvenote/article) - Web components for creating interactive scientific articles.
 - [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - Standalone Components for SPA routing, displaying data from web services, and more.
 - [Dile Components](https://github.com/Polydile/dile-components) - General use Web Components for websites and applications.
-- [elements-sk](https://github.com/google/elements-sk) - Collection of custom elements for "a la carte" web development.
 - [github-elements](https://github.com/github/github-elements) - GitHub's Web Component collection.
 - [Elix](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
 - [Furo Webcomponents](https://github.com/eclipse/eclipsefuro-web) - Enterprise ready set of web components which work best with Eclipse Furo.
 - [Fusion Web Components](https://github.com/equinor/fusion-web-components) - Ser of web components used by Equinor Fusion.
 - [Ignite UI Web Components](https://github.com/IgniteUI/igniteui-webcomponents) - Complete library of UI components from Infragistics.
-- [Immersive Custom Elements](https://github.com/MozillaReality/immersive-custom-elements) - Set of web components for embedding immersive (VR & AR) content.
 - [Joomla UI custom elements](https://github.com/joomla-projects/custom-elements) - Compilation of Joomla 4 Custom Elements.
 - [Ketch.UP](https://github.com/smeup/ketchup) - Web components library for Sme.UP.
 - [LDRS](https://github.com/GriffinJohnston/ldrs) - Lightweight, customizable loading animations/spinners.
@@ -308,17 +331,17 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project.
 - [Lume](https://github.com/lume/lume) - Custom elements for 3D graphics. Built with Three.js for WebGL/WebGPU rendering, and Solid.js for reactivity and templating.
 - [Medblocks UI](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
-- [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
+- [Morpheus](https://github.com/romshark/morpheus) - An experimental web components UI kit.
 - [Mutation testing elements](https://github.com/stryker-mutator/mutation-testing-elements) - A schema for mutation testing results with the web components to visualize it.
 - [Nightingale](https://github.com/ebi-webcomponents/nightingale) - Data visualisation web components for the life sciences.
 - [Nuxeo Elements](https://github.com/nuxeo/nuxeo-elements) - Components for building web applications with Nuxeo using Web Components.
 - [One Platform Components](https://github.com/1-Platform/op-components) - Set of web components for Red Hat One Platform.
 - [Open Business Application Platform Web Components](https://github.com/openbap/obap-elements) - Collection of web components designed for business applications.
 - [Pixano Elements](https://github.com/pixano/pixano-elements) - Re-usable web components dedicated to data annotation tasks.
+- [PlayCanvas Web Components](https://github.com/playcanvas/web-components) - Custom elements for building 3D interactive web apps with the PlayCanvas Engine.
 - [Playground Elements](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
-- [Shoelace](https://github.com/shoelace-style/shoelace) - A forward-thinking library of web components.
-- [Snice](https://snice.dev) - Comprehensive and full-featured component library and web component design system.
 - [Smart Web Components](https://github.com/HTMLElements/smart-webcomponents) - Web components for business applications.
+- [Snice](https://snice.dev) - Comprehensive and full-featured component library and web component design system.
 - [Stripe Elements](https://github.com/bennypowers/stripe-elements) - Custom Element Wrapper for Stripe.js v3 Elements.
 - [TEI Publisher Components](https://github.com/eeditiones/tei-publisher-components) - Collection of web components used by TEI Publisher and apps generated by it.
 - [Titanium Elements](https://github.com/LeavittSoftware/titanium-elements) - Collection of lightweight web components used by Leavitt Group Enterprises.
@@ -326,8 +349,8 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [TrendChart Elements](https://github.com/WebLogin/trendchart-elements) - Components to generate simple, light and responsive charts.
 - [Umbraco UI Components](https://github.com/umbraco/Umbraco.UI) - Collection of user interface web components for Umbraco CMS.
 - [Vaadin components](https://github.com/vaadin/web-components) - Evolving set of high-quality web components for building business web applications.
-- [VSCode Webview Elements](https://github.com/bendera/vscode-webview-elements) - Components for creating VSCode extensions which use the Webview API.
-- [Warp View](https://github.com/senx/warpview) - Collection of charting web components for Warp 10.
+- [VSCode Elements](https://github.com/vscode-elements/elements) - Web component library for developing Visual Studio Code extensions.
+- [Web Awesome](https://github.com/shoelace-style/webawesome) - Open source library of web components from Font Awesome.
 - [Webmarkets web components](https://github.com/Webmarkets/wm-web-components) - Set of Webmarkets' public web components.
 - [Wired Elements](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
 - [Wokwi Elements](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
@@ -338,44 +361,44 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Astro Space UX Design System](https://github.com/RocketCommunicationsInc/astro) - Set of components to build rich space app experiences with established interaction patterns.
 - [Auro Design System](https://auro.alaskaair.com) - Alaska Airlines design system to innovate on ideas and collaborate on the future.
 - [Blueprint UI](https://blueprintui.dev) - Web Component based design system with flexible and lightweight components.
-- [Bolt Design System](https://github.com/boltdesignsystem/bolt) - Twig and Web Component-powered UI components, reusable visual styles and tooling.
-- [Calcite Components](https://github.com/Esri/calcite-components) - Shared Web Components for Esri's Calcite design framework.
+- [Calcite Design System](https://github.com/Esri/calcite-design-system) - Web Components for Esri's Calcite design framework.
 - [Carbon Web Components](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
-- [Clarity Core Web Components](https://github.com/vmware-clarity/core/tree/main/projects/core) - Suite of web components from the Clarity Design System.
 - [Crayons](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
-- [FAST Components](https://github.com/microsoft/fast/tree/master/packages/web-components) - Library of Web Components based on the FAST design language.
 - [Fluent UI Web Components](https://github.com/microsoft/fluentui/tree/master/packages/web-components) - Library of Web Components that supports Microsoft's Fluent design language.
 - [Forge Components](https://github.com/tyler-technologies-oss/forge) - Library of Web Components adhering to the Forge Design System.
-- [GOV.UK Web Components](https://github.com/tgreyuk/govuk-webcomponents) - Set of encapsulated web components consuming the GOV.UK Design System.
-- [Helix UI](https://github.com/HelixDesignSystem/helix-ui) - Web Component library for the Helix Design System.
 - [Liquid](https://github.com/emdgroup-liquid/liquid) - UI component library based on the Liquid Design System.
-- [Lyne Components](https://github.com/lyne-design-system/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
+- [Lyne Components](https://github.com/sbb-design-systems/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
 - [Material Web Components](https://github.com/material-components/material-web) - Material Design implemented as Web Components.
-- [Momentum UI Web Components](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - Set of UI components based on Momentum Design.
+- [Momentum UI Web Components](https://github.com/momentum-design/momentum-ui/tree/main/web-components) - Set of UI components based on Momentum Design.
+- [Nessie Design System](https://design.ns.nl) - Web components  by NS Dutch Railways for consumer (external) applications.
 - [Nord](https://nordhealth.design) - Nordhealth’s design system for products, digital experiences and brand.
-- [NuML | NUDE Elements](https://github.com/tenphi/numl) - HTML Framework and Design System based on Web Components and runtime CSS generation.
+- [Nucleus design system](https://britishgas.design/introduction/) - Standardised set of reusable components for British Gas.
+- [NVIDIA Elements](https://github.com/nvidia/elements) - The Design Language and UI Agent Harness for AI/ML Factories, Robotics, and Autonomous Vehicles.
 - [OutlineJS](https://github.com/phase2/outline) - Web component based design system starter kit.
 - [PatternFly Elements](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components based on the Unified Design Kit.
 - [Pharos Design System](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
+- [PIE Design System](https://pie.design) - Just Eat Takeaway.com’s global design system
+- [Polaris web components](https://shopify.dev/docs/api/app-home/latest/web-components) - Native UI elements that follow Shopify's design system.
+- [Porsche Design System](https://designsystem.porsche.com/v4/) - Toolkit for creating web applications based on Web Components.
 - [Red Hat Design System](https://github.com/RedHat-UX/red-hat-design-system) - Web components for building uniform experiences with the Red Hat brand.
 - [Siemens iX Web Components](https://github.com/siemens/ix/tree/main/packages/core) - Web Components implementing Siemens iX design system.
 - [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with Web Components.
-- [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - Set of reusable UI elements implementing SAP Fiori Design Guidelines.
-- [U-M Library Design System](https://design-system.lib.umich.edu) - University of Michigan Library Design System.
-- [Zooplus web components](https://github.com/zooplus/zoo-web-components) - Set of web components that implement Z+ shop style guide.
+- [Tractie — NS Design System](https://tractie.ns.nl) -  Web components by NS Dutch Railways for employee internal applications.
+- [UI5 Web Components](https://github.com/UI5/webcomponents) - Set of reusable UI elements implementing SAP Fiori Design Guidelines.
 
 ### Use Cases
 
 - [How we chose to build our Design System using StencilJS Web Components](https://medium.com/8451/how-we-chose-to-build-our-design-system-using-stenciljs-web-components-4878c36743c5)
 - [How searching for a bundle-free React led me to web components](https://www.bryanbraun.com/2020/08/31/how-searching-for-a-bundle-free-react-led-me-to-web-components/)
+- [Post Mortem: Rewriting AgnosticUI with Lit Web Components](https://blog.master.dev/post-mortem-rewriting-agnosticui-with-lit-web-components/)
 - [Reasons Web Components are perfect for a big company](https://medium.com/@sergicontre/reasons-web-components-are-perfect-for-a-big-company-28790d712ad5)
 - [5 Reasons Web Components Are Perfect for Design Systems](https://ionicframework.com/blog/5-reasons-web-components-are-perfect-for-design-systems/)
 - [Web components: the secret ingredient helping power the web](https://web.dev/web-components-io-2019/)
 - [Web Components for Enterprise. Part 1: Salesforce, Oracle, SAP](https://dev.to/webpadawan/web-components-for-enterprise-part-1-salesforce-oracle-sap-e70)
 - [Web Components for Enterprise. Part 2: Nuxeo, Ionic, Vaadin](https://dev.to/webpadawan/web-components-for-enterprise-part-2-nuxeo-ionic-vaadin-22l7)
 - [Why I use Web Components - My use cases](https://dev.to/shihn/why-i-use-web-components-my-use-cases-1nip)
-- [Why we use Web Components](https://viljamis.com/2019/why-we-use-web-components/) by [@viljamis](https://twitter.com/viljamis)
-- [Why we use Web Components](https://dev.to/ionic/why-we-use-web-components-2c1i) by [@maxlynch](https://twitter.com/maxlynch)
+- [Why we use Web Components](https://arielsalminen.com/2019/why-we-use-web-components/)
+- [Why we use Web Components](https://dev.to/ionic/why-we-use-web-components-2c1i)
 
 ## Libraries
 
@@ -383,8 +406,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 - [DNA](https://github.com/chialab/dna) - Progressive Web Components library.
 - [element-js](https://github.com/webtides/element-js) - Simple and lightweight base classes for web components with a beautiful API.
-- [FAST Element](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-element) - Lightweight library for building performant, memory-efficient, standards-compliant Web Components.
-- [Forge Core](https://github.com/tyler-technologies-oss/forge-core) - Building blocks and utilities that are used when building Forge Web Components.
+- [FAST Element](https://github.com/microsoft/fast/tree/main/packages/fast-element) - Lightweight library for building performant, memory-efficient, standards-compliant Web Components.
 - [Joist](https://github.com/joist-framework/joist) - Set of small libraries designed to add the bare minimum to web components to make you productive.
 - [Lit](https://lit.dev) - Simple library for building fast, lightweight web components.
 - [Lightning Web Components](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation.
@@ -392,10 +414,8 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).
 - [Panel](https://github.com/mixpanel/panel) - Web Components + Virtual DOM: web standards for powerful UIs.
 - [ReadyMade](https://github.com/readymade-ui/readymade/tree/main/src/modules/core) - Write custom element classes with decorators. No dependencies.
-- [slim.js](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
 - [Snice](https://gitlab.com/Hedzer/snice) - Elegant decorators for building web components declaratively or imperatively.
-- [Stencil](https://github.com/ionic-team/stencil) - Compiler for generating Web Components.
-- [Tonic](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.
+- [Stencil](https://github.com/stenciljs/core) - Compiler for generating Web Components.
 - [WebCell](https://github.com/EasyWebApp/WebCell) - Web Components engine based on VDOM, JSX, MobX & TypeScript.
 
 ### Functional
@@ -403,6 +423,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [atomico](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
 - [Elemento](https://github.com/dsolimando/elemento) - A lightweight library for building functional web components using signals and Lit.
 - [haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
+- [pion](https://github.com/pionjs/pion) - React's Hooks API for web components with lit-html.
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 - [Solid Element](https://github.com/solidjs/solid/tree/main/packages/solid-element) - Library that extends Solid adding Custom Web Components and extensions.
 
@@ -421,17 +442,18 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 - [All the Ways to Make a Web Component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/)
 - [web-components-benchmark](https://vogloblinsky.github.io/web-components-benchmark/) - Benchmark Web Components technologies with various examples.
-- [web-components-todo](https://wc-todo.firebaseapp.com/) - The same todo application built in different Web Components libraries for benchmark purpose.
+- [web-components-todo](https://github.com/shprink/web-components-todo) - The same todo application built in different Web Components libraries for benchmark purpose.
 
 ## Frameworks
 
 ### Angular
 
-- [Angular Elements Overview](https://angular.io/guide/elements)
-- [Building and consuming Angular Elements as Web Components](https://indepth.dev/building-and-bundling-web-components/)
+- [Web Components in Angular: Integrating React Components Across Framework Boundaries](https://dev.to/ujja/web-components-in-angular-integrating-react-components-across-framework-boundaries-29l5)
+- [Web Components in Angular - Why Passing Inputs Breaks on Navigation](https://dev.to/playfulprogramming-angular/web-components-in-angular-why-passing-inputs-breaks-on-navigation-52b6)
+- [Angular Elements Overview](https://angular.dev/guide/elements)
+- [Building and consuming Angular Elements as Web Components](https://angular.love/building-and-consuming-angular-elements-as-web-components)
 - [How to use Angular ngModel and ngForms with WebComponents](https://itnext.io/how-to-use-angular-ngmodel-and-ngforms-with-webcomponents-802bd9e1d3d7)
 - [Using Web Components in Angular](https://coryrylan.com/blog/using-web-components-in-angular)
-- [Web Components With Angular Ivy In 6 Steps](https://www.softwarearchitekt.at/post/2019/05/18/web-components-custom-elements-with-angular-ivy-in-6-steps.aspx)
 
 ### React
 
@@ -447,7 +469,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Svelte
 
-- [Svelte Custom Element API](https://svelte.dev/docs#Custom_element_API)
+- [Svelte Custom Element API](https://svelte.dev/docs/svelte/custom-elements)
 - [How to Create a Web Component in Svelte](https://dev.to/silvio/how-to-create-a-web-components-in-svelte-2g4j)
 - [Svelte Web Component — 5.4KB](https://itnext.io/svelte-web-component-5-4kb-4afe46590d99)
 
@@ -480,22 +502,22 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Open Web Components: Testing](https://open-wc.org/docs/testing/testing-package/) - Opinionated package that combines and configures testing libraries.
 - [query-selector-shadow-dom](https://github.com/webdriverio/query-selector-shadow-dom) - querySelector that can pierce Shadow DOM roots, useful for automated testing.
 - [shadow-automation-selenium](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
-- [Testing Shadow DOM elements in Selenium](https://reflect.run/articles/testing-shadow-dom-elements-in-selenium/) - In Selenium 4, there is now a way to access Shadow DOM nodes.
 - [Test web components with Playwright](https://alexbilson.dev/plants/technology/test-web-components-with-playwright/) - So you’ve created a native web component or two. How do you test them in popular browsers?
 - [W3C Webdriver conquering automation of Shadow DOM](https://staleelement.medium.com/w3c-webdriver-conquering-automation-of-shadow-dom-chapter-2-d92c7fe9e74c) - Shadow DOM tree and its interaction with the W3C Webdriver.
 
 ### Tools
 
-- [Backlight](https://backlight.dev/) — With collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems.
+- [Custom Elements Manifest](https://custom-elements-manifest.open-wc.org/) - Codegen for Web Components.
 - [Custom Elements Locator](https://github.com/open-wc/locator) - Chrome extension to find custom elements on a page.
 - [@storybook/web-components](https://www.npmjs.com/package/@storybook/web-components) - UI development environment for plain web-component snippets.
-- [webcomponents.dev](https://webcomponents.dev) - Component IDE for web platform developers.
+- [@web/storybook-builder](https://modern-web.dev/docs/storybook-builder/overview/) - Storybook builder with support for Web Components.
 - [web-component-analyzer](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
 - [Web Components Codemods](https://github.com/kcmr/web-components-codemods) - Codemods for Web Components.
 
 ## Books
 
 - [Web Components in Action](https://www.manning.com/books/web-components-in-action) - Book by Ben Farrell, available at Manning early release program.
+- [Web Component Development with Modern Libraries and Tooling](https://www.manning.com/books/web-component-development-with-modern-libraries-and-tooling) - Book by Mark Volkmann, available at Manning early access program.
 - [Web Component Essentials](https://leanpub.com/web-component-essentials) - Book by Cory Rylan, early preview edition available at Leanpub.
 
 ## Tutorials
@@ -505,21 +527,18 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Creating a Reusable Avatar Web Component](https://marcoslooten.com/blog/creating-a-reusable-avatar-web-component/)
 - [Creating Web Components with Stencil](https://auth0.com/blog/creating-web-components-with-stencil/)
 - [Encapsulating Style and Structure with Shadow DOM](https://css-tricks.com/encapsulating-style-and-structure-with-shadow-dom/)
-- [Getting started with LitElement and TypeScript](https://labs.thisdot.co/blog/getting-started-with-litelement-and-typescript)
+- [Getting started with LitElement and TypeScript](https://www.thisdot.co/blog/getting-started-with-litelement-and-typescript)
 - [Web Components: from zero to hero](https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m)
 - [Deep Dive: Web Components & Dependency Injection – The Experiment](https://www.thinktecture.com/web-components/dependency-injection/)
-- [Handling data with Web Components](https://itnext.io/handling-data-with-web-components-9e7e4a452e6e)
-- [How to use D3js with WebComponents](https://towardsdatascience.com/how-to-use-d3js-with-webcomponents-a75ae4f980de)
-- [Navigation Lifecycle using Vaadin Router, LitElement and TypeScript](https://labs.thisdot.co/blog/navigation-lifecycle-using-vaadin-router-litelement-and-typescript)
 - [Recreating The Arduino Pushbutton Using SVG And `<lit-element>`](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
-- [Routing Management with LitElement and TypeScript](https://labs.thisdot.co/blog/routing-management-with-litelement)
 - [Snake-Eating Game Making with Web Components of Omi and MVP Architecture](https://dev.to/dntzhang/snake-eating-game-making-with-web-components-of-omi-and-mvp-architecture-206)
 - [Stencil – Web Components On Steroids](https://www.thinktecture.com/web-components/stenciljs-web-components-on-steroids/)
+- [The Missing Link for Web Components](https://blog.master.dev/the-missing-link-for-web-components/)
 - [Using Modern Web Components](https://coryrylan.com/blog/using-modern-web-components)
 - [Using Web Components in WordPress is Easier Than You Think](https://css-tricks.com/using-web-components-in-wordpress-is-easier-than-you-think/)
 - [Web Components 101: Framework Comparison](https://coderpad.io/blog/development/web-components-101-framework-comparison/)
 - [Web Components 101: Lit Framework](https://coderpad.io/blog/development/web-components-101-lit-framework/)
-- [Web Components Tools: A Comparison](https://www.nexmo.com/blog/2020/05/20/web-components-tools-a-comparison)
+- [Web Components Tools: A Comparison](https://developer.vonage.com/en/blog/web-components-tools-a-comparison)
 - [Where to begin building Web Components? - The Basics](https://dev.to/alangdm/where-to-begin-building-web-components-the-basics-3b78)
 - [Where to begin building Web Components? - Class-based Libraries](https://dev.to/alangdm/where-to-begin-building-web-components-class-based-libraries-18m6)
 
@@ -527,26 +546,22 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Podcasts
 
-- [Code[ish], episode 38: Building with Web Components](https://www.heroku.com/podcasts/codeish/38-building-with-web-components)
+- [Code[ish], episode 38: Building with Web Components](https://www.heroku.com/codeish-podcasts/38-building-with-web-components/)
 - [Frontend Happy Hour, episode 62: Web Components - shots of shadow DOM](https://frontendhappyhour.com/episodes/web-components-shots-of-shadow-dom/)
-- [Labs Talk - Web Components with Peter Muessig](https://labstalk.buzzsprout.com/993481/3932975-web-components-with-peter-muessig)
-- [Real Talk JavaScript, episode 7: Custom Web Components with Rob Wormald](https://realtalkjavascript.simplecast.fm/eaf3db9e)
-- [Real Talk JavaScript, episode 101: Back to Basics with Native HTML and LitElement](https://realtalkjavascript.simplecast.com/episodes/episode-101-back-to-basics-with-native-html-and-litelement)
+- [JSJ 424: UI5 and web components with Peter Muessig](https://www.youtube.com/watch?v=LPzYKrBzUoY)
+- [Real Talk JavaScript, episode 7: Custom Web Components with Rob Wormald](https://www.devshows.dev/podcasts/web-rush/episode-7-custom-web-components-with-rob-wormald)
+- [Real Talk JavaScript, episode 101: Back to Basics with Native HTML and LitElement](https://www.devshows.dev/podcasts/web-rush/episode-101-back-to-basics-with-native-html-and-litelement)
 
 ### Presentations
 
 - [Are Web Components the Betamax of web development?](https://noti.st/lostinbrittany/EjUZyd/are-web-components-the-betamax-of-web-development) by [@lostinbrittany](https://twitter.com/lostinbrittany)
-- [Designing Standard Systems](https://drive.google.com/file/d/1ALFiWOFU0UAGUpaZPMIVnoADs9_REtL5/view) by [@stefsull](https://twitter.com/stefsull) and [@bferrua](https://twitter.com/bferrua)
-- [Frontend Architecture for Scalable Design Systems](https://events.drupal.org/seattle2019/sessions/design-system-architecture-pattern-lab-twig-and-web-components) by [@salem_cobalt](https://twitter.com/salem_cobalt)
+- [Frontend Architecture for Scalable Design Systems](https://speakerdeck.com/sghoweri/frontend-architecture-for-scalable-design-systems) by [@salem_cobalt](https://twitter.com/salem_cobalt)
 - [lit-apollo: Data-Driven Components that Use the Platform](https://apolloelements.dev/using-lit-apollo/) by [@PowersBenny](https://twitter.com/PowersBenny)
-- [Mastering Shadow DOM](https://martine-dowden.github.io/portfolio/presentation/mastering-shadow-dom) by [@Martine_Dowden](https://twitter.com/Martine_Dowden)
+- [Mastering Shadow DOM](https://martine.dev/publications/mastering-shadow-dom) by [@Martine_Dowden](https://twitter.com/Martine_Dowden)
 - [Modernizing Large Frontends with Web Components](https://speakerdeck.com/samjulien/modernizing-large-frontends-with-web-components) by [@samjulien](https://twitter.com/samjulien)
 - [Shadow DOM: off the beaten track](https://docs.google.com/presentation/d/1wi74YiTLtLSfgjyccKm5LxYp9k8aeJda0AekWV5mqJI/edit?usp=sharing) by [@serhiikulykov](https://twitter.com/serhiikulykov)
 - [Using Web Components to Build a Framework-agnostic UI Library](https://gotochgo.com/2019/sessions/866/using-web-components-to-build-a-framework-agnostic-ui-library) by [@brianbouril](https://twitter.com/brianbouril) and [@danciupuliga](https://twitter.com/danciupuliga)
-- [Web Components and the AOM](https://decks.tink.uk/2019/jsconf/index.html) by [@LeonieWatson](https://twitter.com/LeonieWatson)
-- [Web Components and Styles Scoping](https://www.dropbox.com/s/wdh9uufjui5htll/Web-Components-and-Styles-Scoping-by-bashmish-FrontMania-2018.pdf) by [@bashmish](https://twitter.com/bashmish)
 - [Web Components can do that?!](https://slides.com/vogloblinsky/web-components-can-do-that) by [@vogloblinsky](https://twitter.com/vogloblinsky)
-- [Web Components: Introduction and State of the Art](https://webcomponents.dev/blog/web-components-slides/) by [@webcomp_dev](https://twitter.com/webcomp_dev)
 
 ### Talks
 
@@ -562,12 +577,6 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Chrome Platform Status: `HTMLTemplateElement`](https://chromestatus.com/metrics/feature/timeline/popularity/2769)
 
 ## Proposals
-
-### Form-associated Custom Elements
-
-- [Form Participation API Explained](https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit?usp=sharing) - Document by Google Chrome team.
-- [Form-associated custom elements](https://www.chromestatus.com/features/4708990554472448) - Feature in Chrome platform status.
-- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated)
 
 ### Constructable Stylesheet Objects
 
@@ -623,28 +632,38 @@ These materials are here for historical reasons only, they are grouped by years 
 
 #### 2019
 
-- [A history of the HTML slot element](https://component.kitchen/blog/posts/a-history-of-the-html-slot-element)
-- [Web Components for Cross-Framework Component Libraries](https://codeburst.io/web-components-for-cross-framework-component-libraries-2647741f9470)
-- [Web Components in 2019: Part 1](https://codeburst.io/web-components-in-2019-part-1-6bd7251edce5)
-- [Web Components in 2019: Part 2](https://codeburst.io/web-components-in-2019-part-2-a7de8c770c5a)
-- [Web Components in 2019: Part 3](https://codeburst.io/web-components-in-2019-part-3-e725b781a414)
-- [Web Components in 2019: Part 4](https://codeburst.io/web-components-in-2019-part-4-7fe8e63a4dee)
-- [Developments in Web Components I’m excited about in 2019](https://medium.com/angular-in-depth/developments-in-web-components-im-excited-about-in-2019-3ae7751c2f64)
+- _2019-12-02_ [Web Components and the Accessibility Object model (AOM)](https://www.24a11y.com/2019/web-components-and-the-aom/)
+- _2019-09-02_ [Web Components for Cross-Framework Component Libraries](https://codeburst.io/web-components-for-cross-framework-component-libraries-2647741f9470)
+- _2019-07-01_ [Form-associated custom elements](https://www.hjorthhansen.dev/shadow-dom-form-participation/)
+- _2019-07-01_ [Web Components in 2019: Part 4](https://codeburst.io/web-components-in-2019-part-4-7fe8e63a4dee)
+- _2019-06-30_ [Web Components in 2019: Part 3](https://codeburst.io/web-components-in-2019-part-3-e725b781a414)
+- _2019-06-30_ [Web Components in 2019: Part 2](https://codeburst.io/web-components-in-2019-part-2-a7de8c770c5a)
+- _2019-06-29_ [Web Components in 2019: Part 1](https://codeburst.io/web-components-in-2019-part-1-6bd7251edce5)
+- _2019-04-09_ [Beyond the polyfills: how Web Components affect us today?](https://dev.to/webpadawan/beyond-the-polyfills-how-web-components-affect-us-today-3j0a)
+- _2019-03-18_ [An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
+- _2019-04-08_ [A history of the HTML slot element](https://component.kitchen/blog/posts/a-history-of-the-html-slot-element)
+- _2019-02-05_ [Developments in Web Components I’m excited about in 2019](https://medium.com/angular-in-depth/developments-in-web-components-im-excited-about-in-2019-3ae7751c2f64)
 
 #### 2018
 
-- [Styling Accessibility: A Web Components Approach](https://medium.com/@cfscorreia/styling-accessibility-a-web-components-approach-dc2aa8123eb2)
-- [Web Components 101: An Introduction to Web Components](https://www.telerik.com/blogs/web-components-101-an-introduction-to-web-components)
-- [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
-- [6 Reasons You Should Use Native Web Components](https://codeburst.io/6-reasons-you-should-use-native-web-components-b45e18e069c2)
-- [Web Components in 2018](https://www.sitepen.com/blog/web-components-in-2018)
-- [Web Components Introduction: Creating Custom HTML Elements in 2018](https://www.grapecity.com/en/blogs/web-components-introduction-creating-custom-html-elements-2018)
-- [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
-- [Extending Native DOM Elements with Web Components](https://medium.com/revillweb/extending-native-dom-elements-with-web-components-233350c8e86a)
+- _2018-12-19_ [Styling Accessibility: A Web Components Approach](https://medium.com/@cfscorreia/styling-accessibility-a-web-components-approach-dc2aa8123eb2)
+- _2018-11-29_ [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
+- _2018-11-28_ [Web Components 101: An Introduction to Web Components](https://www.telerik.com/blogs/web-components-101-an-introduction-to-web-components)
+- _2018-11-21_ [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
+- _2018-11-15_ [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
+- _2018-11-08_ [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
+- _2018-08-21_ [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements)
+- _2018-08-19_ [6 Reasons You Should Use Native Web Components](https://codeburst.io/6-reasons-you-should-use-native-web-components-b45e18e069c2)
+- _2018-07-16_ [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
+- _2018-07-06_ [Web Components in 2018](https://www.sitepen.com/blog/web-components-in-2018)
+- _2018-05-23_ [Web Components Introduction: Creating Custom HTML Elements in 2018](https://www.grapecity.com/en/blogs/web-components-introduction-creating-custom-html-elements-2018)
+- _2018-05-21_ [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
+- _2018-04-17_ [Extending Native DOM Elements with Web Components](https://medium.com/revillweb/extending-native-dom-elements-with-web-components-233350c8e86a)
 
 #### 2017
 
 - [Styling is critical to web component reuse, but may prove difficult in practice](https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice)
+- [Make a Native Web Component with Custom Elements v1 and Shadow DOM v1](https://bendyworks.com/blog/native-web-components/)
 - [Web Components: The Long Game](https://infrequently.org/2017/10/web-components-the-long-game/)
 - [Web Components: Just in the Nick of Time (Polymer Summit 2017)](https://youtu.be/y-8Lmg5Gobw)
 - [Using Web Components in Ionic (Polymer Summit 2017)](https://youtu.be/UfD-k7aHkQE)
@@ -655,8 +674,8 @@ These materials are here for historical reasons only, they are grouped by years 
 - [Polymer @ YouTube (Polymer Summit 2017)](https://youtu.be/tNulrEbTQf8)
 - [Web Components for CMS (Polymer Summit 2017)](https://youtu.be/c-WDHG6rrdU)
 - [An intro to web components with otters](https://meowni.ca/posts/web-components-with-otters/)
-- [The broken promise of Web Components](https://dmitriid.com/blog/2017/03/the-broken-promise-of-web-components/)
-- [Regarding the broken promise of Web Components](http://robdodson.me/regarding-the-broken-promise-of-web-components/)
+- [The broken promise of Web Components](https://dmitriid.com/the-broken-promise-of-web-components)
+- [Regarding the broken promise of Web Components](https://robdodson.me/posts/regarding-the-broken-promise-of-web-components/)
 - [Web Components v1 - the next generation](https://web.dev/webcomponents-org/)
 
 #### 2016
@@ -664,13 +683,13 @@ These materials are here for historical reasons only, they are grouped by years 
 - [Introducing Custom Elements](https://webkit.org/blog/7027/introducing-custom-elements/)
 - [The Case for Custom Elements: Part 1](https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439)
 - [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133)
-- [Demythstifying Web Components](http://www.backalleycoder.com/2016/08/26/demythstifying-web-components/)
+- [Demythstifying Web Components](https://backalleycoder.com/posts/demythstifying-web-components/)
 - [Extensible web components](https://adactio.com/journal/11052)
-- [Web Component Challenges](https://blog.revillweb.com/web-component-challenges-a09ebc598d65)
+- [Web Component Challenges](https://archive.is/RUhaE)
 - [Web Components and progressive enhancement](https://onishi.ltd/articles/2016/08/web-components-and-progressive-enhancement/)
 - [Update on standardizing Shadow DOM and Custom Elements](https://annevankesteren.nl/2015/07/shadow-dom-custom-elements-update)
 - [What's New in Shadow DOM v1 (by examples)](https://hayatoito.github.io/2016/shadowdomv1/)
-- [Why web components are so important](https://blog.revillweb.com/why-web-components-are-so-important-66ad0bd4807a)
+- [Why web components are so important](https://archive.is/aHSeX)
 - [Understanding Web Components](https://medium.com/the-ui-files/understanding-web-components-d051baa66019)
 
 #### 2015
@@ -679,7 +698,7 @@ These materials are here for historical reasons only, they are grouped by years 
 - [There is an Element for that](https://medium.com/synsugar/there-is-an-element-for-that-a9fcdafe4a25)
 - [What happened to Web Components?](https://2ality.com/2015/08/web-component-status.html)
 - [Web Components and their role in the future of web development](http://kaytcat.github.io/web-components/)
-- [Microsoft Edge and Web Components](https://blogs.windows.com/msedgedev/2015/07/15/microsoft-edge-and-web-components/)
+- [Microsoft Edge and Web Components](https://archive.is/BtcAM)
 - [Bringing componentization to the web: An overview of Web Components](https://blogs.windows.com/msedgedev/2015/07/14/bringing-componentization-to-the-web-an-overview-of-web-components/)
 - [Why Web Components will make the web a better place for our users](https://medium.com/@kaelig/why-web-components-will-make-the-web-a-better-place-for-our-users-38dc3154fc1d)
 - [Practical Questions around Web Components](https://www.ianfeather.co.uk/practical-questions-around-web-components/)
@@ -713,7 +732,7 @@ These materials are here for historical reasons only, they are grouped by years 
 - [Google I/O 2014 - Polymer and Web Components change everything you know about Web development](https://youtu.be/8OJ7ih8EE7s)
 - [Google I/O 2014 - Unlock the next era of UI development with Polymer](https://youtu.be/HKrYfrAzqFA)
 - [Making Polymer Elements Accessible](https://youtu.be/_IBiXfxhF-A)
-- [Building an Accessible Disclosure Button – using Web Components](https://developer.paciellogroup.com/blog/2014/06/accessible-disclosure-button-using-web-components/)
+- [Building an Accessible Disclosure Button – using Web Components](https://stevefaulkner.github.io/Articles/Building%20an%20Accessible%20Disclosure%20Button%20%E2%80%93%20using%20Web%20Components.html)
 - [The Road to Web Components](https://youtu.be/yLyyXHhSl8w)
 - [The Web Components Revolution is Here](https://youtu.be/3QLmAm9xtnU)
 - [Web Components: A chance to create the future](https://youtu.be/JUzjr1bIRUg)
@@ -743,7 +762,6 @@ These materials are here for historical reasons only, they are grouped by years 
 - [Working with Shadow DOM](https://blog.teamtreehouse.com/working-with-shadow-dom)
 - [Breaking Development: Web Components](https://www.lukew.com/ff/entry.asp?1752)
 - [Web Components: A Tectonic Shift for Web Development - Google I/O 2013](https://youtu.be/fqULJBBEVQE)
-- [Web Components: Getting Started](https://vimeo.com/68212204)
 - [Shadow DOM 101](https://web.dev/shadowdom/)
 - [Shadow DOM 201](https://web.dev/shadowdom-201/)
 - [Shadow DOM 301](https://web.dev/shadowdom-301/)
@@ -754,7 +772,7 @@ These materials are here for historical reasons only, they are grouped by years 
 #### 2012
 
 - [The Basics of the Shadow DOM](https://www.sitepoint.com/the-basics-of-the-shadow-dom/)
-- [Notes on Web Components + ARIA](https://developer.paciellogroup.com/blog/2012/07/notes-on-web-components-aria/)
+- [Notes on Web Components + ARIA](https://stevefaulkner.github.io/Articles/Notes%20on%20Web%20Components%20+%20ARIA.html)
 - [Google I/O 2012 - The Web Platform's Cutting Edge](https://youtu.be/2txPYQOWBtg)
 - [Introduction to Web Components](https://www.w3.org/TR/2012/WD-components-intro-20120522/)
 
@@ -762,65 +780,6 @@ These materials are here for historical reasons only, they are grouped by years 
 
 - [Web Components and Model Driven Views by Alex Russell](https://fronteers.nl/congres/2011/sessions/web-components-and-model-driven-views-alex-russell)
 - [What the Heck is Shadow DOM?](https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
-
-## Who To Follow
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href="https://twitter.com/polymer">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1063502058337136640/RmlG_bbW_80x80.jpg">
-          <div>Polymer</div>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/stenciljs">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1135534552137510914/5ZzvOFFp_80x80.png">
-          <div>Stencil</div>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/openwc">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1101188623930662912/YKlBD7n6_80x80.png">
-          <div>open-wc.org</div>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/webcomp_dev">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1169270943371407360/U-90Bxn0_80x80.jpg">
-          <div>webcomponents.dev</div>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://twitter.com/justinfagnani">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/378800000808710206/2dbdaa1cb7b0db02f997aea5b40f29b8_80x80.jpeg">
-          <div>Justin Fagnani</div>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/viljamis">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/671595827740086273/wCUWq-1S_80x80.png">
-          <div>Viljami Salminen</div>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/JanMiksovsky">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/675000078055051264/u1ZEQfeE_80x80.jpg">
-          <div>Jan Miksovsky</div>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/serhiikulykov">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1028197887329685504/cM6nOHlp_80x80.jpg">
-          <div>Serhii Kulykov</div>
-        </a>
-      </td>
-    </tr>
-  <tbody>
-</table>
 
 ## Maintainers
 
