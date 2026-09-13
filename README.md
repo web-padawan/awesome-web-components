@@ -295,6 +295,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [`<file-viewer>`](https://github.com/avipunes/file-viewer) - Web component built with Svelte to view files.
 - [`<json-viewer>`](https://github.com/alenaksu/json-viewer) - Web component to visualize JSON data in a tree view.
 - [`<lite-youtube>`](https://github.com/paulirish/lite-youtube-embed) - Lite YouTube embed with a focus on visual performance.
+- [`<live-photo>`](https://github.com/Feirobot/live-photo-component) - Zero-dependency Web Component for playing and detecting Apple Live Photos and Android Motion Photos.
 - [`<midi-player>`](https://github.com/cifkao/html-midi-player) - MIDI file player and visualizer web components.
 - [`<model-viewer>`](https://github.com/google/model-viewer) - Web component for rendering interactive 3D models.
 - [`<notectl-editor>`](https://github.com/Samyssmile/notectl) - Modern rich text editor with plugin architecture, immutable state, and zero-config framework-agnostic deployment.
