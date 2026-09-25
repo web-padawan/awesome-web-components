@@ -348,7 +348,6 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [PlayCanvas Web Components](https://github.com/playcanvas/web-components) - Custom elements for building 3D interactive web apps with the PlayCanvas Engine.
 - [Playground Elements](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
 - [seele](https://github.com/vollowx/seele) - An extensible Web Components library, with Material Design 3 components pre-provided.
-- [Shoelace](https://github.com/shoelace-style/shoelace) - A forward-thinking library of web components.
 - [Smart Web Components](https://github.com/HTMLElements/smart-webcomponents) - Web components for business applications.
 - [Snice](https://snice.dev) - Comprehensive and full-featured component library and web component design system.
 - [Stripe Elements](https://github.com/bennypowers/stripe-elements) - Custom Element Wrapper for Stripe.js v3 Elements.
