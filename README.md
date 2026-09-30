@@ -306,6 +306,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [`<range-slider>`](https://github.com/andreruffert/range-slider-element) - Accessible range slider custom element with keyboard support.
 - [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web component for creating documentation from OpenAPI Specification.
 - [`<shader-doodle>`](https://github.com/halvves/shader-doodle) - Web component for writing and rendering shaders.
+- [`<tactile-odometer>`](https://github.com/cipriantitire/tactile-odometer) - Mechanical drum counter that carries like a real odometer, with no dependencies.
 - [`<theme-switch>`](https://github.com/mahozad/theme-switch) - Animated toggle button to switch between light, dark, and system theme.
 - [`<trix-editor>`](https://github.com/basecamp/trix) - Rich text editor custom element for everyday writing.
 - [`<vime-player>`](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player.
