@@ -337,6 +337,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Lion Web Components](https://github.com/ing-bank/lion) - Set of highly performant, accessible and flexible Web Components.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project.
 - [Lume](https://github.com/lume/lume) - Custom elements for 3D graphics. Built with Three.js for WebGL/WebGPU rendering, and Solid.js for reactivity and templating.
+- [Marvelous UI](https://github.com/marvelous-ui/marvelous-ui) - Framework-agnostic custom elements and CSS components with design tokens and no runtime dependencies, usable in plain HTML, React, Vue, Svelte, Angular and Astro.
 - [Medblocks UI](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
 - [Morpheus](https://github.com/romshark/morpheus) - An experimental web components UI kit.
 - [Mutation testing elements](https://github.com/stryker-mutator/mutation-testing-elements) - A schema for mutation testing results with the web components to visualize it.
