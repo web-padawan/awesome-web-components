@@ -285,6 +285,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) - API documentation and live playground for Web Components.
 - [`<aura-router>`](https://github.com/aura-ui/router) - HTML-first client-side router web component.
 - [`<chess-board>`](https://github.com/justinfagnani/chessboard-element) - Standalone chess board web component.
+- [`<cron-ai>`](https://github.com/abozaralizadeh/cronai) - Plain-English schedule picker that turns text into cron expressions with a tiny on-device model, no server needed.
 - [`<css-doodle>`](https://github.com/css-doodle/css-doodle) - Web component for drawing patterns with CSS.
 - [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle) - Custom element that allows to create a dark mode toggle or switch.
 - [`<deep-chat>`](https://github.com/OvidijusParsiunas/deep-chat) - Web component for chat with AI capabilities.
