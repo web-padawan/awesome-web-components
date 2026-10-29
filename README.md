@@ -490,6 +490,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [AMP](https://github.com/ampproject/amphtml) - Web component framework to easily create user-first experiences for the web.
 - [Enhance](https://enhance.dev/docs/) - Web standards-based HTML framework for building lightweight web applications.
 - [luna-js](https://github.com/webtides/luna-js) - SSR framework that makes working with the WebComponents standard a breeze.
+- [OpenElement](https://openelement.org) - Web Platform-first fullstack framework that compiles JSX into custom elements with streaming SSR and no-walk hydration.
 - [Rocket](https://rocket.modern-web.dev) - Modern web setup for static sites with a sprinkle of JavaScript.
 - [Web Components Compiler](https://github.com/ProjectEvergreen/wcc) - Compiler to make server-side rendering of native web components easier.
 - [WebC](https://github.com/11ty/webc) - Framework-independent standalone HTML serializer for generating markup for web components.
