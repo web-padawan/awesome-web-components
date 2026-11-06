@@ -349,6 +349,10 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Pixano Elements](https://github.com/pixano/pixano-elements) - Re-usable web components dedicated to data annotation tasks.
 - [PlayCanvas Web Components](https://github.com/playcanvas/web-components) - Custom elements for building 3D interactive web apps with the PlayCanvas Engine.
 - [Playground Elements](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
+- [RevoGrid Gantt](https://github.com/revolist/gantt) - Gantt charts and project planning for the `<revo-grid>` web component. Commercial with a 30-day trial.
+- [RevoGrid Kanban](https://github.com/revolist/kanban) - Workflow boards, swimlanes, and card editing for the `<revo-grid>` web component. Commercial with a 30-day trial.
+- [RevoGrid Pivot](https://github.com/revolist/pivot) - Pivot tables, aggregation, and analytical reports for the `<revo-grid>` web component. Commercial with a 30-day trial.
+- [RevoGrid Scheduler](https://github.com/revolist/scheduler) - Calendar and resource scheduling for the `<revo-grid>` web component. Commercial with a 30-day trial.
 - [seele](https://github.com/vollowx/seele) - An extensible Web Components library, with Material Design 3 components pre-provided.
 - [Smart Web Components](https://github.com/HTMLElements/smart-webcomponents) - Web components for business applications.
 - [Snice](https://snice.dev) - Comprehensive and full-featured component library and web component design system.
