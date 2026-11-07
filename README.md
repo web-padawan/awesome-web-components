@@ -282,6 +282,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 ### Components
 
 - [`<active-table>`](https://github.com/OvidijusParsiunas/active-table) - Editable table web component.
+- [`<aparte-chat>`](https://github.com/apartejs/aparte) - AI chat with streaming Markdown and tool calls a user approves, with wrappers for React, Vue, Svelte and Angular.
 - [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) - API documentation and live playground for Web Components.
 - [`<aura-router>`](https://github.com/aura-ui/router) - HTML-first client-side router web component.
 - [`<chess-board>`](https://github.com/justinfagnani/chessboard-element) - Standalone chess board web component.
