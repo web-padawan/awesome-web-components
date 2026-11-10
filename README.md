@@ -376,6 +376,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Crayons](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
 - [Fluent UI Web Components](https://github.com/microsoft/fluentui/tree/master/packages/web-components) - Library of Web Components that supports Microsoft's Fluent design language.
 - [Forge Components](https://github.com/tyler-technologies-oss/forge) - Library of Web Components adhering to the Forge Design System.
+- [ind-ds](https://github.com/christophe77/ind-ds) - Industrial design system for HMI/SCADA interfaces, with ISA-18.2 alarm states and MQTT live data binding.
 - [Liquid](https://github.com/emdgroup-liquid/liquid) - UI component library based on the Liquid Design System.
 - [Lyne Components](https://github.com/sbb-design-systems/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
 - [Material Web Components](https://github.com/material-components/material-web) - Material Design implemented as Web Components.
