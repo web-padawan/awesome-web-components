@@ -303,6 +303,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [`<qr-code>`](https://github.com/bitjson/qr-code) – Web component for rendering customizable, animate-able, SVG-based QR codes.
 - [`<range-slider>`](https://github.com/andreruffert/range-slider-element) - Accessible range slider custom element with keyboard support.
 - [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web component for creating documentation from OpenAPI Specification.
+- [`<scroll-draw>`](https://github.com/DhruvilChauahan0210/ink-scroll) - Draws the SVG paths inside it as the page scrolls, on the native CSS scroll timeline with a JS fallback; no build step, zero dependencies.
 - [`<shader-doodle>`](https://github.com/halvves/shader-doodle) - Web component for writing and rendering shaders.
 - [`<theme-switch>`](https://github.com/mahozad/theme-switch) - Animated toggle button to switch between light, dark, and system theme.
 - [`<trix-editor>`](https://github.com/basecamp/trix) - Rich text editor custom element for everyday writing.
