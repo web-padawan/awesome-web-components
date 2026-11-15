@@ -319,6 +319,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [AXA Pattern Library](https://github.com/axa-ch-webhub-cloud/pattern-library) - AXA CH UI components library built with Web Components.
 - [AWC UI](https://github.com/awc-ui/core) - Material Design 3 component library built with Stencil and shipped as custom elements.
 - [Bezel](https://github.com/ShazMoghaddam/bezel) - Clock, calendar and weather tiles as zero-dependency, vector-drawn web components.
+- [Bezel Charts](https://github.com/ShazMoghaddam/bezel-charts) - Sixteen zero-dependency SVG chart components with light and dark themes, keyboard access and static SVG export.
 - [Blackstone UI](https://github.com/kjantzer/bui) - Web components for creating interfaces by Blackstone Publishing.
 - [Blaze UI Atoms](https://github.com/BlazeSoftware/atoms) - Set of web components powered by Blaze CSS.
 - [Brightspace UI core](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
