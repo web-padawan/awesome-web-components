@@ -289,6 +289,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle) - Custom element that allows to create a dark mode toggle or switch.
 - [`<deep-chat>`](https://github.com/OvidijusParsiunas/deep-chat) - Web component for chat with AI capabilities.
 - [`<emoji-picker>`](https://github.com/nolanlawson/emoji-picker-element) - Lightweight emoji picker, distributed as a web component.
+- [`<favicon-icon>`](https://github.com/peleda-app/favicons/tree/main/clients/js) - Web component that shows any website's icon as a sandboxed SVG from a self-hostable favicon service.
 - [`<fg-modal>`](https://github.com/filamentgroup/fg-modal) - Accessible modal dialog web component.
 - [`<file-viewer>`](https://github.com/avipunes/file-viewer) - Web component built with Svelte to view files.
 - [`<json-viewer>`](https://github.com/alenaksu/json-viewer) - Web component to visualize JSON data in a tree view.
